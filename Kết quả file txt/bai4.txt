@@ -1,0 +1,3601 @@
+a	 Agilent Technologies 	0.128
+aa	 Alcoa Inc. 	0.605
+aaba	 - 	14.532
+aaba	 - 	14.532
+aame	 Atlantic American Corp. 	47.8403
+aan	 Aaron's Inc 	37.342
+aan	 Aaron's Inc 	0.871
+aaon	 Aaon 	10.7565
+aaon	 Aaon 	0.0837
+aapl	 Apple Inc. 	0.2804
+aau	 - 	5.7403
+aau	 - 	5.7403
+aav	 Advantage Oil & Gas Ltd 	0.96
+aaww	 Atlas Air Worldwide Holdings 	0.5
+aaxn	 - 	25.65
+aaxn	 - 	25.65
+ab	 Alliance Capital Management L.P. 	2.712
+ab	 Alliance Capital Management L.P. 	0.348
+abax	 Abaxis 	15.357
+abax	 Abaxis 	3.083
+abb	 Abb Ltd 	11.6646
+abb	 Abb Ltd 	0.0872
+abcb	 Ameris Bancorp 	0.119
+abcb	 Ameris Bancorp 	0.78
+abe	 - 	17.3627
+abe	 - 	17.3627
+abg	 - 	7.445
+abg	 - 	7.445
+abio	 Arca Biopharma 	252.0
+abm	 Abm Industries Incorporated 	7072.358
+abmd	 Abiomed 	8.466
+abr	 Arbor Realty Trust 	0.051
+abt	 Abbot Laboratories 	0.291
+abx	 Barrick Gold Corp. 	1.044
+acad	 Acadia Pharmaceuticals Inc. 	13.621
+acet	 Aceto Corp. 	6.0778
+acet	 Aceto Corp. 	0.0626
+acgl	 Arch Capital Group Ltd 	0.756
+ach	 Aluminum Corporation of China Ltd. 	1.255
+ach	 Aluminum Corporation of China Ltd. 	0.06
+aciw	 Aci Worldwide 	5.281
+acls	 Axcelis Technologies 	0.88
+acn	 Accenture Plc. 	0.469
+acn	 Accenture Plc. 	0.212
+acnb	 Acnb Corp. 	8.221
+acta	 - 	13.903
+acta	 - 	13.903
+actg	 Acacia Research Corp. 	16.6759
+acxm	 Acxiom Corp. 	0.9
+acy	 - 	17.36
+acy	 - 	17.36
+adbe	 Adobe Systems Incorporated 	1.42
+adc	 Agree Realty Corp. 	13.948
+adc	 Agree Realty Corp. 	0.17
+adm	 Archer-Daniels-Midland Company 	8.498
+adp	 Automatic Data Processing 	0.4
+adsk	 Autodesk 	3.05
+adtn	 Adtran 	20.801
+adtn	 Adtran 	1.68
+adx	 Adams Express Company 	20.8992
+adx	 Adams Express Company 	0.0206
+aee	 Ameren Corp. 	1.379
+aeg	 Aegon Nv 	27.843
+aeg	 Aegon Nv 	0.139
+aehr	 Aehr Test Systems 	8.263
+aehr	 Aehr Test Systems 	0.63
+aeis	 Advanced Energy Industries 	1.17
+ael	 American Equity Investment Life 	0.113
+aem	 Agnico-Eagle Mines Limited 	0.318
+aeo	 American Eagle Outfitters 	1.378
+aep	 American Electric Power Company 	0.306
+aes	 The Aes Corp. 	14.618
+aes	 The Aes Corp. 	0.19
+aet	 Aetna Inc. 	0.542
+aeti	 American Electric Technologies 	31.13
+aey	 Addvantage Technologies Group 	5.3
+aezs	 Aeterna Zentaris 	18.0
+afam	 Almost Family Inc 	1583.1919
+afam	 Almost Family Inc 	0.227
+afb	 Alliance National Municipal 	0.132
+afl	 Aflac Incorporated 	1.348
+ag	 First Majestic Silver 	38.387
+agen	 Agenus Inc. 	0.54
+agm	 Federal Agricultural Mortgage Corp. 	60.493
+agm	 Federal Agricultural Mortgage Corp. 	0.855
+agn	 Allergan 	0.367
+ago	 Assured Guaranty Ltd 	16.827
+ago	 Assured Guaranty Ltd 	0.658
+agu	 Agrium Inc. 	2.46
+agu	 Agrium Inc. 	0.598
+agx	 - 	15.3095
+agx	 - 	15.3095
+agys	 Agilysys 	1.359
+agys	 Agilysys 	0.22
+ahl	 Aspen Insurance Holdings 	1.058
+ahl_c	 - 	4.448
+ahl_c	 - 	4.448
+ahpi	 Allied Healthcare Products 	10.236
+aht	 Ashford Hospitality Trust Inc 	5.8106
+aht	 Ashford Hospitality Trust Inc 	0.1363
+ai	 Arlington Asset Investment Corp 	0.764
+aig	 American International Group 	9.56
+ain	 Albany International Corp. 	1166.087
+ainv	 Apollo Investment Corp. 	24.8408
+ainv	 Apollo Investment Corp. 	0.213
+airt	 Air T 	4.9524
+ait	 Applied Industrial Technologies 	0.372
+aiv	 Apartment Investment And Management 	0.862
+aiz	 Assurant 	0.964
+ajg	 Arthur J. Gallagher & Co. 	9.914
+ajg	 Arthur J. Gallagher & Co. 	0.475
+ajrd	 - 	4.742
+ajrd	 - 	4.742
+akam	 Akamai Technologies 	6.672
+akam	 Akamai Technologies 	0.31
+akp	 Alliance California Muni 	6.978
+akr	 Acadia Realty Trust 	0.626
+akrx	 Akorn 	10.169
+akrx	 Akorn 	0.17
+aks	 Ak Steel Holding Corp. 	0.4182
+alb	 Albemarle Corp. 	0.034
+alco	 Alico 	1.205
+ale	 Allete 	11.132
+ale	 Allete 	0.633
+alex	 Alexander And Baldwin Inc 	12.037
+alex	 Alexander And Baldwin Inc 	1.088
+alg	 Alamo Group 	4.0
+algn	 Align Technology 	11.257
+algn	 Align Technology 	0.4
+alk	 Alaska Air Group 	0.5865
+alk	 Alaska Air Group 	0.2371
+alks	 Alkermes 	0.94
+alny	 Alnylam Pharmaceuticals 	35.225
+alny	 Alnylam Pharmaceuticals 	0.09
+alot	 Astro-Med 	39.5923
+alsk	 Alaska Communications Systems 	0.3952
+alt	 - 	1.671
+alt	 - 	1.671
+alv	 Autoliv 	2.431
+alx	 Alexander's 	0.44
+alxn	 Alexion Pharmaceuticals 	133.485
+alxn	 Alexion Pharmaceuticals 	0.26
+amat	 Applied Materials 	0.172
+amd	 Advanced Micro Devices 	1.02
+ame	 Amtek 	10.679
+amed	 Amedisys Inc 	0.34
+amg	 Affiliated Managers Group   	2.151
+amgn	 Amgen Inc. 	9.021
+amgn	 Amgen Inc. 	0.752
+amkr	 Amkor Technology 	62.495
+amkr	 Amkor Technology 	0.61
+amot	 Allied Motion Technologies 	12.8718
+amov	 America Movil S.A.B. De C.V. 	0.2954
+amp	 Ameriprise Financial Services 	3.666
+amrb	 American River Bankshares 	13.582
+amrb	 American River Bankshares 	0.601
+amrn	 Amarin Corporation Plc 	5.13
+amrn	 Amarin Corporation Plc 	0.12
+ams	 - 	7.91
+ams	 - 	7.91
+amsc	 American Superconductor Corp. 	0.1
+amswa	 American Software 	81.1294
+amt	 American Tower Corp. 	0.346
+amtd	 TD Ameritrade Holding Corp. 	8.031
+amtd	 TD Ameritrade Holding Corp. 	0.816
+amwd	 American Woodmark Corp. 	0.961
+amx	 American Movil S.A.B. De C.V. 	21.74
+amx	 American Movil S.A.B. De C.V. 	0.54
+amzn	 Amazon.Com 	1.1
+an	 Autonation 	27.75
+anat	 American National Insurance 	3.776
+ancx	 Access National Corp. 	87.3014
+ande	 The Andersons 	0.3343
+ango	 Angiodynamics 	19.136
+ango	 Angiodynamics 	1.17
+anh	 Anworth Mortgage Asset Corp. 	19.2795
+anh	 Anworth Mortgage Asset Corp. 	0.1294
+anik	 Anika Therapeutics Inc. 	0.15
+anip	 Ani Pharmaceuticals Inc. 	5.04
+anss	 Ansys 	92.85
+anss	 Ansys 	0.05
+aobc	 - 	13.89
+aobc	 - 	13.89
+aon	 Aon Plc 	1.171
+aon	 Aon Plc 	1.749
+aos	 Smith [A.O.] Corp. 	27.2122
+aos	 Smith [A.O.] Corp. 	0.0361
+aoxg	 - 	4.0219
+apa	 Apache Corp. 	1.552
+apb	 Asia Pacific Fund Inc. 	53.8625
+apb	 Asia Pacific Fund Inc. 	0.0186
+apc	 Anadarko Petroleum Corp. 	1.764
+apd	 Air Products And Chemicals 	1.685
+apdn	 - 	18.3246
+apdn	 - 	18.3246
+apf	 Morgan Stanley Asia Pacific Fund Inc. 	37.6264
+apf	 Morgan Stanley Asia Pacific Fund Inc. 	0.1058
+aph	 Amphenol Corp. 	0.3085
+apog	 Apogee Enterprises 	0.064
+apt	 - 	199.3
+apt	 - 	199.3
+apu	 Amerigas Partners L.P. 	185.222
+arcc	 Ares Capital Corp. 	9.6326
+arcc	 Ares Capital Corp. 	0.0258
+arci	 Appliance Recycling Centers 	2.5732
+arcw	 Arc Wireless Solutions 	1.1548
+arcw	 Arc Wireless Solutions 	0.1948
+are	 Alexandria Real Estate Equities 	0.721
+arkr	 Ark Restaurants 	48.062
+arkr	 Ark Restaurants 	0.028
+arl	 American Realty Investors 	7.464
+arl	 American Realty Investors 	0.13
+arlp	 Alliance Resource Partners L.P. 	1.0
+arlz	 - 	4.8033
+arlz	 - 	4.8033
+arna	 Arena Pharmaceuticals 	2.2
+arow	 Arrow Financial Corp. 	85.311
+arow	 Arrow Financial Corp. 	0.399
+arql	 Arqule 	9.228
+arql	 Arqule 	0.19
+arry	 Array Biopharma Inc. 	2.46
+artw	 Art'S-Way Manufacturing Co. 	13.1032
+artw	 Art'S-Way Manufacturing Co. 	0.0379
+artx	 Arotech Corp. 	0.63
+arw	 Arrow Electronics 	0.09
+asa	 Asa Gold And Precious Metals 	15.071
+asa	 Asa Gold And Precious Metals 	0.66
+asfi	 Asta Funding 	0.293
+asg	 Liberty All-Star Growth Fund 	24.2738
+asg	 Liberty All-Star Growth Fund 	0.0517
+asgn	 On Assignment 	0.28
+ash	 Ashland Inc. 	0.252
+asml	 Asml Holding N.V. 	7.228
+asml	 Asml Holding N.V. 	0.361
+asna	 Ascena Retail Group 	7.192
+asna	 Ascena Retail Group 	0.16
+asrv	 Ameriserv Financial Inc. 	22.9628
+aste	 Astec Industries 	23.757
+aste	 Astec Industries 	2.344
+asur	 Asure Software Inc 	17.6203
+asur	 Asure Software Inc 	1.4663
+asx	 Advanced Semiconductor Engineering 	9.3005
+asx	 Advanced Semiconductor Engineering 	0.0566
+asys	 Amtech Systems 	0.36
+at	 Atlantic Power Corp. 	0.1052
+at	 Atlantic Power Corp. 	0.4133
+atax	 America First Tax Exempt L.P. 	2.1422
+ati	 Allagheny Technologies Inc. 	1.519
+atlc	 Atlanticus Holdings Corp. 	1.31
+atlo	 Ames National Corp. 	15.968
+atlo	 Ames National Corp. 	1.638
+atni	 Atlantic Tele-Network 	10.524
+ato	 Atmos Energy Llc 	0.267
+atrc	 Atricure 	8.297
+atro	 Astronics Corp. 	9.2923
+atro	 Astronics Corp. 	0.2136
+atrs	 Antares Pharma 	3.2913
+atrs	 Antares Pharma 	0.06
+atu	 Actuant Corp. 	0.098
+atvi	 Activision Blizzard Inc 	16.7848
+atvi	 Activision Blizzard Inc 	0.2966
+au	 Anglogold Ashanti Ltd 	2.122
+aubn	 Auburn National Bancorporation 	23.694
+audc	 Audiocodes Ltd 	7.214
+audc	 Audiocodes Ltd 	0.59
+auo	 Au Optronics Corp 	2.1092
+auo	 Au Optronics Corp 	0.4814
+auy	 Yamana Gold 	5.9931
+auy	 Yamana Gold 	0.251
+ava	 Avista Corp. 	0.339
+avb	 Avalonbay Communities 	2.469
+avd	 American Vanguard Corp. 	53.191
+avd	 American Vanguard Corp. 	0.736
+avhi	 Av Homes Inc 	2.26
+avid	 Avid Technology 	18.21
+avk	 Advent Claymore Convertible Securities 	26.587
+avk	 Advent Claymore Convertible Securities 	0.402
+avp	 Avon Products 	0.129
+avt	 Avnet 	1.536
+avt	 Avnet 	0.244
+avx	 Avx Corp. 	12.63
+avx	 Avx Corp. 	0.164
+avy	 Avery Dennison Corp. 	2.92
+awf	 Alliance World Dollar Fund II 	40.7971
+awf	 Alliance World Dollar Fund II 	0.0267
+awr	 American States Water Company 	0.286
+awre	 Aware 	9.4689
+awre	 Aware 	0.212
+axdx	 Accelerate Diagnostics Inc. 	3.53
+axdx	 Accelerate Diagnostics Inc. 	0.04
+axe	 Anixter International Inc. 	0.587
+axl	 American Axle & Manufacturing 	10.492
+axl	 American Axle & Manufacturing 	0.92
+axp	 American Express Company 	1.505
+axr	 Amrep Corp. 	23.055
+axs	 Axis Capital Holdings 	0.448
+axti	 Axt Inc 	21.668
+axti	 Axt Inc 	0.33
+ayi	 Acuity Brands Inc 	0.28
+azn	 Astrazeneca Plc 	6.109
+azn	 Astrazeneca Plc 	0.35
+azpn	 Aspen Technology 	74.05
+azpn	 Aspen Technology 	0.19
+azz	 Azz Inc. 	1.6066
+baby	 Natus Medical Inc. 	1.69
+baf	 - 	5.6632
+baf	 - 	5.6632
+bak	 - 	0.497
+bak	 - 	0.497
+bam	 - 	3.615
+bam	 - 	3.615
+banf	 Bancfirst Corp. 	0.893
+basi	 Bioanalytical Systems 	12.472
+basi	 Bioanalytical Systems 	0.46
+bbby	 Bed Bath & Beyond Inc. 	1.155
+bbd	 - 	35.8401
+bbd	 - 	35.8401
+bbf	 - 	28.951
+bbf	 - 	28.951
+bbg	 - 	6.374
+bbg	 - 	6.374
+bbgi	 Beasley Broadcast Group 	26.143
+bbk	 - 	2.699
+bbk	 - 	2.699
+bbsi	 Barrett Business Services 	13.988
+bbsi	 Barrett Business Services 	1.668
+bbva	 - 	10.805
+bbva	 - 	10.805
+bce	 Bce 	4.748
+bco	 Brink's Company 	8.316
+bco	 Brink's Company 	0.512
+bcor	 Blucora Inc. 	11.855
+bcor	 Blucora Inc. 	0.33
+bcpc	 Balchem Corp. 	0.6815
+bcr	 C.R. Bard 	0.096
+bcrx	 Biocryst Pharmaceuticals 	45.843
+bcrx	 Biocryst Pharmaceuticals 	0.45
+bcs	 Barclays Plc 	1.132
+bcv	 - 	20.124
+bcv	 - 	20.124
+bdc	 Belden Inc 	12.412
+bdc	 Belden Inc 	0.204
+bdj	 Blackrock Enhanced Dividend Achievers 	10.4641
+bdn	 Brandywine Realty Trust 	0.11
+bdr	 - 	19.093
+bdr	 - 	19.093
+bdsi	 Biodelivery Sciences International 	19.253
+bdsi	 Biodelivery Sciences International 	0.25
+bebe	 Bebe Stores 	3.15
+becn	 Beacon Roofing Supply 	110.05
+ben	 Franklin Resources 	7.89
+ben	 Franklin Resources 	1.334
+bfin	 Bankfinancial Corp. 	13.025
+bfin	 Bankfinancial Corp. 	0.367
+bfk	 Blackrock Florida Muni 2020 Trust 	2.737
+bfk	 Blackrock Florida Muni 2020 Trust 	0.215
+bfr	 Bbva Banco Frances S.A. 	4.4571
+bfr	 Bbva Banco Frances S.A. 	0.338
+bfs	 Saul Centers 	0.215
+bfy	 - 	19.8039
+bfy	 - 	19.8039
+bfz	 Blackrock California Muni Trust 	18.991
+bfz	 Blackrock California Muni Trust 	0.249
+bgc	 General Cable Corp. 	32.108
+bgc	 General Cable Corp. 	0.333
+bgcp	 Bgc Partners 	9.3107
+bgcp	 Bgc Partners 	0.0422
+bgfv	 Big 5 Sporting Goods Corp. 	0.242
+bgr	 Blackrock Energy And Resources Trust 	15.909
+bgr	 Blackrock Energy And Resources Trust 	0.122
+bgt	 Blackrock Global 	1.797
+bgt	 Blackrock Global 	0.169
+bh	 Biglari Holdings Inc. 	8.4
+bhb	 - 	372.169
+bhb	 - 	372.169
+bhe	 Benchmark Electronics 	362.47
+bhk	 Blackrock Core Trust 	10.6777
+bhk	 Blackrock Core Trust 	0.1487
+bhlb	 Berkshire Hills Bancorp 	1.153
+bhp	 Bhp Billiton Limited 	5.002
+bhp	 Bhp Billiton Limited 	0.319
+bhv	 - 	12.38
+bhv	 - 	12.38
+bid	 Sotheby's Holdings 	10.05
+bidu	 Baidu 	7.102
+bidu	 Baidu 	2.41
+bif	 Uslife Income Fund 	4.06
+bif	 Uslife Income Fund 	0.0383
+big	 Big Lots 	0.292
+biib	 Biogen Idec Inc 	1.087
+bio	 Bio-Rad Laboratories 	1.0
+biol	 Biolase Technology 	49.3306
+bjri	 Bj's Restaurants 	1.555
+bjz	 Blackrock California Muni 2018 Trust 	9.063
+bjz	 Blackrock California Muni 2018 Trust 	0.064
+bk	 Bank Of New York Mellon Corp. 	0.651
+bke	 Buckle 	19.2221
+bke	 Buckle 	0.1137
+bkh	 Black Hills Corp. 	1.262
+bkk	 Blackrock Muni 2020 Trust 	22.193
+bkk	 Blackrock Muni 2020 Trust 	0.098
+bkmu	 Bank Mutual Corp. 	2.138
+bkmu	 Bank Mutual Corp. 	0.0533
+bkn	 Blackrock Investment Quality Municipal 	0.252
+bks	 Barnes & Noble 	0.114
+bkt	 Blackrock Income Trust Inc. 	16.8397
+bldp	 Ballard Power Systems 	0.14
+bldr	 Builders Firstsource 	1.13
+ble	 - 	10.042
+ble	 - 	10.042
+blh	 Blackrock New York Muni 2018 Trust 	7.8
+blh	 Blackrock New York Muni 2018 Trust 	0.009
+blj	 - 	1.689
+blj	 - 	1.689
+blk	 Blackrock 	0.665
+blkb	 Blackbaud 	63.639
+blkb	 Blackbaud 	0.323
+bll	 Ball Corp. 	4.8078
+bll	 Ball Corp. 	0.208
+blw	 Blackrock Limited Duration Income Trust 	0.163
+blx	 Banco Latinoamericano De Comercio 	0.39
+bme	 Blackrock Health Sciences Trust 	0.211
+bmi	 Badger Meter 	3.4719
+bmo	 Bank Of Montreal 	0.096
+bmrc	 Bank Of Marin Bancorp 	7.301
+bmrc	 Bank Of Marin Bancorp 	0.577
+bmrn	 Biomarin Pharmaceutical Inc. 	21.106
+bmrn	 Biomarin Pharmaceutical Inc. 	0.53
+bms	 Bemis Company 	0.979
+bmtc	 Bryn Mawr Bank Corp. 	3.595
+bmtc	 Bryn Mawr Bank Corp. 	0.26
+bmy	 Bristol-Myers Squibb Company 	0.358
+bmy	 Bristol-Myers Squibb Company 	0.008
+bnj	 Blackrock New Jersey Muni Income Trust 	6.82
+bnj	 Blackrock New Jersey Muni Income Trust 	0.064
+bnso	 Bonso Electronics International 	22.366
+bny	 Blackrock New York Muni Trust Inc. 	0.334
+bobe	 Bob Evans Farms 	0.124
+boch	 Bank Of Commerce Holdings [Ca] 	7.8925
+boe	 Blackrock Global 	0.304
+bofi	 Bofi Holding 	9.166
+boh	 Bank Of Hawaii Corp. 	0.771
+bokf	 Bok Financial Corp. 	4.107
+bokf	 Bok Financial Corp. 	0.544
+bont	 The Bon-Ton Stores 	21.516
+bont	 The Bon-Ton Stores 	0.112
+boom	 Dynamic Materials Corp. 	1.259
+bosc	 B.O.S. Better Online Solutions 	1.96
+bp	 Bp P.L.C. 	6.483
+bp	 Bp P.L.C. 	0.337
+bpfh	 Boston Private Financial Holdings 	21.91
+bpfh	 Boston Private Financial Holdings 	0.862
+bpk	 Blackrock Muni 2018 Trust 	12.473
+bpk	 Blackrock Muni 2018 Trust 	0.12
+bpl	 Buckeye Partners L.P. 	0.502
+bpt	 Bp Prudhoe Bay Royalty Trust 	168.925
+bpt	 Bp Prudhoe Bay Royalty Trust 	0.709
+bqh	 Blackrock New York Muni Trust    	22.546
+bqh	 Blackrock New York Muni Trust    	0.097
+brc	 Brady Corp. 	0.718
+brcd	 Brocade Communications Systems 	20.1549
+brcd	 Brocade Communications Systems 	0.0471
+brew	 Craft Brewers Alliance Inc 	0.5662
+brew	 Craft Brewers Alliance Inc 	0.11
+brid	 Bridgford Foods Corp. 	0.23
+brkr	 Bruker Corp. 	5.6093
+brks	 Brooks Automation 	0.009
+bro	 Brown & Brown 	1.286
+brs	 Bristow Group Inc 	0.744
+brt	 Brt Realty Trust 	13.491
+brt	 Brt Realty Trust 	0.078
+bsac	 Banco Santander-Chile Ads 	3.694
+bsd	 Blackrock Strategic Muni Trust Inc. 	2.011
+bsd	 Blackrock Strategic Muni Trust Inc. 	0.294
+bse	 Blackrock New York Muni Income Trust 	1.42
+bse	 Blackrock New York Muni Income Trust 	0.101
+bset	 Bassett Furniture Industries Inc. 	0.167
+bsqr	 Bsquare Corp. 	10.611
+bsrr	 Sierra Bancorp 	0.722
+bstc	 Biospecifics Technologies Corp 	18.556
+bsx	 Boston Scientific Corp. 	0.95
+bt	 Bt Group Plc 	9.977
+bte	 Baytex Energy Corp 	5.2198
+bte	 Baytex Energy Corp 	1.3708
+btn	 - 	5.81
+btn	 - 	5.81
+bto	 John Hancock Bank And Thrift Fund 	0.115
+btx	 - 	17.006
+btx	 - 	17.006
+buse	 First Busey Corp. 	1.763
+bvn	 Compania Mina Beunaventura S.A. 	35.675
+bvn	 Compania Mina Beunaventura S.A. 	1.39
+bvx	 - 	13.71
+bvx	 - 	13.71
+bwa	 Borgwarner Inc. 	2.529
+bwa	 Borgwarner Inc. 	0.177
+bwen	 Broadwind Energy 	2.148
+bwinb	 Baldwin & Lyons 	0.326
+bwld	 Buffalo Wild Wings 	1.814
+bxc	 Bluelinx Holdings Inc. 	1.5
+bxmt	 Blackstone Mortgage Trust Inc. CI A 	35.367
+bxmt	 Blackstone Mortgage Trust Inc. CI A 	4.527
+bxmx	 - 	88.235
+bxmx	 - 	88.235
+bxp	 Boston Properties 	50.987
+bxp	 Boston Properties 	1.289
+bxs	 Bancorpsouth 	30.121
+bxs	 Bancorpsouth 	0.693
+bybk	 - 	6.384
+byd	 Boyd Gaming Corp. 	2.222
+byfc	 Broadway Financial Corp. 	32.761
+byfc	 Broadway Financial Corp. 	0.54
+bym	 Blackrock Muni Income Quality Trust 	1.8043
+bym	 Blackrock Muni Income Quality Trust 	0.1232
+bzh	 Beazer Homes USA 	9.75
+bzm	 - 	281.394
+c	 Citigroup Inc. 	4.56
+ca	 CA Inc. 	416.959
+ca	 CA Inc. 	0.886
+caas	 China Automotive Systems 	17.9231
+cac	 Camden National Corp. 	0.492
+cacc	 Credit Acceptance Corp. 	4.236
+caci	 Caci International 	1.86
+cae	 Cae Inc 	53.5978
+cae	 Cae Inc 	0.035
+cah	 Cardinal Health 	0.616
+caj	 Canon 	8.373
+caj	 Canon 	0.255
+cake	 The Cheesecake Factory Inc. 	0.422
+cake	 The Cheesecake Factory Inc. 	0.674
+cal	 - 	19.349
+cal	 - 	19.349
+cald	 Callidus Software 	28.818
+cald	 Callidus Software 	0.37
+calm	 Cal-Maine Foods 	13.1929
+camp	 Calamp 	0.92
+camt	 Camtek Ltd 	8.09
+cart	 Carolina Trust Bank 	12.74
+casm	 Cas Medical Systems 	7.75
+cass	 Cass Information Systems Inc 	0.688
+casy	 Caseys General Stores 	0.42
+cato	 Cato Corp. 	27.273
+cato	 Cato Corp. 	0.552
+caty	 Cathay General Bancorp 	3.817
+caw	 - 	28.9323
+caw	 - 	28.9323
+cb	 Chubb Corp. 	0.542
+cbak	 China Bak Battery 	8.69
+cban	 Colony Bankcorp 	18.078
+cban	 Colony Bankcorp 	0.219
+cbb	 Cincinnati Bell Inc 	4.231
+cbb	 Cincinnati Bell Inc 	0.15
+cbd	 Companhia Brasileira De Distribuicao 	8.905
+cbd	 Companhia Brasileira De Distribuicao 	0.409
+cbg	 Cbre Group Inc 	0.68
+cbi	 Chicago Bridge & Iron Company N.V. 	1.213
+cbk	 Christopher & Banks Corp. 	16.394
+cbl	 Cbl & Associated Properties 	0.438
+cbm	 Cambrex Corp. 	13.827
+cbmx	 Combimatrix Corp. 	120.0
+cbrl	 Cracker Barrel Old Country Store 	2117.96
+cbrl	 Cracker Barrel Old Country Store 	0.959
+cbs	 Cbs Corp. 	6.845
+cbs	 Cbs Corp. 	0.12
+cbsh	 Commerce Bancshares 	0.432
+cbt	 Cabot Corp. 	2.47
+cbt	 Cabot Corp. 	0.653
+cbu	 Communitiy Bank System 	9.905
+cbu	 Communitiy Bank System 	0.505
+cbz	 Cbiz 	13.742
+cbz	 Cbiz 	0.18
+ccbg	 Capital City Bank Group 	1.362
+ccc	 Calgon Carbon Corp. 	27.5543
+cce	 Coca-Cola Enterprises 	0.101
+ccf	 - 	5.6862
+cci	 Crown Castle International Corp. 	0.952
+ccj	 Cameco Corp. 	0.459
+ccj	 Cameco Corp. 	0.231
+cck	 Crown Cork & Seal Company 	4.991
+cck	 Crown Cork & Seal Company 	0.1
+ccl	 Carnival Corp. 	2.145
+ccmp	 Cabot Microelectronics Corp. 	21.562
+ccmp	 Cabot Microelectronics Corp. 	0.646
+ccne	 Cnb Financial Corp. 	9.534
+ccoi	 Cogent Communications Group 	16.4348
+ccoi	 Cogent Communications Group 	0.0669
+ccu	 Compania Cervecerias Unidas S.A. 	8.6874
+ccur	 Concurrent Computer Corp. 	0.816
+cde	 Coeur D'Alene Mines Corp. 	2.9
+cdns	 Cadence Design Systems 	24.08
+cdns	 Cadence Design Systems 	0.17
+cdr	 Cedar Shopping Centers Inc 	5.532
+cdr	 Cedar Shopping Centers Inc 	0.234
+cdzi	 Cadiz 	203.51
+ce	 Celanese Corp. 	5.62
+ce	 Celanese Corp. 	0.136
+cea	 China Eastern Airlines Corp Ltd 	8.4139
+cece	 Ceco Environmental 	2.6552
+cece	 Ceco Environmental 	0.1564
+ceco	 Career Education Corp. 	0.46
+cee	 Central Europe And Russia Fund 	12.678
+cee	 Central Europe And Russia Fund 	1.354
+cef	 - 	18.2128
+cef	 - 	18.2128
+celg	 Celgene Corp. 	10.766
+celg	 Celgene Corp. 	0.565
+cent	 Central Garden & Pet Company 	0.61
+cenx	 Century Aluminum Company 	1.4
+ceo	 Cnoon Limited 	0.829
+cern	 Cerner Corp. 	37.697
+cers	 Cerus Corp. 	4.0
+cers	 Cerus Corp. 	0.8
+cev	 - 	38.5917
+cev	 - 	38.5917
+ceva	 Ceva 	42.86
+ceva	 Ceva 	0.13
+cf	 Cf Industries Holdings 	3.1116
+cf	 Cf Industries Holdings 	0.2106
+cfbk	 Central Federal Corp. 	0.5
+cffn	 Capitol Federal Financial 	32.864
+cffn	 Capitol Federal Financial 	0.146
+cfnb	 California First National Bancorp 	0.254
+cfr	 Cullen/Frost Bankers 	0.756
+cgen	 Compugen Ltd 	39.079
+cgen	 Compugen Ltd 	0.21
+cgg	 Compagnie Generale De Gephysgu 	6.21
+cgi	 Celadon Group 	393.103
+cgi	 Celadon Group 	0.422
+cgnt	 - 	1.199
+cgnt	 - 	1.199
+cgnx	 Cognex Corp. 	0.53
+ch	 - 	7.4185
+ch	 - 	7.4185
+cha	 China Telecom Corp Ltd 	0.232
+chci	 Comstock Homebuilding Companies 	3.64
+chco	 City Holding Company 	97.58
+chco	 City Holding Company 	0.674
+chd	 Church & Dwight Company 	20.6098
+chd	 Church & Dwight Company 	0.0723
+chdn	 Churchill Downs Inc. 	0.895
+che	 Chemed 	0.896
+chfc	 Chemical Financial Corp. 	14.545
+chfn	 Charter Financial 	3.81
+chfn	 Charter Financial 	0.831
+chh	 Choice Hotels International 	0.508
+chi	 Calamos Convertible Opportunities 	13.214
+chi	 Calamos Convertible Opportunities 	0.318
+chk	 Chesapeake Energy Corp. 	1.523
+chke	 Cherokee Inc. 	1.098
+chkp	 Check Point Software Technologies Ltd 	7.805
+chkp	 Check Point Software Technologies Ltd 	0.44
+chl	 China Mobile [Hong Kong] Ltd 	4.664
+chl	 China Mobile [Hong Kong] Ltd 	0.3
+chn	 China Fund 	12.5888
+chn	 China Fund 	0.2601
+chnr	 China Natural Resources 	1.6573
+chnr	 China Natural Resources 	0.19
+chrw	 C.H. Robinson Worldwide 	1.926
+chs	 Chico's Fas 	0.983
+cht	 Chunghwa Telecom Co Ltd 	20.308
+cht	 Chunghwa Telecom Co Ltd 	0.179
+chu	 China Unicom [Honk Kong] Ltd 	7.3616
+chu	 China Unicom [Honk Kong] Ltd 	0.1201
+chy	 Calamos Convertible And High 	0.1796
+ci	 Cigna Corp. 	0.15
+cia	 Citizens 	32.932
+cia	 Citizens 	0.31
+cib	 Bancolombia S.A. 	0.58
+cien	 Ciena Corp. 	86.39
+cif	 Colonial Intermediate High 	16.3873
+cik	 - 	6.5859
+cik	 - 	6.5859
+cinf	 Cincinnati Financial Corp. 	0.146
+cir	 Circor International 	4.788
+cir	 Circor International 	0.541
+civb	 - 	10.821
+cix	 - 	14.49
+cix	 - 	14.49
+ckh	 Seacor Smit Inc. 	0.379
+ckx	 - 	21.6399
+ckx	 - 	21.6399
+cl	 Colgate-Palmolive Company 	6.993
+cl	 Colgate-Palmolive Company 	0.114
+clar	 - 	14.998
+clar	 - 	14.998
+clb	 Core Laboratories N.V. 	9.852
+clb	 Core Laboratories N.V. 	0.97
+clct	 Collectors Universe 	6.4361
+clct	 Collectors Universe 	0.6214
+cldx	 Celldex Therapeutics Inc 	1.08
+clf	 Cliffs Natual Resources Inc. 	0.588
+clfd	 Clearfield 	17.252
+clgx	 Corelogic 	0.92
+clh	 Clean Harbors 	8.1
+clh	 Clean Harbors 	0.78
+cli	 Mack-Cali Realty Corp. 	0.982
+clm	 - 	3.736
+clm	 - 	3.736
+clro	 Clearone Communications Inc. 	29.4218
+clsn	 Celsion Corp. 	9.45
+clwt	 Euro Tech Holdings Company 	283.755
+clwt	 Euro Tech Holdings Company 	1.155
+clx	 Clorox Company 	0.344
+cm	 Canadian Imperial Bank Of Commerce 	1.536
+cm	 Canadian Imperial Bank Of Commerce 	0.552
+cma	 Comerica Inc. 	0.278
+cmc	 Commercial Metals Company 	38.073
+cmc	 Commercial Metals Company 	1.098
+cmco	 Columbus Mckinnon Corp. 	0.679
+cmcsa	 Comcast Corp. 	15.2742
+cmcsa	 Comcast Corp. 	0.1242
+cmd	 - 	0.1749
+cmd	 - 	0.1749
+cme	 Cme Group Inc. 	3.882
+cmi	 Cummmins Inc. 	35.66
+cmi	 Cummmins Inc. 	0.024
+cmls	 Cumulus Media Inc. 	3.28
+cmo	 Capstead Mortgage Corp. 	88.708
+cmpr	 - 	2.985
+cmpr	 - 	2.985
+cms	 Cms Energy Corp. 	6.532
+cms	 Cms Energy Corp. 	0.017
+cmt	 - 	7.1307
+cmt	 - 	7.1307
+cmtl	 Comtech Telecommunications 	1.472
+cmu	 Colonial Muni Income Trust 	28.0991
+cmu	 Colonial Muni Income Trust 	0.0921
+cnbka	 Century Bancorp 	0.595
+cnc	 Centene Corp. 	14.002
+cnc	 Centene Corp. 	0.31
+cni	 Canadian National Railway Company 	0.144
+cnmd	 Conmed Corp. 	0.638
+cno	 Cno Financial Group 	3.327
+cno	 Cno Financial Group 	0.195
+cnob	 Connectone Bancorp Inc. 	9.583
+cnob	 Connectone Bancorp Inc. 	0.171
+cnq	 Canadian Natural Resources 	1.432
+cns	 Cohn & Steers Inc 	6.352
+cns	 Cohn & Steers Inc 	0.688
+cnsl	 Consolidated Communications Holdings 	4.9058
+cnsl	 Consolidated Communications Holdings 	0.3101
+cnty	 Century Casinos 	43.56
+cnty	 Century Casinos 	0.15
+cnx	 Consol Energy Inc. 	0.535
+cnxn	 - 	28.6127
+cnxn	 - 	28.6127
+cobz	 Cobiz Financial Inc. 	17.829
+cobz	 Cobiz Financial Inc. 	0.561
+cof	 Capital One Financial Corp. 	2.681
+cog	 Cabot Oil & Gas Corp. 	63.722
+cog	 Cabot Oil & Gas Corp. 	0.365
+cohr	 Coherent 	0.17
+cohu	 Cohu 	10.735
+cohu	 Cohu 	2.628
+coke	 Coca-Cola Bottling Co. Consolidated 	0.909
+col	 Rockwell Collins 	0.243
+col	 Rockwell Collins 	0.037
+colb	 Columbia Banking System 	22.929
+colb	 Columbia Banking System 	1.181
+colm	 Columbia Sportswear Company 	0.953
+conn	 Conn's 	1.37
+cool	 Majesco Entertainment Company 	21.558
+cool	 Majesco Entertainment Company 	2.668
+cop	 Conocophillips 	14.145
+cop	 Conocophillips 	0.903
+core	 Core-Mark Holding Company 	29.6547
+cort	 Corcept Therapeutics Inc. 	1.9736
+cort	 Corcept Therapeutics Inc. 	0.36
+cost	 Costco Wholesale Corp. 	0.516
+cot	 Cott Corp 	24.897
+cp	 Canadian Pacific Railway 	0.884
+cpb	 - 	14.8
+cpb	 - 	14.8
+cpe	 Callon Petroleum Company 	20.47
+cpe	 Callon Petroleum Company 	0.51
+cpf	 Cpb Inc. 	25.19
+cphc	 Canterbury Park Holding Corp. 	625.343
+cphi	 - 	10.174
+cphi	 - 	10.174
+cpk	 Chesapeake Utilities Corp. 	0.305
+cpl	 Cpfl Energia S.A. 	10.4529
+cprt	 Copart 	1.9227
+cprt	 Copart 	0.055
+cpss	 Consumer Portfolio Services 	20.512
+cpss	 Consumer Portfolio Services 	0.32
+cpst	 Capstone Turbine Corp. 	7.6
+cpt	 Camden Property Trust 	15.26
+cpt	 Camden Property Trust 	1.547
+cr	 Crane Company 	17.087
+cr	 Crane Company 	0.839
+crai	 Cra Internationalinc. 	1.87
+cray	 Cray Inc 	39.745
+cray	 Cray Inc 	1.14
+cree	 Cree 	2.48
+creg	 China Recycling Energy Corp. 	4.15
+creg	 China Recycling Energy Corp. 	0.9
+cresy	 Cresud S.A.C.I.F. Y A. 	13.32
+crh	 Crh Plc 	0.095
+cri	 Carter's 	1.793
+cris	 Curis 	22.782
+cris	 Curis 	0.08
+crk	 Comstock Resources 	1.75
+crl	 Charles River Laboratories Intl 	99.61
+crl	 Charles River Laboratories Intl 	1.27
+crm	 Salesforce.Com Inc 	37.67
+crm	 Salesforce.Com Inc 	0.5825
+crme	 Cardiome Pharma Corp. 	0.65
+crmt	 America's Car-Mart 	27.05
+crnt	 Ceragon Networks Ltd 	13.28
+crr	 Carbo Ceramics 	1.049
+crs	 Carpenter Technology Corp. 	28.081
+crs	 Carpenter Technology Corp. 	2.549
+crt	 Cross Timbers Royalty Trust 	4.159
+crtn	 - 	20.903
+crtn	 - 	20.903
+crus	 Cirrus Logic 	26.633
+crvp	 - 	5.235
+crvp	 - 	5.235
+crws	 Crown Crafts 	6.98743
+crws	 Crown Crafts 	0.02593
+cry	 Cryolife 	0.1716
+crzo	 Carrizo Oil & Gas 	2.28
+cs	 Credit Suisse Group 	0.974
+csbk	 Clifton Savings Bancorp 	23.8085
+csfl	 Centerstate Banks 	0.087
+csgp	 Costar Group 	4.49
+csgs	 Csg Systems International 	27.645
+csl	 Carlisle Companies Inc. 	0.613
+cspi	 Csp Inc. 	25.3957
+cspi	 Csp Inc. 	0.0568
+csq	 Calamos Strategic Total Return Fund 	0.0222
+css	 Css Industries 	1.42
+csu	 Capital Senior Living Corp. 	22.436
+csu	 Capital Senior Living Corp. 	0.22
+csv	 Carriage Services 	1.9923
+cswc	 Capital Southwest Corp. 	0.2909
+cswc	 Capital Southwest Corp. 	0.1513
+csx	 Csx Corp. 	0.1431
+ctas	 Cintas Corp. 	0.621
+ctb	 Cooper Tire & Rubber Company 	24.211
+ctb	 Cooper Tire & Rubber Company 	0.403
+ctbi	 Community Trust Bancorp 	1.248
+ctg	 Computer Task Group Inc. 	20.7477
+cthr	 Charles & Colvard Ltd 	1.69
+ctib	 Cti Industries Corp. 	15.31
+ctib	 Cti Industries Corp. 	0.396
+ctl	 Centurylink 	0.738
+ctrn	 Citi Trends 	3.006
+ctrp	 Ctrip.Com International 	23.26
+ctrp	 Ctrip.Com International 	0.175
+ctsh	 Cognizant Technology Solutions 	0.321
+ctsh	 Cognizant Technology Solutions 	0.483
+ctxs	 Citrix Systems 	1.494
+cub	 Cubic Corp. 	6.908
+cub	 Cubic Corp. 	0.222
+cuba	 The Herzfeld Caribbean Basin Fund 	11.6716
+cuba	 The Herzfeld Caribbean Basin Fund 	0.1368
+cuk	 Carnival Plc Ads 	2.203
+culp	 - 	38.3385
+culp	 - 	38.3385
+cuo	 - 	12.812
+cutr	 Cutera 	18.812
+cutr	 Cutera 	2.8
+cuz	 Cousins Properties Inc. 	6.033
+cuz	 Cousins Properties Inc. 	0.604
+cva	 Covanta Holding Corp. 	12.7636
+cvbf	 Cvb Financial Corp. 	0.568
+cvco	 Cavco Industries 	1.17
+cvcy	 Central Valley Community Bancorp 	27.672
+cvcy	 Central Valley Community Bancorp 	0.119
+cvg	 Convergys Corp. 	0.131
+cvg	 Convergys Corp. 	2.349
+cvgi	 Commercial Vehicle Group 	0.47
+cvgw	 Calavo Growers 	11.3528
+cvly	 Codorus Valley Bancorp Inc 	9.564
+cvo	 Cenveo Inc 	0.64
+cvs	 Cvs Corp. 	56.73
+cvti	 Covenant Transportation Group 	12.51
+cvti	 Covenant Transportation Group 	0.24
+cvu	 - 	1.24
+cvu	 - 	1.24
+cvv	 Cvd Equipment Corp. 	7.74
+cvv	 Cvd Equipment Corp. 	0.1
+cvx	 Chevron Corp. 	0.698
+cw	 Curtiss-Wright Corp. 	18.958
+cwco	 Consolidated Water Co. Ltd 	14.115
+cwco	 Consolidated Water Co. Ltd 	0.432
+cwst	 Casella Waste Systems 	1.22
+cwst	 Casella Waste Systems 	0.56
+cxe	 Colonial High Income Muni Trust 	10.117
+cxe	 Colonial High Income Muni Trust 	0.0911
+cxh	 Colonial Investment Grade Muni Trust 	0.2068
+cxw	 Corrections Corporation Of America 	0.0474
+cy	 Cypress Semiconductor Corp. 	6.3193
+cy	 Cypress Semiconductor Corp. 	0.0712
+cybe	 Cyberoptics Corp. 	0.03
+cycc	 Cyclacel Pharmaceuticals 	23.32
+cyd	 China Yuchai International 	343.6768
+cyrn	 - 	28.84
+cyrn	 - 	28.84
+cytk	 Cytokinetics Inc. 	6.18
+cytr	 Cytrx Corp. 	11.941
+cytx	 Cytori Therapeutics Inc 	6.0
+cznc	 Citizens & Northern Corp 	81.388
+cznc	 Citizens & Northern Corp 	0.787
+d	 Dominion Resources 	0.276
+daio	 Data I/O Corp. 	27.634
+dal	 Delta Air Lines Inc. 	8.3
+dar	 Darling International Inc. 	120.81
+dave	 Famous Dave's Of America 	0.46
+db	 Deutsche Bank Ag 	1.826
+dbd	 Diebold Inc. 	48.236
+dbd	 Diebold Inc. 	0.726
+dci	 Donaldson Company 	15.728
+dci	 Donaldson Company 	0.02
+dcm	 Ntt Docomo Inc 	0.319
+dcom	 Dime Community Bancshares 	8.852
+dcom	 Dime Community Bancshares 	0.748
+ddc	 Dominion Diamond Corporation 	1.537
+dde	 Dover Downs Gaming & Entertainment Inc 	21.2703
+dde	 Dover Downs Gaming & Entertainment Inc 	0.2873
+ddf	 Delaware Dividend & Income 	1.2521
+ddf	 Delaware Dividend & Income 	0.2968
+ddr	 Ddr Corp 	0.791
+dds	 Dillard's 	12.923
+dds	 Dillard's 	0.084
+deck	 Deckers Outdoor Corp. 	17.676
+del	 Deltic Timber Corp. 	1.405
+denn	 Denny's Corp. 	39.49
+denn	 Denny's Corp. 	0.06
+deo	 Diageo Plc 	0.648
+depo	 Depomed 	43.258
+depo	 Depomed 	0.17
+dest	 Destination Maternity Corp. 	1.7626
+df	 Dean Foods Company 	0.316
+dgica	 Donegal Group 	9.709
+dgica	 Donegal Group 	0.408
+dgii	 Digi International Inc. 	3.24
+dgii	 Digi International Inc. 	0.46
+dgly	 Digital Ally 	2.4
+dhf	 Dreyfus High Yield Strategies Fund 	39.7018
+dhf	 Dreyfus High Yield Strategies Fund 	0.0672
+dhi	 D.R. Horton 	0.076
+dhil	 Diamond Hill Investment Group 	16.851
+dhil	 Diamond Hill Investment Group 	0.514
+dhy	 - 	89.6389
+dhy	 - 	89.6389
+din	 Dineequity Inc 	55.903
+din	 Dineequity Inc 	0.447
+diod	 Diodes Inc. 	20.782
+diod	 Diodes Inc. 	0.3
+dis	 Walt Disney Company 	0.255
+disca	 Discovery Communications Inc 	15.0806
+disca	 Discovery Communications Inc 	0.1377
+dish	 Dish Network Corp. 	0.278
+dit	 - 	6.634
+dit	 - 	6.634
+dks	 Dick's Sporting Goods Inc 	11.458
+dks	 Dick's Sporting Goods Inc 	0.968
+dlb	 Dolby Laboratories 	0.267
+dlb	 Dolby Laboratories 	0.17
+dlhc	 Dlh Holdings Corp 	9.557
+dlhc	 Dlh Holdings Corp 	0.28
+dlr	 Digital Realty Trust 	0.106
+dltr	 Dollar Tree 	7.23
+dltr	 Dollar Tree 	0.2
+dlx	 Deluxe Corp. 	0.127
+dmf	 - 	27.5754
+dmf	 - 	27.5754
+dmlp	 Dorchester Minerals L.P. 	16.257
+dnb	 Dun & Bradstreet Corp. 	0.207
+dni	 Chartwell Dividend & Income Fund 	39.344
+dni	 Chartwell Dividend & Income Fund 	0.922
+dnn	 - 	16.447
+dnn	 - 	16.447
+dnp	 Duff & Phelps Utilities Income 	14.5076
+dnp	 Duff & Phelps Utilities Income 	0.0846
+dnr	 Denbury Resources 	0.294
+do	 Diamond Offshore Drilling 	2.179
+dorm	 Dorman Products 	28.546
+dorm	 Dorman Products 	0.475
+dox	 Amdocs Limited 	4.022
+dpw	 - 	23.317
+dpw	 - 	23.317
+dpz	 Domino's Pizza Inc 	13.258
+dpz	 Domino's Pizza Inc 	1.482
+drad	 Digirad Corp. 	8.848
+drad	 Digirad Corp. 	0.2552
+dre	 Duke Realty Corp. 	0.836
+drh	 Diamondrock Hospitality Company 	16.636
+dri	 Darden Resorts International 	1.231
+drq	 Dril-Quip 	3.624
+drq	 Dril-Quip 	1.37
+drrx	 Durect Corp. 	13.54
+drys	 Dryships Inc. 	4831006.95
+dsgx	 The Descartes Systems Group Inc. 	172488064.72
+dsm	 Dreyfus Strategic Muni Bond Fund 	0.1681
+dspg	 Dsp Group 	1.25
+dst	 Dst Systems 	1.652
+dsu	 Blackrock Debt Strategies Fund 	12.057
+dsu	 Blackrock Debt Strategies Fund 	0.418
+dsw	 Dsw Inc. 	4.29
+dsw	 Dsw Inc. 	0.819
+dswl	 Deswell Industries 	0.4619
+dswl	 Deswell Industries 	0.1343
+dte	 Dte Energy Company 	0.415
+dtf	 Duff & Phelps Utilities Tax-Free Income 	23.484
+dtf	 Duff & Phelps Utilities Tax-Free Income 	0.17
+duc	 Duff & Phelps Utility & Corporate Trust 	1.4486
+duc	 Duff & Phelps Utility & Corporate Trust 	0.2609
+duk	 Duke Energy Corp. 	0.716
+dva	 Davita Inc. 	9.764
+dvax	 Dynavax Technologies Corp. 	4.6
+dvcr	 Diversicare Healthcare Services Inc. 	60.2531
+dvcr	 Diversicare Healthcare Services Inc. 	0.3248
+dvd	 Dover Downs Entertainment 	0.2831
+dvn	 Devon Energy Corp. 	1.102
+dwaq	 - 	10.648
+dwaq	 - 	10.648
+dwch	 Datawatch Corp. 	52.841
+dwsn	 Dawson Geophysical Company 	0.309
+dx	 Dynex Capital 	13.3997
+dxcm	 Dexcom 	0.71
+dxlg	 Casual Male Retail Group 	5.74
+dxpe	 Dxp Enterprises 	0.55
+dxyn	 The Dixie Group 	0.96
+dy	 Dycom Industries 	0.4
+dyn	 Dynegy Inc 	1.7
+dynt	 Dynatronics Corp. 	756.61
+dysl	 Dynasil Corporation Of America 	7.05
+e	 Eni S.P.A. 	0.259
+ead	 - 	31.0543
+ead	 - 	31.0543
+eat	 Brinker International 	16.771
+eat	 Brinker International 	1.924
+ebay	 Ebay Inc. 	6.537
+ebf	 Ennis 	4.564
+ebf	 Ennis 	0.159
+ebix	 Ebix Inc 	10.0743
+eca	 Encana Corp. 	0.602
+ecf	 - 	18.7406
+ecf	 - 	18.7406
+ecl	 Ecolab Inc. 	0.493
+ecol	 US Ecology 	16.674
+ecol	 US Ecology 	0.607
+ecpg	 Encore Capital Group Inc 	0.91
+ed	 Consolidated Edison Company Of New York 	0.835
+edap	 Edap Tms S.A. 	31.486
+educ	 Educational Development Corp. 	0.0623
+ee	 El Paso Electric Company 	0.734
+eea	 European Equity Fund 	11.2006
+eeft	 Euronet Worldwide 	0.61
+eei	 Ecology And Environment 	23.741
+eei	 Ecology And Environment 	0.0919
+efii	 Electronics For Imaging 	1.04
+efr	 Eaton Vance Senior Floating-Rate Fund 	13.544
+efr	 Eaton Vance Senior Floating-Rate Fund 	0.217
+eft	 Eaton Vance Floating Rate Income Trust 	9.28
+eft	 Eaton Vance Floating Rate Income Trust 	0.229
+efx	 Equifax 	1.175
+egbn	 Eagle Bancorp 	18.452
+egbn	 Eagle Bancorp 	0.227
+eght	 8X8 Inc 	13.257
+egi	 - 	0.12
+egi	 - 	0.12
+egle	 Eagle Bulk Shipping Inc. 	604.8
+egn	 Energen Corp. 	23132.971
+egn	 Energen Corp. 	0.646
+ego	 Eldorado Gold Corp 	34.3882
+ego	 Eldorado Gold Corp 	0.2022
+egp	 Eastgroup Properties 	0.157
+egy	 Vaalco Energy Inc 	27.877
+ehi	 Western Asset Global High 	0.2122
+el	 Estee Lauder Companies 	19.327
+elgx	 Endologix Inc 	11.168
+elgx	 Endologix Inc 	0.51
+elon	 Echelon Corp. 	1.8
+elp	 Companhia Paranaense De Energia 	73.3911
+els	 Equity Lifestyle Properties 	0.177
+else	 Electro-Sensors 	14.179
+eltk	 Eltek Ltd 	14.067
+eltk	 Eltek Ltd 	0.24
+eman	 - 	5.4501
+eman	 - 	5.4501
+emci	 Emc Insurance Group 	3.436
+emci	 Emc Insurance Group 	0.451
+emd	 Western Asset Emerging Markets Fund 	0.357
+eme	 Emcor Group 	0.296
+emf	 Templeton Emerging Markets Fund 	7.1159
+emf	 Templeton Emerging Markets Fund 	0.0492
+emitf	 Elbit Imaging Ltd 	13.2
+emj	 - 	767.922
+emj	 - 	767.922
+emkr	 Emcore Corp. 	761.677
+eml	 Eastern Company 	4.271
+emms	 Emmis Communications Corp. 	1.64
+emn	 Eastman Chemical Company 	34.46
+emn	 Eastman Chemical Company 	1.617
+emr	 Emerson Electric Company 	0.261
+enb	 Enbridge Inc 	16.833
+enb	 Enbridge Inc 	0.371
+endp	 Endo Pharmaceuticals Holdings Inc. 	0.25
+eng	 Englobal Corp. 	19.4
+ens	 Enersys 	0.716
+ensv	 - 	12.1901
+ensv	 - 	12.1901
+entg	 Entegris 	4.493
+entg	 Entegris 	0.01
+enx	 - 	0.7425
+enx	 - 	0.7425
+enz	 Enzo Biochem 	0.03
+eog	 Eog Resources 	0.999
+eoi	 Eaton Vance Enhance Equity 	21.094
+eoi	 Eaton Vance Enhance Equity 	0.193
+eos	 Eaton Vance Enhanced Equity II 	0.061
+epay	 Bottomline Technologies 	0.67
+epd	 Enterprise Products Partners L.P. 	6.6166
+epd	 Enterprise Products Partners L.P. 	0.2395
+epm	 - 	7.7002
+epm	 - 	7.7002
+epr	 Entertainment Properties Trust 	0.165
+eqr	 Equity Residential 	5.402
+eqr	 Equity Residential 	0.662
+eqs	 Equus Total Return 	20.784
+eqt	 Eqt Corp. 	0.01
+erc	 - 	28.3816
+erc	 - 	28.3816
+erf	 Enerplus Corp. 	8.48
+erf	 Enerplus Corp. 	1.124
+erh	 - 	19.143
+erh	 - 	19.143
+eric	 Lm Ericsson Telephone Company 	14.299
+eric	 Lm Ericsson Telephone Company 	0.009
+erie	 Erie Indemnity Company 	0.15
+erj	 Embraer-Empresa Brasileira De 	5.851
+erj	 Embraer-Empresa Brasileira De 	0.028
+es	 - 	21.292
+es	 - 	21.292
+esbk	 The Elmira Savings Bank Fsb 	22.166
+esca	 Escalade Inc. 	26.7026
+esca	 Escalade Inc. 	0.6216
+esio	 Electro Scientific Industries 	23.722
+eslt	 Elbit Systems Ltd 	20.331
+eslt	 Elbit Systems Ltd 	0.538
+esp	 - 	9.534
+esp	 - 	9.534
+esrx	 Express Scripts 	3.057
+ess	 Essex Property Trust 	2.94
+este	 - 	47.672
+este	 - 	47.672
+esv	 Ensco Plc 	37.91
+esv	 Ensco Plc 	3.57
+etb	 Eaton Vance Tax-Managed Buy-Write 	26.817
+etb	 Eaton Vance Tax-Managed Buy-Write 	0.027
+etfc	 E*Trade Financial Corp. 	12.4
+etg	 Eaton Vance Tax-Advantaged Global 	175.47
+etg	 Eaton Vance Tax-Advantaged Global 	0.086
+eth	 Ethan Allen Interiors Inc. 	3.039
+etm	 Entercom Communications Corp. 	2.222
+etn	 Eaton Corp. 	2.446
+eto	 Eaton Vance Tax-Advantage Global 	11.613
+etp	 Energy Transfer Partners 	7.8398
+etp	 Energy Transfer Partners 	0.0727
+etr	 Entergy Corp. 	1.08
+etv	 Eaton Vance Corp. 	41.311
+etv	 Eaton Vance Corp. 	0.14
+etw	 Eaton Vance Corp. 	0.082
+ev	 Eaton Vance Corp. 	0.424
+evbn	 - 	2.141
+evbn	 - 	2.141
+evc	 Entravision Communications Corp. 	12.9725
+evf	 Eaton Vance Senior Income Trust 	1.8726
+evf	 Eaton Vance Senior Income Trust 	0.0719
+evg	 Eaton Vance Short Diversified 	0.083
+evi	 - 	8.1673
+evi	 - 	8.1673
+evj	 - 	0.663
+evj	 - 	0.663
+evk	 - 	4.323
+evlv	 - 	0.223
+evlv	 - 	0.223
+evm	 - 	1.3219
+evm	 - 	1.3219
+evn	 Eaton Vance Muni Income Trust 	0.523
+evn	 Eaton Vance Muni Income Trust 	0.106
+evol	 Evolving Systems 	8.3221
+evol	 Evolving Systems 	0.0179
+evt	 Eaton Vance Tax Advantaged Dividend 	0.264
+evv	 - 	3.137
+evv	 - 	3.137
+evy	 - 	2.989
+evy	 - 	2.989
+ew	 Edwards Lifesciences Corp. 	2.154
+ewbc	 East West Bancorp 	1.024
+exac	 Exactech 	19.607
+exac	 Exactech 	0.05
+exas	 Exact Sciences Corp. 	11.95
+exas	 Exact Sciences Corp. 	0.15
+exc	 Exelon Corp. 	2.829
+exel	 Exelixis 	33.134
+exel	 Exelixis 	0.42
+exfo	 Exfo Inc 	3.42
+exk	 Endeavour Silver Corp. 	2.57
+exk	 Endeavour Silver Corp. 	0.11
+exp	 Eagle Materials Inc  	0.919
+expd	 Expeditors International Of Washington 	10.086
+expd	 Expeditors International Of Washington 	1.559
+expe	 Expedia 	8.111
+expo	 Exponent 	11.2712
+expo	 Exponent 	0.0368
+exr	 Extra Space Storage Inc 	0.142
+extr	 Extreme Networks 	7.041
+extr	 Extreme Networks 	0.13
+f	 Ford Motor Company 	0.1497
+fac	 Liberte Investors Inc. 	0.14
+faro	 Faro Technologies 	1.0
+faro	 Faro Technologies 	0.33
+fast	 Fastenal Company 	5.011
+fast	 Fastenal Company 	0.074
+fax	 - 	11.2605
+fax	 - 	11.2605
+fbiz	 First Business Financial Services 	1368.196
+fbms	 The First Bancshares 	0.113
+fbnc	 First Bancorp 	0.58
+fbr	 Fibria Celulose S.A. 	202.15
+fc	 Franklin Covey Company 	4.697
+fcbc	 First Community Bancshares 	1.404
+fcco	 First Community Corp. 	8.182
+fccy	 1St Constitution Bancorp [Nj] 	12.217
+fcel	 Fuelcell Energy 	1.08
+fcf	 First Commonwealth Financial Corp. 	96.97
+fcfs	 First Cash Financial Services 	0.369
+fcn	 Fti Consulting 	0.41
+fco	 - 	158.4718
+fco	 - 	158.4718
+fcx	 Freeport-Mcmoran Copper & Gold 	145.706
+fcx	 Freeport-Mcmoran Copper & Gold 	0.841
+fdef	 First Defiance Financial 	1.524
+fdp	 Fresh Del Monte Produce 	2.268
+fdp	 Fresh Del Monte Produce 	0.173
+fds	 Factset Research Systems Inc. 	0.492
+fdx	 Fedex Corp. 	2.385
+fe	 Firstenergy Corp. 	53.278
+fe	 Firstenergy Corp. 	0.301
+feim	 Frequency Electronics 	24.451
+fen	 - 	5.796
+fen	 - 	5.796
+ffbc	 First Financial Bancorp. 	6.035
+ffbc	 First Financial Bancorp. 	0.222
+ffc	 Flaherty Crumrine/Claymore Preferred 	2.004
+ffc	 Flaherty Crumrine/Claymore Preferred 	0.48
+ffic	 Flushing Financial Corp. 	0.592
+ffin	 First Financial Bankshares 	2.991
+ffin	 First Financial Bankshares 	0.084
+ffiv	 F5 Networks 	1.35
+ffkt	 Farmers Capital Bank Corp. 	2.188
+fgp	 - 	19.257
+fgp	 - 	19.257
+fhn	 First Tennessee National Corp. 	1.279
+fico	 Fair Isaac And Company Inc. 	0.278
+fii	 Federated Investors 	19.693
+fii	 Federated Investors 	0.582
+finl	 The Finish Line 	7.943
+fisi	 Financial Institutions 	1.227
+fisi	 Financial Institutions 	1.399
+fitb	 Fifth Third Bancorp 	0.106
+fix	 Comfort Systems USA 	24.7012
+fix	 Comfort Systems USA 	0.246
+fizz	 National Beverage 	4.9631
+fizz	 National Beverage 	0.0327
+flc	 Flaherty & Crumrine/Claymore Total 	5.775
+flc	 Flaherty & Crumrine/Claymore Total 	0.172
+flex	 Flextronics International Ltd 	0.14
+flic	 The First Of Long Island Corp. 	4.8056
+flir	 Flir Systems 	2.148
+flir	 Flir Systems 	0.185
+fll	 Full House Resorts 	7.337
+fll	 Full House Resorts 	0.99
+flo	 Flowers Foods 	0.2423
+fls	 Flowserve Corp. 	18.069
+flws	 1-800 Flowers.Com 	4.014
+flws	 1-800 Flowers.Com 	0.11
+fmbi	 First Midwest Bancorp 	1.052
+fmc	 Fmc Corp. 	22.791
+fmc	 Fmc Corp. 	0.535
+fmn	 Federated Premier Muni 	2.976
+fmo	 Fiduciary/Claymore MLP Opportunity Fund 	0.021
+fms	 Fresenius Medical Care Corp. 	0.145
+fmx	 Fomento Economico Mexicano S.A.B. De 	0.835
+fnb	 F.N.B. Corp. 	7.135
+fnf	 Fidelity National Financial 	2.06
+fnf	 Fidelity National Financial 	0.134
+fnhc	 21St Century Holding Company 	0.352
+fnhc	 21St Century Holding Company 	1.606
+fnlc	 First Bancorp Inc [Me] 	0.538
+fnsr	 Finisar Corp. 	2.873
+fnsr	 Finisar Corp. 	0.72
+foe	 Ferro Corp. 	0.78
+ford	 Forward Industries 	6.5
+ford	 Forward Industries 	2.35
+form	 Formfactor 	1.44
+forr	 Forrester Research 	10.113
+forr	 Forrester Research 	0.71
+forty	 Formula Systems Ltd 	7.4684
+fosl	 Fossil 	0.437
+fosl	 Fossil 	0.04
+fox	 21St Century Fox Class B 	3.042
+foxa	 21St Century Fox Class A 	0.44
+fpp	 - 	6.7433
+fpp	 - 	6.7433
+fpt	 Federated Premier Intermediate Muni 	3.194
+fpt	 Federated Premier Intermediate Muni 	0.0507
+fr	 First Industrial Realty Trust 	0.836
+fra	 Blackrock Floating Rate Income Fund 	24.948
+fra	 Blackrock Floating Rate Income Fund 	0.195
+frbk	 Republic First Bancorp 	1.789
+frbk	 Republic First Bancorp 	0.34
+frd	 - 	5.062
+frd	 - 	5.062
+fred	 Fred's 	0.6
+frme	 First Merchants Corp. 	0.433
+fro	 Frontline Ltd 	9.61
+frph	 - 	119.15
+frph	 - 	119.15
+frt	 Federal Realty Investment Trust 	93.974
+frt	 Federal Realty Investment Trust 	1.692
+fsbk	 First South Bancorp Inc 	29.304
+fsbk	 First South Bancorp Inc 	1.213
+fsi	 - 	18.367
+fsi	 - 	18.367
+fsp	 - 	11.382
+fsp	 - 	11.382
+fss	 Federal Signal Corp. 	6.472
+fss	 Federal Signal Corp. 	0.197
+fstr	 L.B. Foster Company 	3.495
+fstr	 L.B. Foster Company 	0.857
+ft	 Franklin Universal Trust 	9.2086
+ft	 Franklin Universal Trust 	0.0768
+ftek	 Fuel Tech 	0.18
+ftf	 - 	1.4263
+ftf	 - 	1.4263
+fti	 Fmc Technologies 	0.695
+fti	 Fmc Technologies 	0.355
+ftr	 Frontier Communications Company 	1.96
+ful	 H.B. Fuller Company 	85.11
+ful	 H.B. Fuller Company 	0.685
+fult	 Fulton Financial Corp. 	1.183
+fult	 Fulton Financial Corp. 	0.319
+func	 First United Corp. 	0.09
+fund	 Royce Focus Trust 	15.3964
+fund	 Royce Focus Trust 	0.2006
+fve	 Five Star Quality Care 	0.19
+fwrd	 Forward Air Corp. 	1.502
+gab	 Gabelli Equity Trust 	28.8191
+gabc	 German American Bancorp 	0.1253
+gain	 Gladstone Investment Corp. 	1.9965
+gain	 Gladstone Investment Corp. 	0.1319
+gam	 General American Investors 	0.046
+gass	 Stealthgas 	3.27
+gbci	 Glacier Bancorp 	0.071
+gbl	 Gamco Investors 	0.187
+gbli	 Global Indemnity Plc 	1.28
+gbnk	 Guaranty Bancorp 	0.228
+gbr	 - 	49.209
+gbr	 - 	49.209
+gbx	 Greenbrier Companies 	25.592
+gch	 Greater China Fund 	22.2123
+gco	 Genesco Inc. 	0.6
+gcv	 Gabelli Convertible And Income 	28.5251
+gcv	 Gabelli Convertible And Income 	0.1679
+gden	 - 	36.551
+gden	 - 	36.551
+gdv	 Gabelli Dividend 	39.176
+gdv	 Gabelli Dividend 	0.027
+gef	 Greif Bros. Corp. 	3.934
+gef	 Greif Bros. Corp. 	0.156
+gel	 Genesis Energy L.P. 	16.7985
+genc	 Gencor Industries Inc. 	2.1083
+genc	 Gencor Industries Inc. 	0.0067
+geo	 Geo Group Inc 	53.9848
+geos	 Oyo Geospace Corp. 	0.545
+gern	 Geron Corp. 	0.77
+ges	 Guess 	0.4313
+ges	 Guess 	0.6373
+gf	 New Germany Fund 	4.6332
+gf	 New Germany Fund 	0.039
+gfi	 Gold Fields Ltd 	6.242
+gfi	 Gold Fields Ltd 	0.348
+gfy	 Western Asset Variable Rate Strategic 	1.273
+gfy	 Western Asset Variable Rate Strategic 	0.275
+gg	 Goldcorp Inc. 	1.888
+ggal	 Grupo Financiero Galicia S.A. 	10.3743
+ggb	 Gerdau S.A. 	3.9074
+ggb	 Gerdau S.A. 	0.1458
+ggn	 - 	20.0792
+ggn	 - 	20.0792
+ggp	 General Growth Properties 	3.551
+ggp	 General Growth Properties 	0.517
+ggt	 Gabelli Global Multi-Media Trust 	21.8315
+ggt	 Gabelli Global Multi-Media Trust 	0.0534
+ghdx	 Genomic Health 	0.18
+ghl	 Greenhill 	2.694
+ghm	 - 	28.8999
+ghm	 - 	28.8999
+gib	 Cgi Group 	27.255
+gib	 Cgi Group 	0.07
+gifi	 Gulf Island Fabrication 	0.984
+giga	 Giga-Tronics Inc. 	21.406
+giga	 Giga-Tronics Inc. 	1.08
+gigm	 Gigamedia Limited 	0.15
+giii	 G-III Apparel Group 	5.76
+giii	 G-III Apparel Group 	0.065
+gild	 Gilead Sciences 	0.445
+gilt	 Gilat Satellite Networks Ltd 	5.358
+gilt	 Gilat Satellite Networks Ltd 	0.12
+gim	 Templeton Global 	2.152
+gim	 Templeton Global 	0.0496
+glad	 Gladstone Capital Corp. 	8.639
+glad	 Gladstone Capital Corp. 	0.179
+gldd	 Great Lakes Dredge & Dock Corp. 	6.325
+gldd	 Great Lakes Dredge & Dock Corp. 	0.0095
+glng	 Golar Lng Limited 	0.4759
+glp	 Global Partners Lp 	0.084
+glq	 - 	1.695
+glq	 - 	1.695
+glt	 Glatfelter 	1.266
+glt	 Glatfelter 	0.336
+glw	 Corning Inc. 	0.377
+gme	 Gamestop Corp. 	2.89
+gme	 Gamestop Corp. 	1.351
+gmo	 - 	13.187
+gmo	 - 	13.187
+gncma	 General Communication 	5.057
+gncma	 General Communication 	0.16
+gntx	 Gentex Corp. 	1.7127
+gntx	 Gentex Corp. 	0.0867
+gol	 Gol Linhas Aereas Inteligentes S.A. 	3.82
+gold	 Randgold Resources Limited 	73.89
+gold	 Randgold Resources Limited 	0.707
+good	 Gladstone Commercial Corp. 	5.0615
+good	 Gladstone Commercial Corp. 	0.2645
+gpc	 Genuine Parts Company 	1.06
+gpi	 Group 1 Automotive 	11.113
+gpi	 Group 1 Automotive 	0.26
+gpic	 Gaming Partners International Corp. 	11.406
+gpk	 Graphic Packaging Holdings Company 	11.4077
+gpk	 Graphic Packaging Holdings Company 	0.2669
+gpl	 - 	1.9862
+gpm	 Guggenheim Enhanced Equity 	0.0958
+gpor	 Gulfport Energy Corp. 	10.442
+gpor	 Gulfport Energy Corp. 	0.46
+gps	 Gap 	0.653
+gpx	 Gp Strategies Corp. 	5.63
+gra	 W.R. Grace & Company 	1.2376
+gra	 W.R. Grace & Company 	0.2953
+grf	 - 	3.9814
+grif	 Griffin Land & Nurseries 	1.165
+grmn	 Garmin Ltd 	1.643
+grow	 U.S. Global Investors 	23.0857
+grr	 Asia Tigers Fund 	0.1567
+grvy	 Gravity Co. 	2.64
+gs	 Goldman Sachs Group 	4.43
+gsb	 - 	112.4241
+gsb	 - 	112.4241
+gsbc	 Great Southern Bancorp 	90.336
+gsbc	 Great Southern Bancorp 	0.756
+gsh	 Guangshen Railway Company 	12.183
+gsh	 Guangshen Railway Company 	0.305
+gss	 - 	32.278
+gss	 - 	32.278
+gst	 - 	15.918
+gst	 - 	15.918
+gt	 Goodyear Tire & Rubber Company 	21.653
+gtn	 Gray Television 	4.381
+gtxi	 Gtx 	1.1
+gty	 Getty Realty Corp. 	75.383
+gut	 Gabelli Utility Trust 	14.0713
+gut	 Gabelli Utility Trust 	0.2173
+gv	 - 	4.256
+gv	 - 	4.256
+gva	 Granite Construction Inc. 	0.623
+gvp	 - 	30.701
+gvp	 - 	30.701
+gwr	 Genesee & Wyoming 	11.631
+gwr	 Genesee & Wyoming 	0.44
+gww	 W.W. Grainger 	0.522
+gxp	 Great Plains Energy Inc 	36.538
+gxp	 Great Plains Energy Inc 	0.422
+ha	 Hawaiian Holdings 	19.133
+hae	 Haemonetics Corp. 	0.33
+hain	 The Hain Celestial Group 	14.6
+hain	 The Hain Celestial Group 	0.295
+hal	 Halliburton Company 	0.668
+hall	 Hallmark Financial Services 	21.005
+hall	 Hallmark Financial Services 	1.02
+halo	 Halozyme Therapeutics 	5.92
+has	 Hasbro 	0.192
+hban	 Huntington Bancshares Inc. 	0.437
+hbhc	 Hancock Holding Company 	0.009
+hbio	 Harvard Bioscience 	26.9002
+hbio	 Harvard Bioscience 	0.0912
+hcn	 Health Care REIT 	1.162
+hcp	 Hcp 	8.433
+hcp	 Hcp 	0.401
+hcsg	 Healthcare Services Group 	11.3246
+hd	 Home Depot 	0.771
+hdb	 Hdfc Bank Limited 	26.3063
+hdng	 Hardinge 	0.047
+hdsn	 Hudson Technologies 	12.813
+hdsn	 Hudson Technologies 	0.14
+hei	 Heico Corp. 	12.5958
+hei	 Heico Corp. 	0.0078
+hep	 Holly Energy Partners L.P. 	4.116
+hep	 Holly Energy Partners L.P. 	0.285
+hes	 Hess Corp. 	1.646
+hfbc	 Hopfed Bancorp 	23.692
+hfbc	 Hopfed Bancorp 	0.179
+hfbl	 Home Federal Bancorp Inc. Of Louisiana 	4.8332
+hfwa	 Heritage Financial Corp. 	0.573
+hhs	 Harte-Hanks 	1.795
+hibb	 Hibbett Sports 	0.96
+hifs	 Hingham Institution For Savings 	0.354
+hig	 Hartford Financial Services Group 	0.91
+hiho	 Highway Holdings 	65.2735
+hil	 Hill International 	0.01
+hio	 Western Asset High 	1.6779
+hiw	 Highwoods Properties 	0.551
+hix	 Western Asset High Income Fund II Inc. 	15.9749
+hix	 Western Asset High Income Fund II Inc. 	0.1489
+hl	 Hecla Mining Company 	1.5107
+hl	 Hecla Mining Company 	0.1358
+hlf	 Herbalife Ltd 	0.3
+hlit	 Harmonic Inc. 	7.999
+hls	 Healthsouth Corp. 	1.592
+hlx	 Helix Energy Solutions Group 	1.9
+hmc	 Honda Motor Company 	3.739
+hmn	 Horace Mann Educators Corp. 	11.056
+hmn	 Horace Mann Educators Corp. 	0.179
+hmsy	 Hms Holdings Corp 	29.4733
+hmsy	 Hms Holdings Corp 	0.0933
+hmy	 Harmony Gold Mining Co. Ltd 	0.638
+hni	 Hon Industries Inc. 	0.073
+hnp	 Huaneng Power Intl 	20.536
+hnrg	 Hallador Energy Company 	16.8265
+hoft	 Hooker Furniture Corp. 	8.447
+hoft	 Hooker Furniture Corp. 	0.736
+hog	 Harley-Davidson 	0.514
+holx	 Hologic 	31.031
+holx	 Hologic 	1.16
+hon	 Honeywell International Inc. 	0.585
+hos	 Hornbeck Offshore Services 	0.395
+hos	 Hornbeck Offshore Services 	2.37
+hov	 Hovnanian Enterprises Inc 	0.1
+hp	 Helmerich & Payne 	25.216
+hp	 Helmerich & Payne 	1.626
+hpf	 John Hancock Pfd II 	10.195
+hpq	 Hewlett-Packard Company 	1.85
+hpq	 Hewlett-Packard Company 	0.199
+hps	 John Hancock Preferred Income Fund III 	0.071
+hpt	 Hospitality Properites Trust 	0.798
+hqh	 H&Q Healthcare Investors 	16.2076
+hqh	 H&Q Healthcare Investors 	0.0517
+hql	 H&Q Life Sciences Investors 	1.2451
+hql	 H&Q Life Sciences Investors 	0.1171
+hr	 Healthcare Realty Trust Inc. 	0.329
+hrb	 H&R Block 	6.003
+hrb	 H&R Block 	0.57
+hrg	 Harbinger Group Inc 	15.2
+hrg	 Harbinger Group Inc 	0.33
+hrl	 Hormel Foods Corp. 	0.4288
+hrs	 Harris Corp. 	0.193
+hsc	 Harsco Corp. 	4.172
+hsc	 Harsco Corp. 	0.131
+hsic	 Henry Schein 	6.177
+hsic	 Henry Schein 	0.115
+hsii	 Heidrick & Struggles International 	0.679
+hska	 Heska Corp. 	14.584
+hson	 Hudson Global Inc 	1.698
+hst	 Host Marriott Financial Trust 	10.075
+hst	 Host Marriott Financial Trust 	0.328
+hstm	 Healthstream 	11.182
+hstm	 Healthstream 	0.52
+ht	 Hersha Hospitality Trust 	22.409
+ht	 Hersha Hospitality Trust 	0.229
+htbk	 Heritage Commerce Corp 	10.512
+htbk	 Heritage Commerce Corp 	0.785
+htd	 John Hancock Tax Advantaged Dividend 	8.673
+htd	 John Hancock Tax Advantaged Dividend 	0.195
+htgc	 Hercules Technology Growth Capital 	4.6214
+htgc	 Hercules Technology Growth Capital 	0.9991
+hth	 Hilltop Holdings Inc. 	0.2676
+htlf	 Heartland Financial USA 	0.98
+htm	 - 	14.821
+htm	 - 	14.821
+hubg	 Hub Group 	1.261
+hubg	 Hub Group 	0.47
+hun	 Huntsman Corp. 	27.589
+hun	 Huntsman Corp. 	1.304
+hurn	 Huron Consulting Group Inc. 	0.35
+husa	 - 	23.71
+husa	 - 	23.71
+hvt	 Haverty Furniture Companies 	17.2686
+hvt	 Haverty Furniture Companies 	0.1461
+hwkn	 Hawkins 	0.657
+hxl	 Hexcel Corp. 	0.06
+hyb	 New America High 	10.2574
+hyb	 New America High 	0.0754
+hyi	 Western Asset High Yield Defined 	72.1809
+hyi	 Western Asset High Yield Defined 	0.0292
+hyt	 Blackrock High Yield Fund Vi Inc 	0.034
+hzo	 Marinemax 	1.38
+iac	 - 	0.241
+iac	 - 	0.241
+iaf	 - 	18.551
+iaf	 - 	18.551
+iag	 Iamgold Corp. 	17.6145
+iag	 Iamgold Corp. 	0.0468
+iba	 Industrias Bachoco S.A. De C.V. 	2.908
+iba	 Industrias Bachoco S.A. De C.V. 	1.283
+ibcp	 Independent Bank Corp. 	10.04
+ibkc	 Iberiabank Corp. 	208.983
+ibkc	 Iberiabank Corp. 	2.325
+ibn	 Icici Bank Limited 	66.2714
+iboc	 International Bancshares Corp. 	0.638
+icad	 Icad Inc. 	15.658
+icb	 Ms Income Securities 	0.039
+iccc	 Immucell Corp. 	6.575
+iclr	 Icon Plc 	0.745
+icon	 Iconix Brand Group 	2.34
+icon	 Iconix Brand Group 	0.22
+icui	 Icu Medical 	2.32
+ida	 Idacorp 	11.603
+ida	 Idacorp 	0.798
+idcc	 Interdigital 	7.086
+idcc	 Interdigital 	0.256
+idra	 Idera Pharmaceuticals 	10.645
+idsa	 Industrial Services Of America 	3.77
+idsa	 Industrial Services Of America 	0.15
+idsy	 I.D. Systems 	0.62
+idt	 Idt Corp. 	8.458
+idt	 Idt Corp. 	0.202
+idti	 Integrated Device Technology 	1.014
+idti	 Integrated Device Technology 	0.14
+idxx	 Idexx Laboratories 	0.515
+iec	 - 	16.14
+iec	 - 	16.14
+iex	 Idex Corp. 	0.036
+if	 - 	22.2288
+if	 - 	22.2288
+iff	 Internationa Flavors & Fragrances 	0.247
+ifn	 India Fund 	16.755
+ifon	 Infosonics Corp 	2.493
+ifon	 Infosonics Corp 	0.25
+igd	 ING Global Equity Dividend And Premium 	1.4782
+igd	 ING Global Equity Dividend And Premium 	0.2382
+igld	 Internet Gold Golden Lines Ltd 	4.56
+igr	 ING Clarion Global Real Estate 	0.0347
+ihg	 Intercontinental Hotels Group 	6.399
+iht	 - 	9.5755
+iiin	 Insteel Industries 	6.3968
+iiji	 Internet Initiative Japan 	0.3142
+iim	 Invesco Insured Muni Income Trust 	0.1275
+iin	 Intricon Corp. 	3.537
+iknx	 Ikonics Corp. 	3.5143
+ilmn	 Illumina 	2.005
+ilmn	 Illumina 	0.52
+imgn	 Immunogen 	3.59
+immr	 Immersion Corp. 	6.364
+immr	 Immersion Corp. 	0.13
+immu	 Immunomedics 	5.72
+immu	 Immunomedics 	0.18
+inap	 Internap Network Services Corp. 	0.1
+incy	 Incyte Corp. 	0.12
+indb	 Independent Bank 	1.083
+infi	 Infinity Pharmaceuticals 	14.101
+infi	 Infinity Pharmaceuticals 	0.04
+infy	 Infosys Limited 	3.6837
+infy	 Infosys Limited 	0.1763
+ing	 ING Group N.V. 	0.177
+ingr	 Ingredion Inc 	0.495
+ino	 - 	9.436
+ino	 - 	9.436
+inod	 Innodata Isogen Inc 	17.996
+inod	 Innodata Isogen Inc 	0.24
+ins	 - 	0.2547
+ins	 - 	0.2547
+int	 World Fuel Services Corp. 	0.532
+intl	 Intl Fcstone Inc 	10.184
+intt	 Intest Corp. 	4.39
+intt	 Intest Corp. 	0.04
+intu	 Intuit Inc. 	0.682
+intx	 Intersections 	11.482
+intx	 Intersections 	0.375
+io	 Ion Geophysical Corp. 	2.25
+ions	 - 	107.23
+ions	 - 	107.23
+ior	 - 	104.63
+iosp	 Innospec Inc. 	105.0868
+iosp	 Innospec Inc. 	0.0887
+ip	 International Paper Company 	0.672
+ipar	 Inter Parfums 	12.594
+ipas	 Ipass Inc. 	6.297
+ipas	 Ipass Inc. 	0.05
+ipcc	 Infinity Property And Casualty Corp. 	0.304
+ipci	 Intellipharmaceutics International Inc. 	50.03
+ipg	 Interpublic Group Of Companies 	442.7962
+ipg	 Interpublic Group Of Companies 	0.0411
+ipxl	 Impax Laboratories 	0.15
+iqi	 Invesco Quality Muni Income Trust 	1.8204
+iqi	 Invesco Quality Muni Income Trust 	0.1443
+ir	 Ingersoll-Rand Plc [Ireland] 	0.364
+iret	 Investors Real Estate Trust 	21.616
+iret	 Investors Real Estate Trust 	0.1086
+irix	 Iridex Corp. 	0.29
+irl	 Irish Investment Fund 	1.5857
+irl	 Irish Investment Fund 	0.0565
+irm	 Iron Mountain Inc. 	0.517
+irs	 Irsa Inversiones Y Representaciones S.A. 	6.7186
+isbc	 Investors Bancorp 	4.2956
+isbc	 Investors Bancorp 	0.1758
+isca	 International Speedway Corp. 	0.509
+isig	 Insignia Systems 	48.772
+isrg	 Intuitive Surgical 	1.303
+isrl	 Isramco 	13.043
+isrl	 Isramco 	0.91
+issc	 Innovative Solutions And Support 	3.3176
+it	 Gartner 	0.51
+itcb	 - 	5.3871
+itcb	 - 	5.3871
+itg	 Investment Technology Group 	1.572
+itgr	 - 	4.869
+itgr	 - 	4.869
+iti	 - 	27.629
+iti	 - 	27.629
+itri	 Itron 	2.52
+itrn	 Ituran Location And Control Ltd 	36.4018
+itrn	 Ituran Location And Control Ltd 	0.3421
+itt	 Itt Industries 	0.365
+itub	 Itau Unibanco Banco Holding Sa 	11.94
+itub	 Itau Unibanco Banco Holding Sa 	0.0792
+ivac	 Intevac 	24.466
+ivz	 Invesco Plc 	28.091
+ivz	 Invesco Plc 	0.27
+ix	 Orix Corp Ads 	1.216
+ixys	 Ixys Corp. 	72.895
+ixys	 Ixys Corp. 	0.16
+jack	 Jack In The Box Inc. 	0.36
+jakk	 Jakks Pacific 	0.589
+jbht	 J.B. Hunt Transport Services 	0.572
+jbht	 J.B. Hunt Transport Services 	1.029
+jbl	 Jabil Circuit 	0.154
+jblu	 Jetblue Airways Corp. 	14.724
+jbss	 John B. Sanfilippo & Son 	1.159
+jci	 Johnson Controls 	0.121
+jcom	 J2 Global Communications Inc 	0.99
+jcs	 Communications Systems 	42.3311
+jctcf	 Jewett-Cameron Trading Company 	4.6452
+jdd	 Nuveen Diversified Dividend And 	0.1003
+jec	 Jacobs Engineering Group Inc. 	0.94
+jeq	 Japan Equity Fund 	23.7674
+jeq	 Japan Equity Fund 	0.0874
+jfr	 Nuveen Floating Rate 	0.0949
+jhi	 John Hancock Investors Trust 	0.089
+jhs	 John Hancock Income Securities Trust 	1.1769
+jhs	 John Hancock Income Securities Trust 	0.0583
+jhx	 James Hardie Industries Se 	4.6401
+jkhy	 Jack Henry & Associates 	9.391
+jkhy	 Jack Henry & Associates 	0.459
+jll	 Jones Lang Lasalle Inc. 	2.523
+jmba	 Jamba 	11.933
+jmm	 - 	42.6628
+jmm	 - 	42.6628
+jnp	 - 	16.685
+jnp	 - 	16.685
+jnpr	 Juniper Networks 	29.615
+job	 - 	5.216
+job	 - 	5.216
+jobs	 51Job 	16.701
+jobs	 51Job 	0.57
+joe	 St. Joe Company 	1.69
+jof	 Japan Smaller Capitalization Fund Inc 	50.06
+jof	 Japan Smaller Capitalization Fund Inc 	0.38
+jout	 Johnson Outdoors Inc. 	0.01
+jpc	 Nuveen Preferred And Convertible 	9.1775
+jpc	 Nuveen Preferred And Convertible 	0.0339
+jpm	 J P Morgan Chase & Co 	0.851
+jps	 Nuveen Quality Preferred 2 	22.2614
+jps	 Nuveen Quality Preferred 2 	0.0759
+jqc	 Nuveen Preferred And Convertible 2 	0.7107
+jqc	 Nuveen Preferred And Convertible 2 	0.0419
+jrjc	 China Finance Online Co. Limited 	1.2747
+jrjc	 China Finance Online Co. Limited 	0.35
+jro	 Nuveen Floating Rate Income Opportuntiy 	0.2325
+jva	 Coffee Holding Co. 	5.3823
+jva	 Coffee Holding Co. 	0.7799
+jwn	 Nordstrom 	0.719
+k	 Kellogg Company 	0.415
+kai	 Kadant Inc 	21.931
+kai	 Kadant Inc 	0.13
+kamn	 Kaman Corp. 	0.687
+kbal	 - 	14.0692
+kbal	 - 	14.0692
+kbh	 Kb Home 	1.952
+kelya	 Kelly Services 	35.221
+kelya	 Kelly Services 	0.221
+kem	 Kemet Corp. 	6.195
+kem	 Kemet Corp. 	0.36
+kep	 Korea Electric Power Corp. 	5.674
+kep	 Korea Electric Power Corp. 	0.486
+kequ	 Kewaunee Scientific Corp. 	9.5735
+kerx	 Keryx Biopharmaceuticals 	2.112
+kerx	 Keryx Biopharmaceuticals 	0.65
+kex	 Kirby Corp. 	0.18
+key	 Keycorp 	0.218
+kf	 Korea Fund 	1.01
+kffb	 Kentucky First Federal Bancorp 	24.0568
+kfrc	 Kforce 	0.256
+kfs	 Kingsway Financial Services 	1.32
+kfy	 Korn/Ferry International 	52.706
+kfy	 Korn/Ferry International 	1.388
+kgc	 Kinross Gold Corp. 	8.8332
+kgc	 Kinross Gold Corp. 	0.3096
+kgji	 Kingold Jewelry Inc. 	6.0231
+kim	 Kimco Realty Corp. 	0.642
+kirk	 Kirkland's 	15.2738
+kirk	 Kirkland's 	0.453
+klac	 Kla-Tencor Corp. 	0.628
+klic	 Kulicke And Soffa Industries 	25.735
+klic	 Kulicke And Soffa Industries 	0.27
+kmb	 Kimberly-Clark Corp. 	0.726
+kmg	 Kmg Chemicals 	39.8758
+kmg	 Kmg Chemicals 	0.3568
+kmm	 Scudder Multi-Market Income Trust 	0.8198
+kmm	 Scudder Multi-Market Income Trust 	0.3517
+kmt	 Kennametal Inc. 	0.055
+kmx	 Carmax Inc 	8.62
+kmx	 Carmax Inc 	0.38
+knl	 Knoll 	5.309
+kof	 Coca Cola Femsa S.A.B. De C.V. 	0.787
+kona	 Kona Grill 	15.308
+kona	 Kona Grill 	0.51
+kool	 Thermogenesis 	4.8
+kopn	 Kopin Corp. 	409.96
+kopn	 Kopin Corp. 	0.01
+koss	 Koss Corp. 	0.2672
+kr	 Kroger Company 	0.0627
+krc	 Kilroy Realty Corp. 	0.758
+krg	 Kite Realty Group Trust 	1.372
+krg	 Kite Realty Group Trust 	1.024
+krny	 Kearny Financial 	32.902
+krny	 Kearny Financial 	0.284
+kro	 Kronos Worldwide Inc 	0.019
+ksm	 Scudder Strategic Municiple Income Trust 	2.37
+ksm	 Scudder Strategic Municiple Income Trust 	0.1622
+kst	 Scudder Strategic Income Trust 	29.5497
+ksu	 Kansas City Southern 	1.134
+kt	 Korea Telecom Corp. 	0.04
+ktcc	 Key Tronic Corp. 	17.59
+ktcc	 Key Tronic Corp. 	0.07
+ktf	 Scudder Municiple Income Trust 	5.8291
+ktf	 Scudder Municiple Income Trust 	0.307
+kvhi	 Kvh Industries 	54.9
+kvhi	 Kvh Industries 	0.3
+kye	 Kayne Anderson Energy Total Return Fund 	1.005
+kyo	 Kyocera Corp. 	0.317
+l	 Loews Corp. 	1.573
+l	 Loews Corp. 	0.009
+labl	 Multi-Color Corp. 	12.845
+lad	 Lithia Motors 	0.056
+lake	 Lakeland Industries 	9.766
+lake	 Lakeland Industries 	0.7
+lamr	 Lamar Advertising Company 	0.712
+lanc	 Lancaster Colony Corp. 	6.552
+lanc	 Lancaster Colony Corp. 	0.18
+laq	 - 	21.145
+laq	 - 	21.145
+lark	 Landmark Bancorp Inc. 	18.3
+laws	 Lawson Products 	0.653
+laws	 Lawson Products 	4.122
+layn	 Layne Christensen Company 	12.898
+layn	 Layne Christensen Company 	0.44
+laz	 Lazard Ltd 	3.118
+lb	 - 	6.157
+lb	 - 	6.157
+lbai	 Lakeland Bancorp 	8.109
+lbai	 Lakeland Bancorp 	0.201
+lbix	 Leading Brands Inc 	5.055
+lbtya	 Liberty Global 	0.345
+lbtyk	 Liberty Global 	1.132
+lbtyk	 Liberty Global 	0.538
+lci	 - 	5.311
+lci	 - 	5.311
+lcm	 Advent/Claymore Enhanced Growth & 	1.3779
+lcm	 Advent/Claymore Enhanced Growth & 	0.13
+ldf	 Latin American Discovery Fund 	14.5512
+ldf	 Latin American Discovery Fund 	0.1937
+ldr	 Landauer 	0.564
+leco	 Lincoln Electric Holdings 	21.392
+leco	 Lincoln Electric Holdings 	0.196
+lee	 Lee Enterprises Inc. 	0.04
+leg	 Leggett & Platt Inc. 	24.315
+leg	 Leggett & Platt Inc. 	0.28
+len	 Lennar Corp. 	2.019
+leo	 Dreyfus Strategic Municipals 	50.84
+leo	 Dreyfus Strategic Municipals 	0.1034
+lfc	 China Life Insurance Company Limited 	2.4315
+lfc	 China Life Insurance Company Limited 	0.0434
+lfus	 Littelfuse 	0.187
+lgi	 Lazard Global Total Return And 	13.942
+lgi	 Lazard Global Total Return And 	0.134
+lgl	 - 	0.577
+lh	 Laboratory Corporation Of America 	0.05
+lhcg	 Lhc Group 	32.54
+lho	 Lasalle Hotel Properties 	0.417
+lii	 Lennox International 	2.358
+lii	 Lennox International 	0.942
+linc	 Lincoln Educational Services Corp. 	14.819
+linc	 Lincoln Educational Services Corp. 	0.313
+lion	 Fidelity Southern Corp. 	0.335
+live	 Livedeal 	19.0
+lkfn	 Lakeland Financial Corp. 	108.869
+lkfn	 Lakeland Financial Corp. 	0.332
+lkq	 Lkq Corp. 	7.883
+lkq	 Lkq Corp. 	0.185
+lll	 L-3 Communications Holdings 	0.655
+lly	 Eli Lilly And Company 	30.416
+lm	 Legg Mason 	4.013
+lmnr	 Limoneira Co 	73.106
+lmnx	 Luminex Corp. 	86.946
+lmnx	 Luminex Corp. 	0.366
+lnc	 Lincoln National Corp. 	4.924
+lnc	 Lincoln National Corp. 	0.234
+lnce	 Lance 	31.201
+lndc	 Landec Corp. 	6.144
+lndc	 Landec Corp. 	0.08
+lnt	 Alliant Energy Corp. 	8.589
+lnt	 Alliant Energy Corp. 	0.2
+loan	 Manhattan Bridge Capital Inc 	8.4797
+lor	 Lazard World Dividend & 	2.0689
+low	 Lowe's Companies 	0.118
+lpl	 Lg Display Co. Limited American 	9.243
+lpl	 Lg Display Co. Limited American 	0.851
+lpsn	 Liveperson 	39.28
+lpsn	 Liveperson 	0.34
+lpth	 Lightpath Technologies 	2.19
+lpx	 Louisiana-Pacific Corp. 	0.08
+lrad	 Lrad Corp. 	20.5762
+lrad	 Lrad Corp. 	0.1966
+lrcx	 Lam Research Corp. 	0.907
+lscc	 Lattice Semiconductor Corp. 	28.415
+lsi	 Lsi Logic Corp. 	0.581
+lstr	 Landstar System 	1.422
+ltbr	 Lightbridge Corp. 	2.292
+ltc	 Ltc Properties 	20.464
+ltc	 Ltc Properties 	0.675
+ltm	 Life Time Fitness 	8.5435
+ltm	 Life Time Fitness 	0.1772
+ltrx	 Lantronix 	0.48
+lts	 - 	7.4822
+lts	 - 	7.4822
+lub	 Luby's 	0.05
+luk	 Leucadia National Corp. 	0.531
+luv	 Southwest Airlines Company 	4.536
+luv	 Southwest Airlines Company 	0.287
+lvlt	 Level 3 Communications 	6.45
+lvs	 Las Vegas Sands 	16.242
+lvs	 Las Vegas Sands 	2.206
+lway	 Lifeway Foods 	20.6781
+lway	 Lifeway Foods 	0.2075
+lxp	 Lexington Realty Trust 	0.179
+lxrx	 Lexicon Pharmaceuticals 	1.4
+lxu	 Lsb Industries Inc. 	21.61
+lxu	 Lsb Industries Inc. 	0.13
+lyg	 Lloyds Banking Group Plc 	0.607
+lyts	 Lsi Industries Inc. 	1.91
+lzb	 La-Z-Boy Inc. 	4.793
+lzb	 La-Z-Boy Inc. 	0.498
+maa	 Mid-America Apartment Communities 	0.697
+mab	 - 	23.516
+mab	 - 	23.516
+mac	 Macerich Company 	1.203
+mag	 Magnetek 	42.839
+mag	 Magnetek 	0.02
+mags	 Magal Security Systems Ltd 	0.29
+man	 Manpower Inc 	1.148
+manh	 Manhattan Associates 	34.9395
+manh	 Manhattan Associates 	0.425
+mant	 Mantech International Corp. 	1.094
+mar	 Marriot International 	0.047
+marps	 Marine Petroleum Trust 	35.121
+mat	 Mattel 	11.118
+matx	 Matson Inc 	13.221
+matx	 Matson Inc 	1.001
+mav	 Pioneer Muni High Income Advantage Trust 	12.3455
+mav	 Pioneer Muni High Income Advantage Trust 	0.3043
+mbi	 Mbia 	0.97
+mbt	 Mobile Telesystems 	49.7451
+mbt	 Mobile Telesystems 	0.0724
+mbtf	 M B T Financial Corp 	0.56
+mbwm	 Mercantile Bank Corp. 	0.469
+mca	 Blackrock Muniyield California Insured 	19.128
+mca	 Blackrock Muniyield California Insured 	0.169
+mcbc	 Macatawa Bank Corp. 	0.54
+mcf	 - 	16.07
+mcf	 - 	16.07
+mchp	 Microchip Technology Inc. 	3.974
+mchp	 Microchip Technology Inc. 	1.23
+mchx	 Marchex 	8.593
+mci	 Massmutual Corporate Investors 	7.0469
+mci	 Massmutual Corporate Investors 	0.1734
+mck	 Mckesson Corp. 	0.306
+mcn	 Madison/Claymore Covered Call & Equity 	34.06
+mco	 Moody's Corp. 	0.974
+mcr	 Mfs Charter Income Trust 	43.0739
+mcr	 Mfs Charter Income Trust 	0.0518
+mcri	 Monarch Casino & Resort 	0.59
+mcs	 Marcus Corp. 	5.527
+mcs	 Marcus Corp. 	0.255
+mcy	 Mercury General Corp. 	0.282
+md	 Mednax Inc 	21.914
+md	 Mednax Inc 	0.18
+mdca	 Mdc Partners Inc. 	51.5726
+mdca	 Mdc Partners Inc. 	0.0719
+mdp	 Meredith Corp. 	0.751
+mdr	 Mcdermott International 	32.527
+mdr	 Mcdermott International 	0.4
+mdrx	 Allscripts Healthcare Solutions 	0.23
+mdt	 Medtronic 	0.259
+mdu	 Mdu Res Group Inc 	31.512
+med	 Medifast Inc 	13.9136
+meet	 - 	0.6002
+meet	 - 	0.6002
+meip	 Mei Pharma Inc 	38.4
+men	 Blackrock Munienhanced Fund 	441.5561
+men	 Blackrock Munienhanced Fund 	0.1734
+meoh	 Methanex Corp. 	0.965
+merc	 Mercer International Inc. 	6.4013
+merc	 Mercer International Inc. 	0.2159
+met	 Metlife 	0.82
+mfa	 Mfa Financial Inc 	34.287
+mfa	 Mfa Financial Inc 	0.0192
+mfc	 Manulife Financial Corp 	0.061
+mfin	 - 	14.6118
+mfin	 - 	14.6118
+mfl	 Blackrock Muniholdings Investment 	10.966
+mfl	 Blackrock Muniholdings Investment 	0.202
+mfm	 Mfs Muni Income Trust 	4.3218
+mfm	 Mfs Muni Income Trust 	0.1259
+mfsf	 Mutualfirst Financial Inc. 	0.324
+mft	 Blackrock Muniyield Investment 	9.3602
+mft	 Blackrock Muniyield Investment 	0.2064
+mfv	 Mfs Special Value Trust 	3.7423
+mga	 Magna International 	0.246
+mgcd	 Mgc Diagnostics Corp. 	13.0356
+mgcd	 Mgc Diagnostics Corp. 	0.0965
+mgee	 Mge Energy Inc. 	0.561
+mgf	 Mfs Government Markets Income Trust 	15.8589
+mgf	 Mfs Government Markets Income Trust 	0.0419
+mgi	 Moneygram International 	18.72
+mgic	 Magic Software Enterprises Ltd 	193.6039
+mgln	 Magellan Health Services 	0.14
+mgm	 Mgm Resorts International 	1.889
+mgpi	 Mgp Ingredients 	33.415
+mgpi	 Mgp Ingredients 	0.178
+mgu	 Macquarie Global Infrastructure Total 	10.592
+mhd	 Blackrock Muniholdings Fund 	2.113
+mhd	 Blackrock Muniholdings Fund 	0.212
+mhe	 - 	0.031
+mhe	 - 	0.031
+mhf	 Western Asset Muni High 	5.3265
+mhf	 Western Asset Muni High 	0.0141
+mhi	 Pioneer Muni High Income Trust 	0.1788
+mhk	 Mohawk Industries 	2.18
+mhn	 Blackrock Muniholdings New York Quality 	69.534
+mhn	 Blackrock Muniholdings New York Quality 	0.272
+mho	 M/I Homes 	0.7
+mic	 Macquarie Infrastructure Company Trust 	25.992
+mic	 Macquarie Infrastructure Company Trust 	0.649
+micr	 - 	9.936
+micr	 - 	9.936
+midd	 The Middleby Corp. 	8.487
+midd	 The Middleby Corp. 	0.16
+min	 Mfs Intermediate Income Trust 	8.6717
+min	 Mfs Intermediate Income Trust 	0.0279
+mind	 Mitcham Industries 	0.08
+mini	 Mobile Mini 	0.32
+mitk	 Mitek Systems Inc 	20.221
+mitk	 Mitek Systems Inc 	0.09
+miy	 Blackrock Muniyield Michigan Quality 	0.165
+mkl	 Markel Corp. 	2.5
+mksi	 Mks Instruments 	303.081
+mksi	 Mks Instruments 	0.432
+mktx	 Marketaxess Holdings 	5.142
+mlhr	 Herman Miller 	0.172
+mli	 Mueller Industries 	13.963
+mli	 Mueller Industries 	0.725
+mlm	 Martin Marietta Materials 	1.966
+mlnk	 Moduslink Global Solutions Inc 	56.264
+mlnk	 Moduslink Global Solutions Inc 	0.05
+mlp	 Maui Land & Pineapple Company 	0.25
+mlr	 Miller Industries 	13.27
+mmlp	 Martin Midstream Partners L.P. 	8.865
+mmlp	 Martin Midstream Partners L.P. 	0.662
+mmm	 3M Company 	0.544
+mmp	 Magellan Midstream Partners L.P. 	52.519
+mmp	 Magellan Midstream Partners L.P. 	0.415
+mms	 Maximus 	4.199
+mms	 Maximus 	0.0244
+mmt	 Mfs Multimarket Income Trust 	6.388
+mmu	 Western Asset Managed Municipals Fund 	0.0966
+mndo	 Mind C.T.I. Ltd 	6.4724
+mndo	 Mind C.T.I. Ltd 	0.0105
+mnkd	 Mannkind Corp. 	564.6
+mnp	 Western Asset Muni Partners Fund 	50.435
+mnp	 Western Asset Muni Partners Fund 	0.189
+mnr	 Monmouth Real Estate Investment Corp. 	4.2848
+mnro	 Monro Muffler Brake 	0.903
+mntx	 Manitex International 	19.52
+mntx	 Manitex International 	0.06
+mo	 Altria Group 	0.097
+moc	 - 	10.838
+moc	 - 	10.838
+moh	 Molina Healthcare Inc 	18.397
+mon	 Monsanto Company 	0.077
+morn	 Morningstar 	2.602
+morn	 Morningstar 	2.488
+mos	 Mosaic Company 	15.046
+mos	 Mosaic Company 	0.025
+mosy	 Mosys 	0.7
+mov	 Movado Group Inc. 	37.743
+mov	 Movado Group Inc. 	0.387
+mpa	 Blackrock Muniyield Pennsylvania Quality 	5.333
+mpa	 Blackrock Muniyield Pennsylvania Quality 	0.034
+mpaa	 Motorcar Parts Of America 	0.735
+mpaa	 Motorcar Parts Of America 	0.19
+mpv	 Massmutual Participation Investors 	2.1681
+mpv	 Massmutual Participation Investors 	0.2017
+mpvd	 - 	5.8236
+mpvd	 - 	5.8236
+mpw	 Medical Properties Trust 	1.8735
+mpwr	 Monolithic Power Systems 	1.5359
+mpx	 Marine Products Corp. 	2.337
+mpx	 Marine Products Corp. 	0.398
+mqt	 Blackrock Muniyield Quality Fund II 	0.5545
+mqt	 Blackrock Muniyield Quality Fund II 	0.119
+mqy	 Blackrock Muniyield Quality Fund 	0.3031
+mrk	 Merck & Company 	0.084
+mrln	 Marlin Business Services 	5.075
+mrln	 Marlin Business Services 	0.015
+mro	 Marathon Oil Corp. 	0.612
+mro	 Marathon Oil Corp. 	0.482
+mrtn	 Marten Transport 	10.1979
+mrtn	 Marten Transport 	0.6817
+mrvl	 Marvell Technology Group 	0.856
+ms	 Morgan Stanley 	0.65
+msa	 Mine Safety Appliances Company 	13.168
+msa	 Mine Safety Appliances Company 	2.754
+msb	 Mesabi Trust 	18.951
+msd	 Morgan Stanley Emerging Markets Debt 	17.467
+msd	 Morgan Stanley Emerging Markets Debt 	0.0903
+msex	 Middlesex Water Company 	0.144
+msf	 Morgan Stanley Emerging Markets Fund Inc 	9.6354
+msf	 Morgan Stanley Emerging Markets Fund Inc 	0.1167
+msfg	 Mainsource Financial Group 	0.878
+msft	 Microsoft Corp. 	0.05
+msl	 - 	57.112
+msl	 - 	57.112
+msm	 Msc Industrial Direct Company 	44.389
+msm	 Msc Industrial Direct Company 	1.091
+msn	 - 	30.7494
+msn	 - 	30.7494
+mson	 Misonix 	25.801
+mson	 Misonix 	0.1
+msp	 Madison Strategic Sector Premium Fund 	0.049
+mstr	 Microstrategy Inc. 	5.18
+mt	 Arcelormittal 	11.329
+mt	 Arcelormittal 	4.206
+mtb	 M&T Bank Corp. 	1.433
+mtd	 Mettler-Toledo International 	35.815
+mtex	 Mannatech Inc. 	0.096
+mtg	 Mgic Investment Corp. 	37.77
+mtg	 Mgic Investment Corp. 	0.75
+mth	 Meritage Corp. 	3.3
+mtl_	 - 	56.4111
+mtl_	 - 	56.4111
+mtl	 Mechel Steel Group Oao 	47.647
+mtl	 Mechel Steel Group Oao 	0.096
+mtn	 Vail Resorts 	1.031
+mtrx	 Matrix Service Company 	30.016
+mtrx	 Matrix Service Company 	0.41
+mtsc	 Mts Systems Corp. 	0.796
+mtsl	 Mer Telemanagement Solutions Ltd 	16.884
+mtu	 Mitsubishi Ufj Financial Group Inc 	23.519
+mtu	 Mitsubishi Ufj Financial Group Inc 	0.017
+mtw	 Manitowoc Company 	9.0355
+mtw	 Manitowoc Company 	0.0125
+mtx	 Minerals Technologies Inc. 	0.094
+mtz	 Mastec 	15.705
+mtz	 Mastec 	0.12
+mua	 Blackrock Muniassets Fund 	3.4148
+mua	 Blackrock Muniassets Fund 	0.1046
+muc	 Blackrock Muniholdings California 	0.194
+mue	 Blackrock Muniholdings Quality Fund II 	1.1092
+mue	 Blackrock Muniholdings Quality Fund II 	0.2249
+muh	 Blackrock Muniholdings Fund II 	0.2209
+mui	 Blackrock Muni Intermediate Duration 	0.2747
+mui	 Blackrock Muni Intermediate Duration 	0.1997
+muj	 Blackrock Muniholdings New Jersey 	0.22
+mur	 Murphy Oil Corp. 	1.882
+mus	 Blackrock Muniholdings Quality Fund 	26.7528
+mus	 Blackrock Muniholdings Quality Fund 	0.2029
+mux	 Mcewen Mining Inc 	7.0644
+mux	 Mcewen Mining Inc 	0.2364
+mvf	 - 	1.5549
+mvf	 - 	1.5549
+mvis	 Microvision 	0.32
+mvt	 Blackrock Munivest Fund II 	35.163
+mvt	 Blackrock Munivest Fund II 	0.217
+mxc	 - 	2.504
+mxc	 - 	2.504
+mxe	 Mexico Equity And 	6.3792
+mxe	 Mexico Equity And 	0.0829
+mxf	 Mexico Fund 	0.2597
+mxim	 Maxim Integrated Products 	0.588
+mxwl	 Maxwell Technologies 	20.381
+mxwl	 Maxwell Technologies 	0.41
+myc	 Blackrock Muniyield California Fund 	4.4846
+myc	 Blackrock Muniyield California Fund 	0.1534
+myd	 Blackrock Muniyield Fund 	0.2532
+mye	 Myers Industries 	0.5274
+mye	 Myers Industries 	0.0741
+myf	 Blackrock Muniyield Investment Fund 	0.299
+mygn	 Myriad Genetics 	0.24
+myi	 Blackrock Muniyield Quality Fund III 	1.0679
+myi	 Blackrock Muniyield Quality Fund III 	0.2594
+myj	 Blackrock Muniyield New Jersey Fund 	0.158
+myl	 Mylan Inc. 	0.49
+myn	 Blackrock Muniyield New York Quality 	12.2501
+myn	 Blackrock Muniyield New York Quality 	0.1784
+mzf	 Managed Duration Investment Grade Fund 	0.6544
+nac	 Nuveen California Divadv Fund 	0.183
+nad	 Nuveen Divadv Fund 	0.052
+nad	 Nuveen Divadv Fund 	0.07
+naii	 Natural Alternatives International 	3.546
+nak	 - 	1.57
+nak	 - 	1.57
+nan	 Nuveen New York Divadv Fund 	0.488
+nano	 Nanometrics Inc. 	0.45
+nat	 Nordic American Tanker Shipping Limited 	1.141
+nath	 Nathan's Famous 	12.9014
+nath	 Nathan's Famous 	0.0066
+nati	 National Instruments Corp. 	0.035
+nav	 Navistar International Corp. 	0.71
+navg	 The Navigators Group 	8.963
+navg	 The Navigators Group 	1.408
+naz	 Nuveen Arizona Premium Fund 	9.157
+nbd	 Nuveen Build America Bond Opportunity 	0.072
+nbh	 - 	8.3206
+nbh	 - 	8.3206
+nbix	 Neurocrine Biosciences 	4.5
+nbl	 Noble Energy Inc. 	32.983
+nbl	 Noble Energy Inc. 	0.711
+nbo	 - 	10.273
+nbo	 - 	10.273
+nbr	 Nabors Industries 	1.969
+nbtb	 Nbt Bancorp Inc. 	12.816
+nbtb	 Nbt Bancorp Inc. 	0.425
+nbw	 - 	8.722
+nbw	 - 	8.722
+nc	 Nacco Industries 	11.966
+nc	 Nacco Industries 	0.3054
+nca	 Nuveen California Muni Value Fund 	0.2743
+nci	 Navigant Consulting 	1.79
+ncs	 Nci Building Systems 	4.45
+ncty	 The9 Limited 	189.21
+ncty	 The9 Limited 	0.45
+ncv	 Agic Convertible & 	13.1858
+ncv	 Agic Convertible & 	0.1475
+ncz	 Agic Convertible & II 	0.5227
+ncz	 Agic Convertible & II 	0.1922
+ndaq	 The Nasdaq Omx Group 	2.005
+ndsn	 Nordson Corp. 	11.096
+ndsn	 Nordson Corp. 	0.205
+ne	 Noble Corp. 	1.469
+nea	 - 	14.0209
+nea	 - 	14.0209
+nee	 Nextera Energy 	0.354
+nem	 Newmont Mining Corp. 	3.025
+nen	 - 	22.33
+nen	 - 	22.33
+neog	 Neogen Corp. 	36.884
+neog	 Neogen Corp. 	0.2267
+nept	 Neptune Technologies & Bioresources Inc 	5.0667
+neu	 Newmarket Corp. 	0.644
+newt	 Newtek Business Services Inc. 	7.3027
+nfg	 National Fuel Gas Company 	0.388
+nfj	 Nfj Dividend Interest & Premium Strategy 	15.671
+nflx	 Netflix 	6.6481
+nflx	 Netflix 	0.0528
+nfx	 Newfield Exploration Company 	2.31
+ng	 - 	39.21
+ng	 - 	39.21
+ngd	 - 	41.32
+ngg	 National Grid Transco Plc 	17.687
+ngg	 National Grid Transco Plc 	0.685
+nhi	 National Health Investors 	12.023
+nhi	 National Health Investors 	0.344
+nhs	 - 	9.5003
+nhs	 - 	9.5003
+ni	 Nisource Inc 	10.7101
+ni	 Nisource Inc 	0.1388
+nick	 Nicholas Financial 	12.7098
+nick	 Nicholas Financial 	0.8169
+nim	 Nuveen Maturities Fund 	0.0915
+njr	 Newjersey Resources Corp. 	0.107
+nke	 Nike 	1.7215
+nke	 Nike 	0.2025
+nktr	 Nektar Therapeutics 	0.1
+nkx	 - 	5.897
+nkx	 - 	5.897
+nl	 Nl Industries 	0.872
+nl	 Nl Industries 	0.4
+nls	 Nautilus Group 	0.4
+nly	 Annaly Capital Management Inc 	14.0706
+nly	 Annaly Capital Management Inc 	0.0046
+nm	 Navios Maritime Holdings Inc. 	1.2522
+nmi	 Nuveen Muni 	0.1096
+nmr	 Nomura Holdings Inc ADR 	0.652
+nmrx	 Numerex 	8.779
+nmrx	 Numerex 	0.35
+nmy	 Nuveen Maryland Premium Fund 	0.418
+nmy	 Nuveen Maryland Premium Fund 	0.267
+nmz	 - 	0.963
+nmz	 - 	0.963
+nnc	 Nuveen North Carolina Premium Fund 	0.118
+nni	 Nelnet 	1.183
+nnn	 National Retail Properties 	18.731
+nnn	 National Retail Properties 	0.108
+nny	 Nuveen New York Muni Value Fund 	7.3935
+nny	 Nuveen New York Muni Value Fund 	0.115
+nok	 Nokia Corp. 	29.785
+nok	 Nokia Corp. 	0.237
+nom	 - 	0.085
+nom	 - 	0.085
+nov	 National-Oilwell 	1.511
+npk	 National Presto Industries 	2.158
+npk	 National Presto Industries 	0.242
+npv	 Nuveen Virginia Premium Fund 	14.204
+nqp	 Nuveen Pennsylvania Investment 	2.6199
+nr	 Newpark Resources 	2.0088
+nr	 Newpark Resources 	0.51
+nrim	 Northrim Bancorp Inc 	0.768
+nrim	 Northrim Bancorp Inc 	0.365
+nrk	 - 	9.6446
+nrk	 - 	9.6446
+nro	 - 	11.1851
+nro	 - 	11.1851
+nrp	 Natural Resource Partners Lp 	3.65
+nrt	 North European Oil Royality Trust 	140.241
+ns	 Nustar Energy L.P. 	0.996
+nsc	 Norfolk Souther Corp. 	0.885
+nsit	 Insight Enterprises 	15.929
+nsit	 Insight Enterprises 	1.28
+nsl	 Nuveen Senior 	14.9234
+nsl	 Nuveen Senior 	0.0946
+nsu	 - 	3.9804
+nsu	 - 	3.9804
+ntap	 Netapp 	0.392
+ntc	 Nuveen Connecticut Premium Fund 	13.369
+ntct	 Netscout Systems 	18.994
+ntct	 Netscout Systems 	0.3
+ntes	 Netease Inc 	1.174
+ntgr	 Netgear 	0.95
+ntic	 Northern Technologies International 	17.14
+ntl	 Nortel Inversora Sa ADR 	13.9173
+ntri	 Nutrisystem Inc 	2.321
+ntrs	 Northern Trust Corp. 	0.484
+ntwk	 Netsol Technologies Inc. 	25.509
+ntx	 Nuveen Texas Quality 	9.663
+ntx	 Nuveen Texas Quality 	0.315
+ntz	 Natuzzi S.P.A. 	2.442
+ntz	 Natuzzi S.P.A. 	0.13
+nuan	 Nuance Communications 	2.59
+nue	 Nucor Corp. 	1.265
+num	 Nuveen Michigan Quality 	13.88
+num	 Nuveen Michigan Quality 	0.048
+nus	 Nu Skin Enterprises 	0.111
+nuv	 Nuveen Muni Value Fund 	7.8438
+nuv	 Nuveen Muni Value Fund 	0.0745
+nuva	 Nuvasive 	1.4
+nvax	 Novavax 	14.8
+nvax	 Novavax 	2.58
+nvda	 Nvidia Corp. 	0.466
+nvg	 - 	2.1173
+nvg	 - 	2.1173
+nvmi	 Nova Measuring Instruments Ltd 	9.268
+nvmi	 Nova Measuring Instruments Ltd 	0.14
+nvo	 Novo Nordisk A/S 	0.101
+nvr	 Nvr 	32.0
+nvs	 Novartis Ag 	677.782
+nvs	 Novartis Ag 	0.815
+nwbi	 Northwest Bancshares 	38.5685
+nwbi	 Northwest Bancshares 	0.4299
+nwe	 Northwestern Corp. 	0.56
+nwfl	 Norwood Financial 	9.366
+nwl	 Newell Rubbermaid Inc. 	0.017
+nwli	 National Western Life Insurance 	9.87
+nwn	 Northwest Natural Gas Company 	172.161
+nwn	 Northwest Natural Gas Company 	0.817
+nwpx	 Northwest Pipe Company 	1.296
+nwy	 New York & Company 	13.64
+nxc	 Nuveen California Tax-Free Income 	1.994
+nxn	 Nuveen Insured New York Tax-Free 	0.32
+nxn	 Nuveen Insured New York Tax-Free 	0.055
+nxp	 Nuveen Tax Free Income Portfolio 	0.087
+nxq	 Nuveen Tax Free Income Portfolio II 	0.74
+nxq	 Nuveen Tax Free Income Portfolio II 	0.152
+nxr	 Nuveen Tax Free Income Portfolio III 	0.183
+nxr	 Nuveen Tax Free Income Portfolio III 	0.022
+nxst	 Nexstar Broadcasting Group 	5.3161
+nycb	 New York Community Bancorp 	0.073
+nyh	 - 	1.201
+nyh	 - 	1.201
+nymx	 Nymox Pharmaceutical Corp. 	21.762
+nymx	 Nymox Pharmaceutical Corp. 	0.03
+nzf	 - 	16.5758
+nzf	 - 	16.5758
+o	 Realty Income Corp. 	9.662
+o	 Realty Income Corp. 	0.022
+obas	 Optibase Ltd 	0.4
+obci	 Ocean Bio-Chem 	24.1483
+ocfc	 Oceanfirst Financial 	0.468
+oclr	 Oclaro 	0.1
+ocn	 Ocwen Financial Corp. 	20.39
+odfl	 Old Dominion Freight Line 	2.379
+odfl	 Old Dominion Freight Line 	0.653
+odp	 Office Depot 	1.125
+ofc	 Corporate Office Properties 	0.58
+ofc	 Corporate Office Properties 	0.295
+ofg	 Oriental Financial Group 	16.2635
+ofg	 Oriental Financial Group 	0.2055
+ofix	 Orthofix International N.V. 	0.47
+oflx	 Omega Flex 	32.629
+oflx	 Omega Flex 	0.368
+oge	 Oge Energy Corp. 	0.564
+oge	 Oge Energy Corp. 	0.349
+ohai	 - 	2.7056
+ohai	 - 	2.7056
+ohi	 Omega Healthcare Investors 	2.6139
+ohi	 Omega Healthcare Investors 	0.2869
+oi	 Owens-Illinois 	1.31
+oia	 Invesco Muni Income Trust 	13.3773
+oia	 Invesco Muni Income Trust 	0.0957
+oii	 Oceaneering International 	0.102
+oiim	 O2Micro International Limited 	0.24
+ois	 Oil States International 	0.68
+oke	 Oneok 	9.0421
+oksb	 Southwest Bancorp 	0.417
+olbk	 Old Line Bancshares 	13.3065
+olbk	 Old Line Bancshares 	0.1379
+oled	 Universal Display Corp. 	0.519
+oln	 Olin Corp. 	0.2
+olp	 One Liberty Properties 	4.477
+olp	 One Liberty Properties 	0.011
+omc	 Omnicom Group Inc. 	3.133
+omcl	 Omnicell 	25.889
+omcl	 Omnicell 	1.18
+ome	 Omega Protein Corp. 	3.5962
+omex	 Odyssey Marine Exploration 	0.6
+omi	 Owens & Minor 	23.851
+omn	 Omnova Solutions Inc. 	11.039
+onb	 Old National Bancorp Capital 	0.864
+onvi	 Onvia Inc 	12.462
+opk	 Opko Health Inc 	4.87
+oran	 Orange Ads 	2.109
+oran	 Orange Ads 	0.375
+orcl	 Oracle Corp. 	12.174
+orcl	 Oracle Corp. 	0.69
+ori	 Old Republic International Corp. 	0.147
+orly	 O'Reilly Automotive 	0.3
+osbc	 Old Second Bancorp 	1.658
+osis	 Osi Systems 	13.764
+osk	 Oshkosh Truck Corp. 	0.795
+ostk	 Overstock.Com 	5.814
+ostk	 Overstock.Com 	0.2
+osur	 Orasure Technologies 	25.91
+osur	 Orasure Technologies 	0.53
+otex	 Open Text Corp. 	7.2857
+otex	 Open Text Corp. 	0.1947
+otiv	 On Track Innovations Ltd 	0.58
+ottr	 Otter Tail Corp. 	0.7
+ovly	 Oak Valley Bancorp [Ca] 	11.028
+oxm	 Oxford Industries 	1.455
+oxy	 Occidental Petroleum Corp. 	18.044
+oxy	 Occidental Petroleum Corp. 	1.336
+ozrk	 Bank Of The Ozarks 	22.8667
+ozrk	 Bank Of The Ozarks 	0.031
+paa	 Plains All American Pipeline L.P. 	0.737
+paas	 Pan American Silver 	0.923
+pacw	 Pacwest Bancorp 	2.164
+pag	 Penske Automotive Group 	25.015
+pag	 Penske Automotive Group 	0.071
+pai	 Pacific American Income Shares 	4.414
+pai	 Pacific American Income Shares 	0.067
+patk	 Patrick Industries 	7.03
+pay	 Verifone Systems 	1.49
+payx	 Paychex 	0.296
+pbct	 People's United Financial 	19.155
+pbct	 People's United Financial 	0.067
+pbi	 Pitney Bowes Inc 	0.14
+pbip	 Prudential Bancorp Of Pennsylvania 	18.448
+pbr	 Petroleo Brasileiro S.A.- Petrobras 	14.996
+pbr	 Petroleo Brasileiro S.A.- Petrobras 	0.441
+pbt	 Permian Basin Royalty Trust 	4.475
+pbt	 Permian Basin Royalty Trust 	0.657
+pcar	 Paccar Inc. 	1.09
+pcbk	 Pacific Continental Corporation [Ore] 	13.083
+pcf	 Putnam High Income Bond Fund 	6.3646
+pcf	 Putnam High Income Bond Fund 	0.1199
+pcg	 Pacific Gas & Electric Co. 	0.618
+pch	 Potlatch Corp. 	7.77
+pck	 Pimco California Muni II 	11.5044
+pck	 Pimco California Muni II 	0.2166
+pcln	 Priceline.Com Inc. 	0.21
+pcm	 Pimco Commercial Mortgage Securities 	13.8759
+pcm	 Pimco Commercial Mortgage Securities 	0.1066
+pcmi	 Pcm Inc. 	0.9407
+pcmi	 Pcm Inc. 	0.1
+pcn	 Pimco Corporate 	0.0396
+pcom	 Points International 	0.4
+pcq	 Pimco California Muni 	0.241
+pcti	 Pc-Tel 	2.8485
+pcyg	 - 	4.2775
+pcyg	 - 	4.2775
+pcyo	 Pure Cycle Corp. 	0.5675
+pcyo	 Pure Cycle Corp. 	0.21
+pdco	 Patterson Companies Inc. 	0.883
+pdex	 Pro-Dex 	25.509
+pdli	 Pdl Biopharma 	9.9304
+pdli	 Pdl Biopharma 	0.1997
+pdt	 John Hancock Premium Dividend Fund 	16.0289
+pdt	 John Hancock Premium Dividend Fund 	0.1631
+pebo	 Peoples Bancorp Inc. 	1.266
+peg	 Public Service Enterprise Group Inc. 	0.36
+peg	 Public Service Enterprise Group Inc. 	1.548
+pega	 Pegasystems Inc. 	21.2868
+pega	 Pegasystems Inc. 	0.0195
+pei	 Pennsylvania Real Estate Investment 	0.466
+penn	 Penn National Gaming 	22.4112
+penn	 Penn National Gaming 	0.3278
+pep	 Pepsico 	0.038
+pery	 Perry Ellis International Inc. 	34.491
+pery	 Perry Ellis International Inc. 	0.2
+pes	 Pioneer Energy Services Corp. 	1.23
+pesi	 Perma-Fix Environmental Services 	6.78
+pets	 Petmed Express 	2.8764
+pets	 Petmed Express 	1.0355
+pfg	 Principal Financial Group Inc 	1.548
+pfin	 P & F Industries 	27.505
+pfl	 Pimco Income Strategy Fund 	33.8732
+pfl	 Pimco Income Strategy Fund 	0.1321
+pfn	 Pimco Income Strategy Fund II 	0.0759
+pfo	 Flaherty & Crumrine Preferred Fund 	0.7744
+pfo	 Flaherty & Crumrine Preferred Fund 	0.261
+pfs	 Provident Financial Services 	0.243
+pfsw	 Pfsweb 	6.357
+pfsw	 Pfsweb 	0.05
+pg	 Procter & Gamble Company 	0.026
+pgc	 Peapack-Gladstone Financial Corp. 	21.568
+pgc	 Peapack-Gladstone Financial Corp. 	0.055
+pgnx	 Progenics Pharmaceuticals Inc. 	1.258
+pgnx	 Progenics Pharmaceuticals Inc. 	0.91
+pgp	 Pimco Global Stocksplus & Income 	13.894
+pgr	 Progressive Corp. 	0.276
+phd	 Pioneer Floating Rate Trust 	25.801
+phd	 Pioneer Floating Rate Trust 	0.267
+phg	 Koninklijke Philips Electronics 	0.144
+phh	 Phh Corp 	0.339
+phi	 Philippine Long Distance Telephone 	7.97
+phi	 Philippine Long Distance Telephone 	0.21
+phii	 Phi Inc 	1.84
+phiik	 Phi 	3.0
+phk	 Pimco High 	24.4955
+phk	 Pimco High 	0.1117
+phm	 Pultegroup 	0.448
+pht	 Pioneer High Income Trust 	27.688
+pht	 Pioneer High Income Trust 	0.4894
+phx	 Panhandle Royalty Company 	0.1262
+pid	 - 	21.792
+pid	 - 	21.792
+pii	 Polaris Industries Inc. 	13.155
+pii	 Polaris Industries Inc. 	1.025
+pim	 Putnam Master Intermediate Income 	17.5165
+pim	 Putnam Master Intermediate Income 	0.0521
+pjc	 Piper Jaffray Companies 	2.365
+pkbk	 Parke Bancorp 	26.379
+pkbk	 Parke Bancorp 	0.1024
+pkd	 Parker Drilling Company 	0.0174
+pkd	 Parker Drilling Company 	1.05
+pke	 Park Electrochemical Corp. 	0.064
+pkg	 Packaging Corporation Of America 	0.494
+pki	 Perkinelmer 	0.126
+pkoh	 Park-Ohio Holdings 	4.835
+pkoh	 Park-Ohio Holdings 	0.918
+pkx	 Pohang Iron & Steel Co. 	1.538
+pky	 Parkway Properties 	19.755
+pky	 Parkway Properties 	0.696
+plab	 Photronics 	11.654
+plab	 Photronics 	0.32
+plce	 The Children's Place Retail Stores 	2.994
+pld	 Prologis Inc 	1.653
+plg	 - 	64.073
+plg	 - 	64.073
+plm	 - 	75.653
+plm	 - 	75.653
+plpc	 Preformed Line Products Company 	39.159
+plpc	 Preformed Line Products Company 	2.459
+plt	 Plantronics 	14.942
+plt	 Plantronics 	1.865
+plus	 Eplus Inc. 	20.571
+plus	 Eplus Inc. 	0.22
+pmd	 Psychemedics Corp. 	9.573
+pmf	 Pimco Muni 	0.164
+pml	 Pimco Muni II 	0.213
+pml	 Pimco Muni II 	0.304
+pmm	 Putnam Managed Muni Income Trust 	5.0138
+pmm	 Putnam Managed Muni Income Trust 	0.0675
+pmo	 Putnam Muni Opportunities Trust 	0.0068
+pmx	 Pimco Muni Income Fund III 	0.1536
+pnc	 Pnc Bank 	0.827
+pnf	 Pimco New York Muni 	40.716
+pnf	 Pimco New York Muni 	0.181
+pni	 Pimco New York Muni II 	11.537
+pni	 Pimco New York Muni II 	0.299
+pnk	 Pinnacle Entertainment 	5.1023
+pnk	 Pinnacle Entertainment 	0.4293
+pnm	 Pnm Resources Inc. 	0.067
+pnrg	 Primeenergy Corp. 	0.3
+pntr	 Pointer Telocation Ltd 	34.65
+pnw	 Pinnacle West Capital Corp. 	12.241
+pnw	 Pinnacle West Capital Corp. 	0.824
+pol	 Polyone Corp. 	27.1429
+pol	 Polyone Corp. 	0.2024
+pool	 Pool Corp. 	1.859
+pope	 Pope Resources 	9.417
+pot	 Potash Corporation Of Saskatchewan Inc. 	14.695
+pot	 Potash Corporation Of Saskatchewan Inc. 	0.6065
+powi	 Power Integrations 	1.202
+powl	 Powell Industries 	2.379
+powl	 Powell Industries 	0.851
+ppbi	 Pacific Premier Bancorp Inc 	8.287
+ppbi	 Pacific Premier Bancorp Inc 	1.47
+ppc	 Pilgrim's Pride Corp. 	0.499
+ppg	 Ppg Industries 	1.375
+ppg	 Ppg Industries 	1.025
+pphm	 Peregrine Pharmaceuticals Inc. 	5.25
+ppih	 - 	31.539
+ppih	 - 	31.539
+ppl	 Ppl Corp. 	16.118
+ppl	 Ppl Corp. 	0.578
+ppr	 ING Prime Rate Trust 	18.3044
+ppr	 ING Prime Rate Trust 	0.1177
+ppt	 Putnam Premier Income Trust 	0.5802
+pq	 Petroquest Energy Inc 	3.0
+pra	 Pro-Assurance Corp. 	26.061
+pra	 Pro-Assurance Corp. 	0.208
+praa	 Portfolio Recovery Associates 	4.02
+praa	 Portfolio Recovery Associates 	0.413
+pran	 Prana Biotechnology Ltd 	5.44
+pran	 Prana Biotechnology Ltd 	0.12
+prcp	 Perceptron 	1.9837
+prcp	 Perceptron 	0.0097
+prft	 Perficient 	0.47
+prgs	 Progress Software Corp. 	0.453
+prkr	 Parkervision 	6.9
+prov	 Provident Financial Holdings 	45.314
+prov	 Provident Financial Holdings 	1.222
+prph	 Prophase Labs 	15.908
+prsc	 The Providence Service Corp. 	1.2
+pru	 Prudential Financial Inflation Retail 	1.002
+psa	 Public Storage 	5.596
+psa	 Public Storage 	0.657
+psb	 Business Parks 	15.256
+psb	 Business Parks 	0.644
+psdv	 Psivida 	14.048
+psdv	 Psivida 	2.36
+psec	 Prospect Capital Corp. 	19.5159
+psec	 Prospect Capital Corp. 	0.3533
+pso	 Pearson Plc 	0.0741
+pten	 Patterson-Uti Energy 	1.757
+pten	 Patterson-Uti Energy 	2.169
+ptie	 Pain Therapeutics 	4.765
+ptie	 Pain Therapeutics 	0.482
+ptn	 - 	2.129
+ptn	 - 	2.129
+ptnr	 Partner Communications Company Ltd 	19.1945
+ptnr	 Partner Communications Company Ltd 	0.4306
+ptr	 Petrochina Company Limited 	1.615
+ptsi	 P.A.M. Transportation Services 	46.548
+pty	 Pimco Corporate Opportunity Fund 	19.1289
+puk	 Prudential Public Limited Company 	0.325
+pw	 - 	20.6796
+pwod	 Penns Woods Bancorp 	2.334
+pwr	 Quanta Services 	17.861
+pwr	 Quanta Services 	0.04
+px	 Praxair 	1.582
+pxd	 Pioneer Natural Resources Company 	1.464
+pxlw	 Pixelworks 	33.635
+pxlw	 Pixelworks 	0.75
+pyn	 Pimco New York Muni Income Fund III 	7.636
+pyn	 Pimco New York Muni Income Fund III 	0.252
+pzc	 Pimco California Muni Income Fund III 	0.9557
+pzc	 Pimco California Muni Income Fund III 	0.3037
+pzg	 - 	8.0609
+pzg	 - 	8.0609
+pzza	 Papa John's International 	0.446
+qadb	 Qad Inc. 	0.046
+qbak	 Qualstar Corp. 	1.32
+qcom	 Qualcomm Inc. 	1.35
+qcrh	 Qcr Holdings 	19.562
+qdel	 Quidel Corp. 	8.249
+qdel	 Quidel Corp. 	1.64
+qgen	 Qiagen N.V. 	0.333
+qgen	 Qiagen N.V. 	0.02
+qsii	 Quality Systems 	1.058
+quik	 Quicklogic Corp. 	20.79
+quik	 Quicklogic Corp. 	0.12
+r	 Ryder System 	1.4
+rad	 Rite Aid Corp. 	26.238
+rad	 Rite Aid Corp. 	0.01
+rand	 Rand Capital Corp. 	33.759
+ras	 Rait Financial Trust 	0.251
+rave	 - 	41.49
+ravn	 Raven Industries 	31.933
+rba	 Ritchie Bros. Auctioneers Inc. 	0.071
+rba	 Ritchie Bros. Auctioneers Inc. 	0.017
+rbc	 Regal-Beloit Corp. 	0.451
+rbcaa	 Republic Bancorp 	15.757
+rbcaa	 Republic Bancorp 	0.024
+rbpaa	 Royal Bancshares Of Pennsylvania 	0.64
+rcg	 - 	12.45
+rcg	 - 	12.45
+rci	 Rogers Communication 	6.737
+rci	 Rogers Communication 	0.182
+rcii	 Rent-A-Center Inc. 	1.988
+rcii	 Rent-A-Center Inc. 	1.838
+rcl	 Royal Caribbean Cruises Ltd 	1.123
+rcmt	 Rcm Technologies 	33.3994
+rcmt	 Rcm Technologies 	0.2339
+rcs	 Rcm Strategic Global Government Fund 	0.1575
+rdc	 Rowan Companies 	1.873
+rdcm	 Radcom Ltd 	23.708
+rdcm	 Radcom Ltd 	0.6
+rdi	 Reading International Inc 	0.95
+rdi	 Reading International Inc 	0.13
+rdnt	 Radnet 	51.205
+rdnt	 Radnet 	0.24
+rdwr	 Radware Ltd 	0.075
+rdy	 Dr. Reddy's Laboratories Ltd 	0.3269
+rdy	 Dr. Reddy's Laboratories Ltd 	0.3221
+re	 Everest Re Group 	3.742
+recn	 Resources Connection 	60.698
+recn	 Resources Connection 	0.967
+refr	 Research Frontiers Inc. 	19.154
+refr	 Research Frontiers Inc. 	1.24
+reg	 Regency Centers Corp. 	1.478
+regn	 Regeneron Pharmaceuticals 	35.567
+regn	 Regeneron Pharmaceuticals 	2.27
+reis	 Reis Inc 	6.3401
+relx	 - 	51.6997
+relx	 - 	51.6997
+renx	 - 	51.8816
+renx	 - 	51.8816
+res	 Rpc 	55.2737
+res	 Rpc 	0.2576
+rev	 Revlon 	0.86
+rex	 Rex Stores Corp. 	16.07
+rex	 Rex Stores Corp. 	0.18
+rf	 Regions Financing TR I 	0.96
+rfi	 Cohen & Steers Total Return Realty Fund 	21.4204
+rfil	 Rf Industries 	6.3281
+rfil	 Rf Industries 	0.0308
+rga	 Reinsurance Group Of America Inc. 	1.977
+rgc	 Regal Entertainment Group 	30.686
+rgc	 Regal Entertainment Group 	0.231
+rgco	 Rgc Resources Inc. 	3.8022
+rgco	 Rgc Resources Inc. 	0.067
+rgen	 Repligen Corp. 	3.2548
+rgen	 Repligen Corp. 	0.56
+rgld	 Royal Gold 	1.128
+rgr	 Sturm Ruger & Company 	14.8863
+rgs	 Regis Corp. 	0.548
+rhi	 Robert Half International Inc. 	6.133
+rhi	 Robert Half International Inc. 	3.649
+rht	 Red Hat 	12.753
+rht	 Red Hat 	0.56
+ric	 - 	18.54
+ric	 - 	18.54
+rick	 Rick's Cabaret International 	19.1878
+rick	 Rick's Cabaret International 	0.1083
+rig	 Transocean Inc. 	2.401
+rigl	 Rigel Pharmaceuticals 	23.592
+rigl	 Rigel Pharmaceuticals 	0.72
+rjf	 Raymond James Financial 	4.986
+rjf	 Raymond James Financial 	0.939
+rl	 Ralph Lauren Corp. 	1.467
+rlh	 Westcoast Hospitality Corp. 	41.141
+rlh	 Westcoast Hospitality Corp. 	0.2
+rli	 Rli Corp. 	0.591
+rlog	 Rand Logistics 	9.477
+rmbs	 Rambus 	2.927
+rmbs	 Rambus 	0.22
+rmcf	 Rocky Mountain Chocolate Factory 	1.376
+rmcf	 Rocky Mountain Chocolate Factory 	0.936
+rmd	 Resmed Inc. 	0.665
+rmt	 Royce Micro-Cap Trust 	13.1472
+rmt	 Royce Micro-Cap Trust 	0.0781
+rmti	 Rockwell Medical Technologies 	0.6849
+rmti	 Rockwell Medical Technologies 	0.5
+rnp	 Cohen & Steers REIT And Preferred 	0.12
+rnr	 Renaissancere Holdings Ltd 	1.004
+rnst	 Renasant Corp. 	21.184
+rnst	 Renasant Corp. 	1.02
+rock	 Gibraltar Industries 	1.58
+rok	 Rockwell Automation Inc 	1.262
+rol	 Rollins 	40.8846
+rop	 Roper Industries 	0.722
+rost	 Ross Stores 	28.8096
+rost	 Ross Stores 	0.0723
+rpm	 Rpm 	0.46
+rprx	 Repros Therapeutics Inc. 	0.2
+rpt	 Ramco-Gershenson Properties Trust 	0.487
+rqi	 Cohen & Steers Quality Income Realty 	10.6529
+rqi	 Cohen & Steers Quality Income Realty 	0.1887
+rrc	 Range Resources Corp. 	1.102
+rrgb	 Red Robin Gourmet Burgers 	3.39
+rs	 Reliance Steel & Aluminum Company 	24.725
+rs	 Reliance Steel & Aluminum Company 	1.102
+rsg	 Republic Services 	5.703
+rsg	 Republic Services 	0.671
+rsys	 Radisys Corp. 	1.325
+rsys	 Radisys Corp. 	0.38
+rt	 Ruby Tuesday 	0.7
+rtec	 Rudolph Technologies 	9.23
+rtix	 Rti Biologics 	5.74
+rtix	 Rti Biologics 	0.36
+rusha	 Rush Enterprises 	21.124
+rusha	 Rush Enterprises 	0.12
+rushb	 Rush Enterprises 	0.38
+rushb	 Rush Enterprises 	0.16
+ruth	 Ruth's Hospitality Group 	0.425
+rvp	 - 	45.54
+rvp	 - 	45.54
+rvsb	 Riverview Bancorp Inc 	39.108
+rvsb	 Riverview Bancorp Inc 	0.02
+rvt	 Royce Value Trust 	0.256
+rwc	 - 	7.3666
+rwc	 - 	7.3666
+rwt	 Redwood Trust 	0.437
+ryaay	 Ryanair Holdings Plc 	6.598
+ryaay	 Ryanair Holdings Plc 	1.051
+ryn	 Rayonier Inc. REIT 	7.005
+ryn	 Rayonier Inc. REIT 	0.424
+s	 Sprint Corporation Series 1 	0.743
+sa	 Seabridge Gold 	13.531
+sa	 Seabridge Gold 	0.36
+saft	 Safety Insurance Group 	4.04
+saft	 Safety Insurance Group 	0.447
+sah	 Sonic Automotive 	8.136
+sah	 Sonic Automotive 	2.057
+saia	 Saia 	11.946
+saia	 Saia 	1.067
+sal	 Salisbury Bancorp 	0.537
+salm	 Salem Communications Corp. 	18.37
+san	 Banco Santander 	17.2533
+sanm	 Sanmina-Sci Corp. 	3.9287
+sasr	 Sandy Spring Bancorp 	12.458
+sasr	 Sandy Spring Bancorp 	0.338
+sbac	 SBA Communications Corp. 	12.757
+sbac	 SBA Communications Corp. 	0.64
+sbbx	 Sussex Bancorp 	3.809
+sbbx	 Sussex Bancorp 	0.529
+sbcf	 Seacoast Banking Corporation Of Florida 	4.55
+sbfg	 Sb Financial Group Inc. 	101.483
+sbgi	 Sinclair Broadcast Group 	107.3107
+sbgi	 Sinclair Broadcast Group 	0.149
+sbny	 Signature Bank 	1.83
+sbra	 Sabra Healthcare REIT 	18.5017
+sbra	 Sabra Healthcare REIT 	0.1838
+sbs	 Cia De Saneamento Basico Do Estado 	7.0287
+sbsi	 Southside Bancshares 	0.5904
+sbux	 Starbucks Corp. 	0.366
+scco	 Southern Peru Copper Corp. 	5.8587
+scco	 Southern Peru Copper Corp. 	0.3578
+scd	 Lmp Capital And Income Fund Inc. 	0.3737
+scg	 Scana Corp. 	0.895
+schl	 Scholastic Corp. 	0.857
+schl	 Scholastic Corp. 	0.027
+schn	 Schnitzer Steel Industries 	4.133
+schn	 Schnitzer Steel Industries 	1.189
+schw	 The Charles Schwab Corp. 	13.961
+schw	 The Charles Schwab Corp. 	0.686
+sci	 Service Corporation International 	6.2045
+scl	 Stepan Company 	0.186
+scln	 Sciclone Pharmaceuticals 	7.176
+scln	 Sciclone Pharmaceuticals 	0.09
+scon	 Superconductor Technologies Inc. 	234.0
+scs	 Steelcase Inc. 	1249.765
+scs	 Steelcase Inc. 	0.099
+scsc	 Scansource 	1.04
+scvl	 Shoe Carnival 	18.1919
+scvl	 Shoe Carnival 	0.2698
+scx	 L.S. Starrett Company 	0.226
+sdrl	 Seadrill Limited 	10.9623
+see	 Sealed Air Corp. 	0.818
+seed	 Origin Agritech Limited 	12.33
+seed	 Origin Agritech Limited 	0.06
+seneb	 Seneca Foods 	0.285
+sf	 Stifel Financial Corp. 	0.934
+sfe	 Safeguard Scientifics 	7.045
+sfl	 Ship Finance International 	0.2384
+sfnc	 Simmons First National Corp. 	0.329
+sfst	 Southern First Bancshares 	5.507
+sfst	 Southern First Bancshares 	0.64
+sgb	 - 	0.355
+sgc	 Superior Uniform Group 	14.2088
+sgen	 Seattle Genetics 	0.49
+sgf	 Singapore Fund 	0.2177
+sgf	 Singapore Fund 	0.0284
+sgma	 Sigmatron International 	0.38
+sgmo	 Sangamo Biosciences 	2.91
+sgmo	 Sangamo Biosciences 	0.11
+sgms	 Scientific Games Corp 	2.01
+sgrp	 Spar Group 	29.38
+sgu	 Star Gas Partners L.P. 	0.354
+sgy	 Stone Energy Corp. 	27.88
+shbi	 Shore Bancshares Inc 	1630.413
+shen	 Shenandoah Telecommunications Co 	15.0234
+shen	 Shenandoah Telecommunications Co 	0.5163
+shg	 Shinhan Financial Group Co Ltd 	0.394
+shi	 Sinopec Shangai Petrochemical Company 	13.345
+shld	 Sears Holdings Corp. 	1.45
+shlm	 A. Schulman 	86.125
+shlm	 A. Schulman 	2.004
+shlo	 Shiloh Industries 	7.41
+shlo	 Shiloh Industries 	0.137
+sho	 Sunstone Hotel Investors 	0.03
+shoo	 Steven Madden 	11.799
+shoo	 Steven Madden 	0.3422
+shpg	 Shire Plc American Depositary Shares 	1.134
+sid	 National Steel Corp. 	37.313
+sid	 National Steel Corp. 	0.0948
+sieb	 Siebert Financial 	0.0267
+sify	 Sify Technologies Limited 	7.2435
+sify	 Sify Technologies Limited 	0.7182
+sig	 Signet Jewelers Limited 	1.015
+sigi	 Selective Insurance Group 	12.657
+sigm	 Sigma Designs 	10.691
+silc	 Silicom Ltd 	6.8678
+silc	 Silicom Ltd 	0.3489
+simo	 Silicon Motion Technology Corp. 	1.559
+sina	 Sina Corp. 	2.02
+siri	 Sirius Xm Radio Inc. 	20.2325
+siri	 Sirius Xm Radio Inc. 	0.0694
+sivb	 Svb Financial Group 	1.43
+sji	 South Jersey Industries 	38.266
+sji	 South Jersey Industries 	0.297
+sjm	 J.M. Smucker Company 	0.018
+sjr	 Shaw Communications Inc. 	28.294
+sjr	 Shaw Communications Inc. 	0.0738
+sjt	 San Juan Basin Royalty Trust 	0.391
+sjw	 Sjw Corp. 	9.183
+sjw	 Sjw Corp. 	0.479
+skm	 Sk Telecom Corporation 	0.876
+skm	 Sk Telecom Corporation 	0.02
+skt	 Tanger Factory Outlet Centers 	8.782
+skt	 Tanger Factory Outlet Centers 	0.112
+skx	 Skechers U.S.A. 	5.744
+skx	 Skechers U.S.A. 	0.1
+sky	 Skyline Corp. 	1.034
+skyw	 Skywest 	10.491
+skyw	 Skywest 	1.139
+slab	 Silicon Laboratories 	0.017
+slab	 Silicon Laboratories 	5.53
+slb	 Schlumberger N.V. 	1.809
+slct	 - 	16.461
+slf	 Sun Life Financial Inc. 	11.067
+slf	 Sun Life Financial Inc. 	0.482
+slg	 Sl Green Realty Corp. 	1.339
+slgn	 Silgan Holdings 	52.6179
+slgn	 Silgan Holdings 	0.1613
+slm	 Slm Corp. 	0.666
+slp	 Simulations Plus 	17.4
+smbc	 Southern Missouri Bancorp 	27.0082
+smed	 Sharps Compliance Corp 	32.536
+smed	 Sharps Compliance Corp 	0.17
+smfg	 Sumitomo Mitsui Financial Group Inc 	1.019
+smg	 Scotts Miracle-Gro Company 	0.818
+smi	 Semiconductor Manufacturing 	22.774
+smit	 Schmitt Industries 	0.42
+smmf	 Summit Financial Group 	1.171
+smp	 Standard Motor Products 	17.9327
+smp	 Standard Motor Products 	0.2327
+smrt	 Stein Mart 	0.0591
+smsi	 Smith Micro Software 	1.48
+smtc	 Semtech Corp. 	12.23
+smtc	 Semtech Corp. 	0.23
+smtx	 Smtc Corp. 	13.03
+smtx	 Smtc Corp. 	0.32
+sna	 Snap-On Inc. 	0.161
+snak	 Inventure Foods 	28.167
+snak	 Inventure Foods 	0.07
+snbc	 Sun Bancorp 	1.347
+snbr	 - 	69.049
+snbr	 - 	69.049
+sne	 Sony Corp Ord 	50.16
+snfca	 Security National Financial Corp. 	30.0912
+snfca	 Security National Financial Corp. 	0.0784
+snh	 Senior Housing Properties Trust 	0.319
+snhy	 Sun Hydraulics Corp. 	1.8126
+snmx	 Senomyx 	0.7
+snn	 Smith & Nephew Snats 	0.125
+snp	 China Petroleum & Chemical Corp. 	0.021
+snps	 Synopsys 	6.107
+snps	 Synopsys 	0.43
+snv	 Synovus Financial Corp. 	0.689
+snx	 Synnex Corp. 	57.183
+snx	 Synnex Corp. 	0.332
+sny	 Sanofi-Aventis Sa 	0.07
+so	 Southern Company 	7.128
+so	 Southern Company 	0.869
+sofo	 Sonic Foundry 	14.296
+sofo	 Sonic Foundry 	1.1
+soho	 Sotherly Hotels Inc. 	7.3504
+soho	 Sotherly Hotels Inc. 	0.0152
+sohu	 Sohu.Com Inc. 	0.77
+son	 Sonoco Products Company 	0.317
+sonc	 Sonic 	5.035
+sonc	 Sonic 	0.813
+sorl	 Sorl Auto Parts 	17.663
+sp	 - 	14.013
+sp	 - 	14.013
+spa	 Sparton Corp. 	14.683
+spar	 Spartan Motors 	4.7901
+spe	 Special Opportunities Fund Inc. 	0.062
+spg	 Simon Property Group 	1.765
+spgi	 - 	14.754
+spgi	 - 	14.754
+sph	 Suburban Propane Partners L.P. 	41.612
+sph	 Suburban Propane Partners L.P. 	0.432
+spil	 Siliconware Precision Industries Company 	12.689
+spil	 Siliconware Precision Industries Company 	0.1256
+spn	 Superior Energy Services 	0.945
+spns	 Sapiens International Corporation N.V. 	17.7057
+spns	 Sapiens International Corporation N.V. 	0.1312
+sppi	 Spectrum Pharmaceuticals 	0.1578
+sptm	 - 	0.53
+sptm	 - 	0.53
+sptn	 Spartan Stores 	3.9723
+sqm	 Sociedad Quimica Y Minera S.A. 	0.181
+srce	 1St Source Corp. 	8.312
+srce	 1St Source Corp. 	1.098
+srcl	 Stericycle 	0.33
+srdx	 Surmodics 	1.89
+sre	 Sempra Energy 	8.748
+sre	 Sempra Energy 	0.559
+sri	 Stoneridge 	27.011
+srpt	 Sarepta Therapeutics Inc 	4.958
+srt	 Startek 	11.757
+ssd	 Simpson Manufacturing Company 	1.281
+ssfn	 Stewardship Financial Corp 	23.395
+ssi	 Stage Stores 	21.606
+ssi	 Stage Stores 	0.448
+ssl	 Sasol Ltd 	0.009
+ssp	 E.W. Scripps Company 	14.58
+ssw	 Seaspan Corp. 	0.263
+ssy	 - 	1.344
+ssy	 - 	1.344
+staa	 Staar Surgical Company 	7.13
+stba	 S&T Bancorp 	1.393
+stc	 Stewart Information Services Corp. 	0.404
+ste	 Steris Corp. 	29.436
+ste	 Steris Corp. 	0.125
+stfc	 State Auto Financial Corp. 	0.973
+sti	 Suntrust Banks 	1.847
+stkl	 Sunopta 	58.657
+stkl	 Sunopta 	0.31
+stl	 Sterling Bancorp 	0.2089
+stld	 Steel Dynamics 	3.03
+stld	 Steel Dynamics 	0.5706
+stm	 Stmicroelectronics N.V. 	0.352
+stmp	 Stamps.Com Inc. 	0.8
+stn	 Stantec Inc 	9.7745
+stn	 Stantec Inc 	0.069
+sto	 Statoil Asa 	0.391
+ston	 Stonemor Partners L.P. 	3.197
+ston	 Stonemor Partners L.P. 	0.425
+stra	 Strayer Education 	2.329
+strl	 Sterling Construction Company Inc 	62.993
+strm	 Streamline Health Solutions 	13.3
+strt	 Strattec Security Corp. 	0.102
+stt	 State Street Corp 	0.175
+stx	 Seagate Technology. 	37.14
+stz	 Constellation Brands Inc 	0.203
+su	 Suncor Energy Inc. 	0.287
+su	 Suncor Energy Inc. 	0.059
+sui	 Sun Communities 	0.087
+sui	 Sun Communities 	0.188
+sumr	 Summer Infant 	17.15
+sup	 Superior Industries International 	5.256
+sup	 Superior Industries International 	0.114
+sva	 Sinovac Biotech 	10.108
+svt	 - 	2.8369
+swir	 Sierra Wireless 	188.23
+swk	 Stanley Black & Decker Inc 	0.07
+swks	 Skyworks Solutions 	35.4951
+swm	 Schweitzer-Mauduit International 	0.3903
+swn	 Southwestern Energy Company 	1.5
+swx	 Southwest Gas Corp. 	0.362
+swz	 Swiss Helvetia Fund 	15.977
+swz	 Swiss Helvetia Fund 	0.1564
+sxi	 Standex International Corp. 	0.48
+sxt	 Sensient Technologies Corp. 	10.455
+sybt	 S.Y. Bancorp 	3.882
+sybt	 S.Y. Bancorp 	0.302
+syke	 Sykes Enterprises Inc. 	24.1
+syke	 Sykes Enterprises Inc. 	1.28
+symc	 Symantec Corp. 	0.75
+syna	 Synaptics Inc. 	3.982
+syna	 Synaptics Inc. 	0.52
+synl	 Synalloy Corp. 	4.316
+synl	 Synalloy Corp. 	0.397
+synt	 Syntel 	4.3227
+synt	 Syntel 	0.106
+sypr	 Sypris Solutions 	1.2382
+syt	 Syngenta Ag 	0.621
+syx	 Systemax Inc. 	11.8684
+t	 AT&T Inc. 	14.473
+t	 AT&T Inc. 	0.444
+tac	 Transalta Corp. 	0.423
+tact	 Transact Technologies Inc. 	7.7123
+tact	 Transact Technologies Inc. 	0.0496
+tait	 Taitron Components Inc. 	4.3751
+tait	 Taitron Components Inc. 	0.0351
+tap	 Molson Coors Brewing Company 	0.127
+tat	 - 	17.689
+tatt	 Tat Technologies Ltd 	22.152
+tatt	 Tat Technologies Ltd 	0.2451
+tayd	 Taylor Devices 	1.3621
+tayd	 Taylor Devices 	0.02
+tbbk	 The Bancorp 	0.55
+tbi	 Trueblue Inc 	0.4
+tcbi	 Texas Capital Bancshares 	2.98
+tcbi	 Texas Capital Bancshares 	1.67
+tcbk	 Trico Bancshares 	3.415
+tcbk	 Trico Bancshares 	0.465
+tcco	 Technical Communications Corp. 	16.8549
+tci	 Transcontinental Realty Investors 	0.04
+tco	 Taubman Centers 	1.282
+tcx	 - 	20.623
+tcx	 - 	20.623
+td	 Toronto Dominion Bank 	5.561
+tdf	 Templeton Dragon Fund 	11.7699
+tdf	 Templeton Dragon Fund 	0.0558
+tds	 Telephone And Data Systems 	0.276
+tdw	 Tidewater Inc. 	49.93
+tdy	 Teledyne Technologies Inc. 	853.25
+tear	 Tearlab Corp. 	152.5
+tecd	 Tech Data Corp. 	1695.73
+tecd	 Tech Data Corp. 	0.35
+tech	 Techne Corp. 	1.554
+teck	 - 	34.905
+teck	 - 	34.905
+tef	 Telefonica Sa 	40.943
+tef	 Telefonica Sa 	0.179
+tei	 Templeton Emerging Markets 	4.6176
+tei	 Templeton Emerging Markets 	0.1627
+ten	 Tenneco Automotive 	0.168
+teo	 Telecom Argentina Stet - France Telecom 	7.395
+teo	 Telecom Argentina Stet - France Telecom 	0.608
+ter	 Teradyne 	0.395
+tess	 Tessco Technologies Inc. 	10.7345
+tess	 Tessco Technologies Inc. 	0.3991
+teva	 Teva Pharmaceutical Industries Limited 	1.689
+tex	 Terex Corp. 	7.792
+tfx	 Teleflex Inc. 	0.615
+tg	 Tredegar Corp. 	49.28
+tg	 Tredegar Corp. 	0.044
+tga	 Transglobe Energy Corp 	6.6196
+tga	 Transglobe Energy Corp 	0.1612
+tgb	 - 	3.6376
+tgb	 - 	3.6376
+tgs	 Transportadora De Gas Sa Ord B 	14.9096
+tgs	 Transportadora De Gas Sa Ord B 	0.1155
+thc	 Tenet Healthcare Corp. 	5.864
+thff	 First Financial Corporation Indiana 	11.894
+thff	 First Financial Corporation Indiana 	0.792
+thg	 The Hanover Insurance Group 	0.146
+tho	 Thor Industries 	7.671
+tho	 Thor Industries 	0.885
+thrm	 Amerigon Incorporated 	20.639
+thrm	 Amerigon Incorporated 	0.01
+ti	 Telecom Italia S.P.A. 	0.098
+ticc	 Ticc Capital 	20.6124
+tik	 - 	30.299
+tile	 Interface 	26.3097
+tile	 Interface 	0.273
+tis	 - 	2.6955
+tis	 - 	2.6955
+tisa	 Top Image Systems 	5.2623
+tisa	 Top Image Systems 	0.05
+tisi	 Team 	0.25
+tjx	 Tjx Companies 	2.881
+tk	 Teekay Shipping Corp. 	1.506
+tkc	 Turkcell Iletisim Hizmetleri As 	24.167
+tkc	 Turkcell Iletisim Hizmetleri As 	0.3864
+tkf	 Turkish Investment Fund 	1.5084
+tkf	 Turkish Investment Fund 	0.0789
+tkr	 Timken Company 	0.873
+tlf	 Tandy Leather Factory 	12.9458
+tlgt	 - 	15.894
+tli	 Lmp Corporate Loan Fund Inc 	9.0158
+tli	 Lmp Corporate Loan Fund Inc 	0.1111
+tlk	 P.T. Telekomunikasi Indonesia Tbk. 	0.0199
+tm	 Toyota Motor Corp Ltd Ord 	0.891
+tmk	 Torchmark Corp. 	61.036
+tmo	 Thermo Fisher Scientific Inc 	0.698
+tmp	 - 	1.284
+tmp	 - 	1.284
+tnc	 Tennant Company 	11.783
+tnc	 Tennant Company 	0.864
+tnh	 Terra Nitrogen Company L.P. 	6.699
+tnh	 Terra Nitrogen Company L.P. 	1.005
+tnp	 Tsakos Energy Navigation Ltd 	1.167
+tnp	 Tsakos Energy Navigation Ltd 	0.365
+tol	 Toll Brothers Inc. 	0.229
+torm	 Tor Minerals International Inc 	12.414
+tot	 Totalfinaelf S.A. 	0.67
+town	 Towne Bank 	24.629
+tpc	 Tutor Perini Corp. 	0.122
+tpc	 Tutor Perini Corp. 	0.87
+tpl	 Texas Pacific Land Trust 	2.705
+tpr	 - 	0.72
+tpr	 - 	0.72
+tpx	 Tempur-Pedic International Inc 	16.805
+tpx	 Tempur-Pedic International Inc 	0.75
+trc	 Tejon Ranch Company 	1.27
+trec	 - 	42.33
+trec	 - 	42.33
+trex	 Trex Company 	32.48
+trex	 Trex Company 	0.275
+tri	 Thomson Reuters Corp 	0.512
+trib	 Trinity Biotech Plc 	22.3015
+trib	 Trinity Biotech Plc 	0.359
+trmb	 Trimble Navigation Limited 	21.147
+trmk	 Trustmark Corp. 	0.951
+trn	 Trinity Industries 	10.475
+trn	 Trinity Industries 	0.339
+trns	 Transcat 	6.94
+trow	 T. Rowe Price Group 	0.7
+trp	 Transcananda Pipelines 	4.01
+trq	 Turquoise Hill Resources Ltd. 	15.439
+trq	 Turquoise Hill Resources Ltd. 	0.23
+trst	 Trustco Bank Corp NY 	0.332
+trt	 - 	4.588
+trt	 - 	4.588
+trv	 The Travelers Companies Inc 	0.669
+trxc	 - 	27.695
+ts	 Tenaris S.A. 	18.167
+ts	 Tenaris S.A. 	0.672
+tsbk	 Timberland Bancorp 	8.611
+tsco	 Tractor Supply Company 	0.149
+tsem	 Tower Semiconductor Ltd 	1.5
+tsi	 Tcw Strategic 	15.318
+tsi	 Tcw Strategic 	0.0119
+tsm	 Taiwan Semiconductor Manufacturing 	0.192
+tsn	 Tyson Foods 	0.178
+tsri	 Tsr 	11.1131
+tsri	 Tsr 	0.9484
+tss	 Total System Services 	0.221
+tst	 Thestreet.Com 	13.9861
+tst	 Thestreet.Com 	0.0172
+tsu	 Tim Participacoes S.A. 	1.076
+ttc	 Toro Company 	9.0109
+ttec	 Teletech Holdings 	0.555
+ttek	 Tetra Tech 	0.135
+ttf	 Thai Fund 	12.9147
+tti	 Tetra Technologies 	0.66
+ttm	 Tata Motors Ltd 	3.47
+ttm	 Tata Motors Ltd 	0.402
+ttmi	 Ttm Technologies 	4.122
+ttmi	 Ttm Technologies 	0.45
+ttwo	 Take-Two Interactive Software 	2.59
+tu	 Telus Corp. Non Voting Shares 	7.096
+tu	 Telus Corp. Non Voting Shares 	0.599
+tues	 Tuesday Morning 	1.8
+tup	 Tupperware Corp. 	8.384
+tup	 Tupperware Corp. 	1.08
+turn	 - 	7.066
+turn	 - 	7.066
+tv	 Grupo Televisa S.A. 	1.626
+tv	 Grupo Televisa S.A. 	1.184
+twi	 Titan International 	3.87
+twi	 Titan International 	0.553
+twin	 Twin Disc Inc. 	5.7186
+twin	 Twin Disc Inc. 	0.9083
+twmc	 Trans World Entertainment 	2.7811
+twmc	 Trans World Entertainment 	0.24
+twn	 Taiwan Fund 	0.0577
+txn	 Texas Instruments Inc. 	8.301
+txrh	 Texas Roadhouse 	12.425
+txrh	 Texas Roadhouse 	1.468
+ty_	 - 	20.05
+ty_	 - 	20.05
+ty	 Tri Continental Corp. 	21.962
+ty	 Tri Continental Corp. 	0.009
+tyg	 Tortoise Energy Infrastructure Corp. 	0.872
+tyl	 Tyler Technologies 	11.238
+uba	 Urstadt Biddle Properties Inc. 	8.477
+uba	 Urstadt Biddle Properties Inc. 	0.854
+ubcp	 United Bancorp 	4.6384
+ubcp	 United Bancorp 	0.2117
+ubfo	 United Security Bancshares 	0.562
+ubnk	 United Financial Bancorp 	5.5038
+ubp	 Urstadt Biddle Properties Inc. 	0.878
+ubsh	 Union First Market Bankshares Corp. 	2.237
+ubsi	 United Bankshares 	1.305
+ucfc	 United Community Financial 	16.893
+ucfc	 United Community Financial 	0.495
+uctt	 Ultra Clean Holdings 	4.244
+uctt	 Ultra Clean Holdings 	0.18
+udr	 United Dominion Realty Trust 	0.152
+ufcs	 United Fire Group Inc. 	0.601
+ufi	 Unifi 	28.253
+ufpi	 Universal Forest Products 	2.536
+ufpt	 Ufp Technologies 	48.534
+ufs	 Domtar Corp. 	0.241
+ug	 United-Guardian 	20.9311
+ugi	 Ugi Corp. 	14.265
+ugi	 Ugi Corp. 	0.317
+ugp	 Ultrapar Participacoes S.A. 	9.8084
+uhal	 Amerco 	0.059
+uhs	 Universal Health Services 	32.958
+uht	 Universal Health Realty Income Trust 	0.604
+uht	 Universal Health Realty Income Trust 	0.608
+ul	 Unilever Plc 	34.184
+ul	 Unilever Plc 	0.022
+ulbi	 Ultralife Corp. 	4.648
+ulti	 The Ultimate Software Group 	0.4
+umbf	 Umb Financial Corp. 	0.996
+umc	 United Microelectronics Corp. 	27.0015
+umh	 Umh Properties 	0.046
+umpq	 Umpqua Holdings Corp. 	2.099
+un	 Unilever Nv 	2.585
+un	 Unilever Nv 	0.107
+unam	 Unico American Corp. 	11.0588
+unam	 Unico American Corp. 	0.0635
+unf	 Unifirst Corp. 	0.158
+unfi	 United Natural Foods 	2.211
+unm	 Unumprovident Corp. 	33.972
+unm	 Unumprovident Corp. 	0.054
+unp	 Union Pacific Corp. 	2.274
+unp	 Union Pacific Corp. 	0.049
+unt	 Unit Corp. 	2.4
+unty	 Unity Bancorp 	41.095
+unty	 Unity Bancorp 	0.036
+ups	 United Parcel Service 	1.637
+uqm	 - 	57.425
+uqm	 - 	57.425
+urbn	 Urban Outfitters 	31.305
+urbn	 Urban Outfitters 	0.48
+uri	 United Rentals 	11.74
+uri	 United Rentals 	0.23
+usa	 Liberty All-Star Equity Fund 	13.3575
+usa	 Liberty All-Star Equity Fund 	0.126
+usap	 Universal Stainless & Alloy Products 	8.61
+usap	 Universal Stainless & Alloy Products 	0.99
+usat	 USA Technologies 	5.3
+usat	 USA Technologies 	2.16
+usb	 U.S. Bancorp 	0.409
+useg	 U.S. Energy 	0.068
+useg	 U.S. Energy 	1.02
+usg	 Usg Corp. 	1.0
+uslm	 United States Lime & Minerals 	24.436
+uslm	 United States Lime & Minerals 	4.409
+usm	 United States Cellular Corp. 	0.832
+usna	 Usana Health Sciences Inc. 	21.328
+usna	 Usana Health Sciences Inc. 	0.4
+usph	 U.S. Physical Therapy 	7.701
+usph	 U.S. Physical Therapy 	0.6
+utf	 Cohen & Steers Infrastructure Fund 	3.383
+utf	 Cohen & Steers Infrastructure Fund 	0.178
+utg	 - 	0.338
+utg	 - 	0.338
+uthr	 United Therapeutics Corp. 	1.73
+uti	 Universal Technical Institute Inc 	6.385
+utl	 Unitil Corp. 	6.846
+utmd	 Utah Medical Products 	4.069
+utsi	 Ustarcom Holdings Corp. 	8.386
+utsi	 Ustarcom Holdings Corp. 	0.54
+uuu	 - 	30.492
+uve	 - 	44.21721
+uvsp	 Univest Corporation Of Pennsylvania 	25.007
+uvsp	 Univest Corporation Of Pennsylvania 	0.117
+uvv	 Universal Corp. 	0.763
+uwn	 - 	19.762
+uwn	 - 	19.762
+vale	 Vale S.A. 	23.0451
+vale	 Vale S.A. 	0.3105
+var	 Varian Medical Systems 	2.18
+vbf	 Invesco Van Kampen Bond Fund 	34.326
+vbf	 Invesco Van Kampen Bond Fund 	0.069
+vcv	 - 	17.33
+vcv	 - 	17.33
+vdsi	 Vasco Data Security International 	17.432
+vdsi	 Vasco Data Security International 	1.61
+veru	 - 	14.8266
+veru	 - 	14.8266
+vfc	 - 	4.334
+vfc	 - 	4.334
+vfl	 - 	5.517
+vfl	 - 	5.517
+vgm	 - 	7.1523
+vgm	 - 	7.1523
+vgr	 - 	9.0564
+vgr	 - 	9.0564
+vgz	 - 	14.09
+vgz	 - 	14.09
+vhc	 - 	15.99
+vhi	 - 	14.2569
+vhi	 - 	14.2569
+viav	 - 	7.3299
+viav	 - 	7.3299
+vicl	 Vical Inc. 	1.2
+vicr	 Vicor Corp. 	39.251
+vicr	 Vicor Corp. 	1.047
+vii	 - 	14.4995
+vii	 - 	14.4995
+virc	 Virco Manufacturing Corp. 	9.8262
+viv	 - 	1.5627
+viv	 - 	1.5627
+vivo	 Meridian Bioscience Inc. 	0.262
+vki	 - 	3.5873
+vki	 - 	3.5873
+vkq	 - 	2.8938
+vkq	 - 	2.8938
+vlgea	 Village Super Market 	1.94
+vlgea	 Village Super Market 	0.264
+vmo	 - 	1.1503
+vmo	 - 	1.1503
+vod	 Vodafone Group Plc 	0.334
+voxx	 Audiovox Corp. 	5.917
+voxx	 Audiovox Corp. 	0.91
+vpv	 - 	4.9668
+vpv	 - 	4.9668
+vrnt	 Verint Systems Inc. 	1.6
+vrsn	 Verisign 	18.275
+vrsn	 Verisign 	0.91
+vrtx	 Vertex Pharmaceuticals Inc. 	1.32
+vrx	 - 	2.59
+vrx	 - 	2.59
+vsat	 Viasat 	0.08
+vsec	 Vse Corp. 	16.901
+vsec	 Vse Corp. 	0.0099
+vvr	 - 	3.2094
+vvr	 - 	3.2094
+vvus	 Vivus 	5.2289
+vvus	 Vivus 	0.12
+wab	 Wabtec Corp. 	0.854
+wabc	 Westamerica Bancorporation 	2.073
+wafd	 Washington Federal 	372.164
+wafd	 Washington Federal 	0.4
+wal	 Western Alliance Bancorporation 	2.0
+wash	 Washington Trust Bancorp 	7.26
+wash	 Washington Trust Bancorp 	0.53
+wat	 Waters Corp. 	0.95
+wayn	 Wayne Savings Bancshares Inc. 	24.304
+wbk	 Westpac Banking Corp. 	27.205
+wbs	 Webster Financial Corp. 	0.851
+wcc	 - 	4.006
+wcc	 - 	4.006
+wcg	 - 	6.466
+wcg	 - 	6.466
+wcn	 - 	17.545
+wcn	 - 	17.545
+wdc	 Western Digital Corp. 	30.069
+wdc	 Western Digital Corp. 	0.088
+wdr	 - 	10.157
+wdr	 - 	10.157
+wea	 - 	15.687
+wea	 - 	15.687
+wec	 - 	10.768
+wec	 - 	10.768
+wen	 The Wendy's Company 	17.9879
+wen	 The Wendy's Company 	0.2939
+wern	 Werner Enterprises 	0.692
+weys	 Weyco Group 	0.326
+wft	 - 	0.71
+wft	 - 	0.71
+wg	 - 	0.3
+wg	 - 	0.3
+whg	 - 	2.679
+wia	 - 	6.471
+wia	 - 	6.471
+wilc	 G. Willi-Food International Ltd 	13.0061
+wilc	 G. Willi-Food International Ltd 	0.0469
+win	 Windstream Corp. 	0.243
+wina	 Winmark Corp. 	1.995
+wire	 Encore Wire Corp. 	2.706
+wire	 Encore Wire Corp. 	6.098
+wit	 - 	20.545
+wit	 - 	20.545
+wiw	 - 	14.0466
+wiw	 - 	14.0466
+wlb	 Westmoreland Coal Company 	1.27
+wlfc	 Willis Lease Finance Corp. 	18.38
+wlfc	 Willis Lease Finance Corp. 	0.83
+wneb	 - 	4.7856
+wneb	 - 	4.7856
+wpcs	 Wpcs International Inc. 	4.62
+wpm	 - 	1016.9708
+wpm	 - 	1016.9708
+wppgy	 Wpp Plc 	982.172
+wppgy	 Wpp Plc 	1.338
+wpz	 - 	17.597
+wpz	 - 	17.597
+wr	 - 	23.508
+wr	 - 	23.508
+wrb	 - 	17.344
+wrb	 - 	17.344
+wre	 - 	18.609
+wre	 - 	18.609
+wri	 - 	13.784
+wri	 - 	13.784
+wrld	 World Acceptance Corp. 	14.216
+wrld	 World Acceptance Corp. 	3.41
+wsbc	 Wesbanco 	5.842
+wsbc	 Wesbanco 	0.278
+wsbf	 Waterstone Financial 	15.0541
+wsbf	 Waterstone Financial 	0.0818
+wsci	 Wsi Industries Inc. 	5.2575
+wsfs	 Wsfs Financial Corp. 	0.74
+wst	 - 	7.383
+wst	 - 	7.383
+wstg	 Wayside Technology Group 	12.7139
+wstg	 Wayside Technology Group 	0.1111
+wstl	 Westell Technologies 	1.44
+wtba	 West Bancorporation 	4.554
+wtba	 West Bancorporation 	0.063
+wtfc	 Wintrust Financial Corp. 	0.697
+wti	 - 	28.811
+wti	 - 	28.811
+wtr	 - 	33.076
+wtr	 - 	33.076
+wts	 - 	23.03
+wts	 - 	23.03
+wtt	 - 	46.752
+wtt	 - 	46.752
+wvfc	 Wvs Financial 	34.49
+wvvi	 Willamette Valley Vineyards 	9.301
+wvvi	 Willamette Valley Vineyards 	0.31
+wwd	 Woodward 	0.255
+wwe	 - 	2.982
+wwe	 - 	2.982
+www	 - 	2.874
+www	 - 	2.874
+wynn	 Wynn Resorts Limited 	2.008
+wyy	 - 	28.664
+wyy	 - 	28.664
+x	 United States Steel Corp. 	0.742
+xcra	 - 	23.66
+xcra	 - 	23.66
+xec	 Cimarex Energy Co 	0.63
+xel	 Xcel Energy Inc. 	24.106
+xel	 Xcel Energy Inc. 	0.42
+xl	 Xl Company Switzerland Gmbh 	0.376
+xlnx	 Xilinx 	40.556
+xlnx	 Xilinx 	1.144
+xom	 Exxon Mobil Corp. 	0.346
+xoma	 Xoma Ltd 	39.0
+xper	 - 	516.326
+xper	 - 	516.326
+xpl	 - 	538.55
+xpo	 Express-1 Expedited Solutions 	537.28
+xpo	 Express-1 Expedited Solutions 	0.04
+xray	 Dentsply International Inc. 	1.537
+xrm	 Xerium Technologies 	3.0
+xrx	 Xerox Corp. 	179.918
+xrx	 Xerox Corp. 	1.76
+yorw	 The York Water Company 	257.154
+yum	 Yum! Brands 	37.284
+yum	 Yum! Brands 	0.313
+zbra	 Zebra Technologies Corporation 	2.98
+zeus	 Olympic Steel 	25.955
+zeus	 Olympic Steel 	0.917
+zf	 Zweig Fund 	5.664
+zf	 Zweig Fund 	0.082
+zion	 Zions Bancorporation 	2.039
+zixi	 Zix Corporation 	67.904
+ztr	 Zweig Total Return Fund 	0.2097
+zumz	 Zumiez Inc. 	0.33

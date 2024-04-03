@@ -1,0 +1,76 @@
+aapl    Apple Inc.
+adbe    Adobe Systems Incorporated
+adi    Analog Devices
+adp    Automatic Data Processing
+adsk    Autodesk
+amat    Applied Materials
+amgn    Amgen Inc.
+amzn    Amazon.Com
+atro    Astronics Corp.
+axgn    Lectec Corp
+bbby    Bed Bath & Beyond Inc.
+biib    Biogen Idec Inc
+ca    CA Inc.
+ceco    Career Education Corp.
+chkp    Check Point Software Technologies Ltd
+chrw    C.H. Robinson Worldwide
+cien    Ciena Corp.
+cinf    Cincinnati Financial Corp.
+cmcsa    Comcast Corp.
+cost    Costco Wholesale Corp.
+csco    Cisco Systems
+ctas    Cintas Corp.
+ctxs    Citrix Systems
+dish    Dish Network Corp.
+dltr    Dollar Tree
+ebay    Ebay Inc.
+esrx    Express Scripts
+etfc    E*Trade Financial Corp.
+expd    Expeditors International Of Washington
+fast    Fastenal Company
+fisv    Fiserv
+fitb    Fifth Third Bancorp
+flex    Flextronics International Ltd
+gild    Gilead Sciences
+gntx    Gentex Corp.
+grmn    Garmin Ltd
+gt    Goodyear Tire & Rubber Company
+has    Hasbro
+hban    Huntington Bancshares Inc.
+hsic    Henry Schein
+intc    Intel Corp.
+intu    Intuit Inc.
+klac    Kla-Tencor Corp.
+lamr    Lamar Advertising Company
+lrcx    Lam Research Corp.
+mark    Remark Media Inc
+mat    Mattel
+mchp    Microchip Technology Inc.
+mitk    Mitek Systems Inc
+mrvl    Marvell Technology Group
+msft    Microsoft Corp.
+mu    Micron Technology
+mxim    Maxim Integrated Products
+ntap    Netapp
+ntrs    Northern Trust Corp.
+nvda    Nvidia Corp.
+payx    Paychex
+pcar    Paccar Inc.
+pdco    Patterson Companies Inc.
+pten    Patterson-Uti Energy
+qcom    Qualcomm Inc.
+rost    Ross Stores
+rrd    R.R. Donnelley & Sons Company
+ryaay    Ryanair Holdings Plc
+sanm    Sanmina-Sci Corp.
+sbux    Starbucks Corp.
+slm    Slm Corp.
+snps    Synopsys
+symc    Symantec Corp.
+trow    T. Rowe Price Group
+txn    Texas Instruments Inc.
+vrsn    Verisign
+wen    The Wendy's Company
+xlnx    Xilinx
+xray    Dentsply International Inc.
+zion    Zions Bancorporation

@@ -1,0 +1,3149 @@
+a	 Agilent Technologies
+a	 Agilent Technologies
+aa	 Alcoa Inc.
+aa	 Alcoa Inc.
+aan	 Aaron's Inc
+aap	 -
+aap	 -
+aav	 Advantage Oil & Gas Ltd
+aaww	 -
+aaww	 -
+aaxn	 -
+aaxn	 -
+ab	 Alliance Capital Management L.P.
+ab	 Alliance Capital Management L.P.
+abc	 Amerisourcebergen Corporation
+abc	 Amerisourcebergen Corporation
+abco	 -
+abco	 -
+abg	 -
+abg	 -
+abio	 -
+abio	 -
+abm	 Abm Industries Incorporated
+abm	 Abm Industries Incorporated
+abr	 Arbor Realty Trust
+abt	 Abbot Laboratories
+abt	 Abbot Laboratories
+abx	 Barrick Gold Corp.
+acer	 -
+acer	 -
+ach	 Aluminum Corporation of China Ltd.
+achv	 -
+achv	 -
+acn	 Accenture Plc.
+acn	 Accenture Plc.
+adbe	 -
+adbe	 -
+adc	 Agree Realty Corp.
+adi	 -
+adi	 -
+adm	 Archer-Daniels-Midland Company
+adm	 Archer-Daniels-Midland Company
+adp	 -
+adp	 -
+ads	 Alliance Data Systems Corp.
+adx	 Adams Express Company
+adxs	 -
+adxs	 -
+ae	 -
+ae	 -
+aee	 Ameren Corp.
+aeg	 Aegon Nv
+aeis	 -
+aeis	 -
+ael	 American Equity Investment Life
+aem	 Agnico-Eagle Mines Limited
+aep	 American Electric Power Company
+aep	 American Electric Power Company
+aer	 Aercap Holdings N.V.
+aes	 The Aes Corp.
+aet	 Aetna Inc.
+aezs	 -
+aezs	 -
+afb	 Alliance National Municipal
+afg	 American Financial Group  
+afg	 American Financial Group  
+afl	 Aflac Incorporated
+agc	 Advent Claymore Convertible Securities
+agco	 Agco Corp.
+agco	 Agco Corp.
+agd	 Alpine Global Dynamic Dividend Fund
+agii	 -
+agii	 -
+agm	 Federal Agricultural Mortgage Corp.
+agm	 Federal Agricultural Mortgage Corp.
+agn	 Allergan
+agn	 Allergan
+ago	 Assured Guaranty Ltd
+agu	 Agrium Inc.
+ahl	 Aspen Insurance Holdings
+aht	 Ashford Hospitality Trust Inc
+ai	 Arlington Asset Investment Corp
+ai	 Arlington Asset Investment Corp
+aig	 American International Group
+aig	 American International Group
+ain	 Albany International Corp.
+air	 Aar 
+aiv	 Apartment Investment And Management
+aiv	 Apartment Investment And Management
+aiz	 Assurant
+aiz	 Assurant
+akam	 -
+akam	 -
+akp	 Alliance California Muni
+akr	 Acadia Realty Trust
+akr	 Acadia Realty Trust
+aks	 Ak Steel Holding Corp.
+albo	 -
+albo	 -
+alco	 -
+alco	 -
+ale	 Allete
+ale	 Allete
+alex	 Alexander And Baldwin Inc
+algt	 -
+algt	 -
+alk	 Alaska Air Group
+alks	 -
+alks	 -
+all	 Allstate Corporation
+all	 Allstate Corporation
+alog	 -
+alog	 -
+alv	 Autoliv
+alx	 Alexander's
+alx	 Alexander's
+amd	 Advanced Micro Devices
+ame	 Amtek
+ame	 Amtek
+amed	 -
+amed	 -
+amg	 Affiliated Managers Group  
+amg	 Affiliated Managers Group  
+amp	 Ameriprise Financial Services
+amsc	 -
+amsc	 -
+amt	 American Tower Corp.
+amtd	 TD Ameritrade Holding Corp.
+amwd	 -
+amwd	 -
+amx	 American Movil S.A.B. De C.V.
+amx	 American Movil S.A.B. De C.V.
+amzn	 -
+amzn	 -
+an	 Autonation
+anat	 -
+anat	 -
+ande	 -
+ande	 -
+andv	 -
+andv	 -
+anf	 Abercrombie & Fitch Company
+anh	 Anworth Mortgage Asset Corp.
+anik	 -
+anik	 -
+anip	 -
+anip	 -
+anss	 -
+anss	 -
+antm	 -
+antm	 -
+anw	 Aegean Marine Petroleum Network
+aod	 Alpine Total Dynamic Dividend
+aoi	 Alliance One International
+aoi	 Alliance One International
+ap	 Ampco-Pittsburgh Corp.
+apa	 Apache Corp.
+apa	 Apache Corp.
+apc	 Anadarko Petroleum Corp.
+apc	 Anadarko Petroleum Corp.
+apd	 Air Products And Chemicals
+aph	 Amphenol Corp.
+aphb	 -
+aphb	 -
+aplp	 -
+aplp	 -
+apog	 -
+apog	 -
+apri	 -
+apri	 -
+apu	 Amerigas Partners L.P.
+apu	 Amerigas Partners L.P.
+aray	 -
+aray	 -
+arc	 American Reprographics Company
+arc	 American Reprographics Company
+arcb	 -
+arcb	 -
+are	 Alexandria Real Estate Equities
+are	 Alexandria Real Estate Equities
+arl	 American Realty Investors
+arlp	 -
+arlp	 -
+arlz	 -
+arlz	 -
+arna	 -
+arna	 -
+arow	 -
+arow	 -
+arrs	 -
+arrs	 -
+arry	 -
+arry	 -
+artna	 -
+artna	 -
+arw	 Arrow Electronics
+asa	 Asa Gold And Precious Metals
+asfi	 -
+asfi	 -
+asgn	 On Assignment
+asgn	 On Assignment
+ash	 Ashland Inc.
+ash	 Ashland Inc.
+asr	 Grupo Aeroporuario Del Sureste
+asr	 Grupo Aeroporuario Del Sureste
+asx	 Advanced Semiconductor Engineering
+asys	 -
+asys	 -
+at	 Atlantic Power Corp.
+atax	 -
+atax	 -
+atec	 -
+atec	 -
+atge	 -
+atge	 -
+athx	 -
+ati	 Allagheny Technologies Inc.
+ati	 Allagheny Technologies Inc.
+ato	 Atmos Energy Llc
+atr	 Aptargroup
+atri	 -
+atri	 -
+atu	 Actuant Corp.
+atv	 Acorn International
+atv	 Acorn International
+auo	 Au Optronics Corp
+auto	 -
+auto	 -
+auy	 Yamana Gold
+ava	 Avista Corp.
+ava	 Avista Corp.
+avav	 -
+avav	 -
+avb	 Avalonbay Communities
+avb	 Avalonbay Communities
+avdl	 -
+avdl	 -
+avhi	 -
+avhi	 -
+avid	 -
+avid	 -
+avk	 Advent Claymore Convertible Securities
+avk	 Advent Claymore Convertible Securities
+avnw	 -
+avnw	 -
+avp	 Avon Products
+avp	 Avon Products
+avt	 Avnet
+avt	 Avnet
+avx	 Avx Corp.
+avy	 Avery Dennison Corp.
+avy	 Avery Dennison Corp.
+awf	 Alliance World Dollar Fund II
+awi	 Armstrong World Industries Inc
+awi	 Armstrong World Industries Inc
+axe	 Anixter International Inc.
+axl	 American Axle & Manufacturing
+axp	 American Express Company
+axp	 American Express Company
+axr	 Amrep Corp.
+axs	 Axis Capital Holdings
+axs	 Axis Capital Holdings
+ayi	 Acuity Brands Inc
+ayi	 Acuity Brands Inc
+ayr	 Aircastle Limited
+azn	 Astrazeneca Plc
+azo	 Autozone
+azo	 Autozone
+azz	 Azz Inc.
+b	 -
+b	 -
+ba	 -
+ba	 -
+baa	 -
+baa	 -
+baby	 -
+baby	 -
+bac	 -
+bac	 -
+bak	 -
+bak	 -
+bam	 -
+bam	 -
+banf	 -
+banf	 -
+bap	 -
+bap	 -
+bas	 -
+bas	 -
+bax	 -
+bax	 -
+bb	 -
+bb	 -
+bbby	 -
+bbby	 -
+bbg	 -
+bbg	 -
+bbl	 -
+bbl	 -
+bbox	 -
+bbox	 -
+bbsi	 -
+bbsi	 -
+bbt	 -
+bbt	 -
+bbva	 -
+bbva	 -
+bbw	 -
+bbw	 -
+bby	 -
+bby	 -
+bc	 -
+bc	 -
+bce	 Bce
+bce	 Bce
+bch	 Banco De Chile
+bch	 Banco De Chile
+bco	 Brink's Company
+bcr	 C.R. Bard
+bcs	 Barclays Plc
+bdc	 Belden Inc
+bdc	 Belden Inc
+bdj	 Blackrock Enhanced Dividend Achievers
+bdl	 -
+bdn	 Brandywine Realty Trust
+bdn	 Brandywine Realty Trust
+bdx	 Becton Dickinson And Company
+bebe	 -
+bebe	 -
+ben	 Franklin Resources
+bfk	 Blackrock Florida Muni 2020 Trust
+bfo	 -
+bfo	 -
+bfr	 Bbva Banco Frances S.A.
+bfs	 Saul Centers
+bfz	 Blackrock California Muni Trust
+bg	 Bunge Limited
+bgc	 General Cable Corp.
+bgg	 Briggs & Stratton Corp.
+bgr	 Blackrock Energy And Resources Trust
+bgs	 B&G Foods Holdings
+bgt	 Blackrock Global
+bgt	 Blackrock Global
+bgy	 Blackrock International
+bh	 Biglari Holdings Inc.
+bh	 Biglari Holdings Inc.
+bhk	 Blackrock Core Trust
+bhlb	 Berkshire Hills Bancorp
+bhlb	 Berkshire Hills Bancorp
+bhp	 Bhp Billiton Limited
+bid	 Sotheby's Holdings
+bif	 Uslife Income Fund
+big	 Big Lots
+biib	 -
+biib	 -
+bio	 Bio-Rad Laboratories
+bjz	 Blackrock California Muni 2018 Trust
+bk	 Bank Of New York Mellon Corp.
+bk	 Bank Of New York Mellon Corp.
+bkd	 Brookdale Senior Living Inc.
+bkd	 Brookdale Senior Living Inc.
+bke	 Buckle
+bkh	 Black Hills Corp.
+bkk	 Blackrock Muni 2020 Trust
+bkn	 Blackrock Investment Quality Municipal
+bks	 Barnes & Noble
+bks	 Barnes & Noble
+bldp	 -
+bldp	 -
+bldr	 -
+bldr	 -
+ble	 -
+ble	 -
+blh	 Blackrock New York Muni 2018 Trust
+blh	 Blackrock New York Muni 2018 Trust
+blin	 -
+blin	 -
+blk	 Blackrock
+blk	 Blackrock
+bll	 Ball Corp.
+blw	 Blackrock Limited Duration Income Trust
+blx	 Banco Latinoamericano De Comercio
+blx	 Banco Latinoamericano De Comercio
+bma	 Banco Macro S.A.
+bma	 Banco Macro S.A.
+bme	 Blackrock Health Sciences Trust
+bmi	 Badger Meter
+bmo	 Bank Of Montreal
+bmo	 Bank Of Montreal
+bms	 Bemis Company
+bmy	 Bristol-Myers Squibb Company
+bmy	 Bristol-Myers Squibb Company
+bnj	 Blackrock New Jersey Muni Income Trust
+bns	 Bank Of Nova Scotia
+bny	 Blackrock New York Muni Trust Inc.
+bobe	 -
+bobe	 -
+boe	 Blackrock Global
+boe	 Blackrock Global
+boh	 Bank Of Hawaii Corp.
+boh	 Bank Of Hawaii Corp.
+bokf	 -
+bokf	 -
+bosc	 -
+bosc	 -
+bp	 Bp P.L.C.
+bp	 Bp P.L.C.
+bpl	 Buckeye Partners L.P.
+bpl	 Buckeye Partners L.P.
+bpop	 -
+bpop	 -
+bpt	 Bp Prudhoe Bay Royalty Trust
+bpt	 Bp Prudhoe Bay Royalty Trust
+br	 Broadridge Financial Solutions Llc
+brc	 Brady Corp.
+brfs	 Brf-Brasil Foods S.A.
+brk-a	 -
+brk-a	 -
+brk-b	 -
+brk-b	 -
+brkr	 -
+brkr	 -
+brks	 -
+brks	 -
+brn	 -
+brn	 -
+bro	 Brown & Brown
+brs	 Bristow Group Inc
+brs	 Bristow Group Inc
+brt	 Brt Realty Trust
+bsac	 Banco Santander-Chile Ads
+bsd	 Blackrock Strategic Muni Trust Inc.
+bse	 Blackrock New York Muni Income Trust
+bsrr	 -
+bsrr	 -
+bsx	 Boston Scientific Corp.
+bsx	 Boston Scientific Corp.
+bt	 Bt Group Plc
+bt	 Bt Group Plc
+bta	 Blackrock Long-Term Muni Advantage Trust
+bte	 Baytex Energy Corp
+bte	 Baytex Energy Corp
+bti	 -
+bti	 -
+bto	 John Hancock Bank And Thrift Fund
+bto	 John Hancock Bank And Thrift Fund
+btz	 Blackrock Preferred
+buse	 -
+buse	 -
+bvn	 Compania Mina Beunaventura S.A.
+bvsn	 -
+bvsn	 -
+bwa	 Borgwarner Inc.
+bwa	 Borgwarner Inc.
+bwen	 -
+bwen	 -
+bwld	 -
+bwld	 -
+bwp	 Boardwalk Pipeline Partners L.P.
+bwp	 Boardwalk Pipeline Partners L.P.
+bxc	 Bluelinx Holdings Inc.
+bxc	 Bluelinx Holdings Inc.
+bxmt	 Blackstone Mortgage Trust Inc. CI A
+bxp	 Boston Properties
+byd	 Boyd Gaming Corp.
+byd	 Boyd Gaming Corp.
+bym	 Blackrock Muni Income Quality Trust
+bzh	 Beazer Homes USA
+bzh	 Beazer Homes USA
+c	 Citigroup Inc.
+c	 Citigroup Inc.
+cae	 Cae Inc
+cag	 Conagra Foods
+cag	 Conagra Foods
+cah	 Cardinal Health
+cah	 Cardinal Health
+caj	 Canon
+caj	 Canon
+cat	 Caterpillar
+cat	 Caterpillar
+cato	 Cato Corp.
+caty	 -
+caty	 -
+cavm	 -
+cavm	 -
+cb	 Chubb Corp.
+cb	 Chubb Corp.
+cbb	 Cincinnati Bell Inc
+cbd	 Companhia Brasileira De Distribuicao
+cbg	 Cbre Group Inc
+cbg	 Cbre Group Inc
+cbi	 Chicago Bridge & Iron Company N.V.
+cbi	 Chicago Bridge & Iron Company N.V.
+cbio	 -
+cbio	 -
+cbk	 Christopher & Banks Corp.
+cbl	 Cbl & Associated Properties
+cbl	 Cbl & Associated Properties
+cbli	 -
+cbli	 -
+cbm	 Cambrex Corp.
+cbmx	 -
+cbmx	 -
+cbrl	 -
+cbrl	 -
+cbs	 Cbs Corp.
+cbs	 Cbs Corp.
+cbt	 Cabot Corp.
+cbt	 Cabot Corp.
+cbu	 Communitiy Bank System
+cca	 -
+cca	 -
+ccbg	 -
+ccbg	 -
+ccc	 Calgon Carbon Corp.
+cce	 Coca-Cola Enterprises
+cce	 Coca-Cola Enterprises
+ccf	 -
+ccf	 -
+cci	 Crown Castle International Corp.
+ccj	 Cameco Corp.
+ccj	 Cameco Corp.
+cck	 Crown Cork & Seal Company
+ccl	 Carnival Corp.
+ccl	 Carnival Corp.
+cco	 Clear Channel Outdoor Holdings
+ccoi	 -
+ccoi	 -
+ccrn	 -
+ccrn	 -
+ccu	 Compania Cervecerias Unidas S.A.
+ccu	 Compania Cervecerias Unidas S.A.
+cde	 Coeur D'Alene Mines Corp.
+cde	 Coeur D'Alene Mines Corp.
+cdor	 -
+cdor	 -
+cdr	 Cedar Shopping Centers Inc
+cdti	 -
+cdti	 -
+cdzi	 -
+cdzi	 -
+ce	 Celanese Corp.
+ce	 Celanese Corp.
+ceco	 -
+ceco	 -
+cee	 Central Europe And Russia Fund
+cee	 Central Europe And Russia Fund
+cei	 -
+cei	 -
+cenx	 -
+cenx	 -
+ceo	 Cnoon Limited
+cetv	 -
+cetv	 -
+cfbk	 -
+cfbk	 -
+cffi	 -
+cffi	 -
+cfr	 Cullen/Frost Bankers
+cfr	 Cullen/Frost Bankers
+cgg	 Compagnie Generale De Gephysgu
+cgg	 Compagnie Generale De Gephysgu
+cgi	 Celadon Group
+cha	 China Telecom Corp Ltd
+cha	 China Telecom Corp Ltd
+chd	 Church & Dwight Company
+chdn	 -
+chdn	 -
+che	 Chemed
+che	 Chemed
+chh	 Choice Hotels International
+chk	 Chesapeake Energy Corp.
+chk	 Chesapeake Energy Corp.
+chke	 -
+chke	 -
+chl	 China Mobile [Hong Kong] Ltd
+chrw	 -
+chrw	 -
+chs	 Chico's Fas
+chs	 Chico's Fas
+cht	 Chunghwa Telecom Co Ltd
+ci	 Cigna Corp.
+ci	 Cigna Corp.
+cib	 Bancolombia S.A.
+cib	 Bancolombia S.A.
+cidm	 -
+cidm	 -
+cien	 -
+cien	 -
+cif	 Colonial Intermediate High
+cig	 Comp En De Mn Cemig Ads
+cig	 Comp En De Mn Cemig Ads
+cii	 Blackrock Capital And Income Strategies
+cii	 Blackrock Capital And Income Strategies
+cinf	 -
+cinf	 -
+cir	 Circor International
+ckh	 Seacor Smit Inc.
+clb	 Core Laboratories N.V.
+clbs	 -
+clbs	 -
+clf	 Cliffs Natual Resources Inc.
+clgx	 Corelogic
+clh	 Clean Harbors
+clh	 Clean Harbors
+cli	 Mack-Cali Realty Corp.
+cli	 Mack-Cali Realty Corp.
+clm	 -
+clm	 -
+clr	 Continental Resources
+clrb	 -
+cls	 Celestica
+clsn	 -
+clsn	 -
+club	 -
+club	 -
+clwt	 -
+clwt	 -
+clx	 Clorox Company
+clx	 Clorox Company
+cm	 Canadian Imperial Bank Of Commerce
+cma	 Comerica Inc.
+cmc	 Commercial Metals Company
+cmco	 -
+cmco	 -
+cme	 -
+cme	 -
+cmg	 Chipotle Mexican Grill
+cmls	 -
+cmls	 -
+cmp	 Compass Minerals Intl Inc
+cmp	 Compass Minerals Intl Inc
+cmpr	 -
+cmpr	 -
+cms	 Cms Energy Corp.
+cmtl	 -
+cmtl	 -
+cmu	 Colonial Muni Income Trust
+cna	 -
+cna	 -
+cnbka	 -
+cnbka	 -
+cnc	 Centene Corp.
+cnc	 Centene Corp.
+cni	 Canadian National Railway Company
+cnmd	 -
+cnmd	 -
+cno	 Cno Financial Group
+cno	 Cno Financial Group
+cnob	 -
+cnob	 -
+cnp	 Centerpoint Energy Inc
+cnp	 Centerpoint Energy Inc
+cnq	 Canadian Natural Resources
+cns	 Cohn & Steers Inc
+cntf	 -
+cntf	 -
+cnx	 Consol Energy Inc.
+cnx	 Consol Energy Inc.
+codi	 Compass Diversified Holdings
+cof	 Capital One Financial Corp.
+cof	 Capital One Financial Corp.
+cog	 Cabot Oil & Gas Corp.
+cohn	 -
+cohn	 -
+cohr	 -
+cohr	 -
+cohu	 -
+cohu	 -
+coke	 -
+coke	 -
+col	 Rockwell Collins
+col	 Rockwell Collins
+coo	 Cooper Companies
+corr	 Corenergy Infrastructure Trust Inc
+corr	 Corenergy Infrastructure Trust Inc
+cost	 -
+cost	 -
+cot	 Cott Corp
+cown	 -
+cown	 -
+cp	 Canadian Pacific Railway
+cpa	 Copa Holdings S.A.
+cpe	 Callon Petroleum Company
+cpf	 Cpb Inc.
+cpf	 Cpb Inc.
+cpk	 Chesapeake Utilities Corp.
+cpl	 Cpfl Energia S.A.
+cpla	 -
+cpla	 -
+cplp	 -
+cplp	 -
+cpsi	 -
+cpsi	 -
+cpst	 -
+cpst	 -
+cpt	 Camden Property Trust
+cpt	 Camden Property Trust
+cr	 Crane Company
+crai	 -
+crai	 -
+crf	 -
+crf	 -
+crh	 Crh Plc
+cri	 Carter's
+crk	 Comstock Resources
+crk	 Comstock Resources
+crm	 Salesforce.Com Inc
+crme	 -
+crme	 -
+crmt	 -
+crmt	 -
+crnt	 -
+crnt	 -
+crox	 -
+crox	 -
+crr	 Carbo Ceramics
+crs	 Carpenter Technology Corp.
+crs	 Carpenter Technology Corp.
+crt	 Cross Timbers Royalty Trust
+cry	 Cryolife
+crzo	 -
+crzo	 -
+cs	 Credit Suisse Group
+cs	 Credit Suisse Group
+csgp	 -
+csgp	 -
+csii	 -
+csii	 -
+css	 Css Industries
+csu	 Capital Senior Living Corp.
+cswc	 -
+cswc	 -
+csx	 Csx Corp.
+csx	 Csx Corp.
+ctas	 -
+ctas	 -
+ctb	 Cooper Tire & Rubber Company
+ctb	 Cooper Tire & Rubber Company
+ctbi	 -
+ctbi	 -
+ctl	 Centurylink
+ctl	 Centurylink
+cto	 -
+cto	 -
+ctrn	 -
+ctrn	 -
+ctsh	 -
+ctsh	 -
+ctws	 -
+ctws	 -
+ctxs	 -
+ctxs	 -
+cub	 Cubic Corp.
+cuk	 Carnival Plc Ads
+cuk	 Carnival Plc Ads
+cuz	 Cousins Properties Inc.
+cva	 Covanta Holding Corp.
+cvco	 -
+cvco	 -
+cvg	 Convergys Corp.
+cvg	 Convergys Corp.
+cvgi	 -
+cvgi	 -
+cvlt	 -
+cvlt	 -
+cvm	 -
+cvm	 -
+cvo	 Cenveo Inc
+cvo	 Cenveo Inc
+cvx	 Chevron Corp.
+cw	 Curtiss-Wright Corp.
+cxe	 Colonial High Income Muni Trust
+cxh	 Colonial Investment Grade Muni Trust
+cxh	 Colonial Investment Grade Muni Trust
+cxo	 Concho Resources Inc.
+cxw	 Corrections Corporation Of America
+cxw	 Corrections Corporation Of America
+cycc	 -
+cycc	 -
+cyd	 China Yuchai International
+cyh	 Community Health Systems
+cyh	 Community Health Systems
+cyrx	 -
+cyrx	 -
+cytk	 -
+cytk	 -
+cytr	 -
+cytr	 -
+cytx	 -
+cytx	 -
+d	 Dominion Resources
+d	 Dominion Resources
+dal	 Delta Air Lines Inc.
+dar	 Darling International Inc.
+dave	 -
+dave	 -
+db	 Deutsche Bank Ag
+db	 Deutsche Bank Ag
+dbd	 Diebold Inc.
+dcm	 Ntt Docomo Inc
+dco	 Ducommun Inc.
+dct	 Dct Industrial Trust Inc
+dct	 Dct Industrial Trust Inc
+ddc	 Dominion Diamond Corporation
+ddc	 Dominion Diamond Corporation
+dde	 Dover Downs Gaming & Entertainment Inc
+ddf	 Delaware Dividend & Income
+ddr	 Ddr Corp
+dds	 Dillard's
+de	 Deere & Company
+dei	 Douglas Emmett
+del	 Deltic Timber Corp.
+deo	 Diageo Plc
+dex	 Delaware Enhanced Global Dividend
+df	 Dean Foods Company
+df	 Dean Foods Company
+dfbg	 -
+dfbg	 -
+dfs	 Discover Financial Services
+dfs	 Discover Financial Services
+dgx	 Quest Diagnostics Inc.
+dhf	 Dreyfus High Yield Strategies Fund
+dhg	 Dws High Income Opportunities Fund
+dhg	 Dws High Income Opportunities Fund
+dhi	 D.R. Horton
+dhil	 -
+dhil	 -
+dhr	 Danaher Corp.
+dht	 Dht Holdings
+dht	 Dht Holdings
+dis	 Walt Disney Company
+dish	 -
+dish	 -
+dks	 Dick's Sporting Goods Inc
+dlb	 Dolby Laboratories
+dlx	 Deluxe Corp.
+dlx	 Deluxe Corp.
+dnb	 Dun & Bradstreet Corp.
+dnb	 Dun & Bradstreet Corp.
+dni	 Chartwell Dividend & Income Fund
+dnp	 Duff & Phelps Utilities Income
+dnr	 Denbury Resources
+do	 Diamond Offshore Drilling
+dov	 Dover Corp.
+dox	 Amdocs Limited
+dox	 Amdocs Limited
+dpz	 Domino's Pizza Inc
+dre	 Duke Realty Corp.
+dre	 Duke Realty Corp.
+drh	 Diamondrock Hospitality Company
+dri	 Darden Resorts International
+dri	 Darden Resorts International
+drq	 Dril-Quip
+drys	 -
+drys	 -
+dsm	 Dreyfus Strategic Muni Bond Fund
+dspg	 -
+dspg	 -
+dst	 Dst Systems
+dst	 Dst Systems
+dsu	 Blackrock Debt Strategies Fund
+dsw	 Dsw Inc.
+dsw	 Dsw Inc.
+dsx	 Diana Shipping Inc.
+dte	 Dte Energy Company
+dte	 Dte Energy Company
+dtf	 Duff & Phelps Utilities Tax-Free Income
+dtrm	 -
+dtrm	 -
+duc	 Duff & Phelps Utility & Corporate Trust
+duk	 Duke Energy Corp.
+duk	 Duke Energy Corp.
+dvax	 -
+dvax	 -
+dvd	 Dover Downs Entertainment
+dvn	 Devon Energy Corp.
+dvn	 Devon Energy Corp.
+dx	 Dynex Capital
+dxcm	 -
+dxcm	 -
+dxlg	 -
+dxlg	 -
+dxpe	 -
+dxpe	 -
+dxr	 -
+dxr	 -
+dxtr	 -
+dxtr	 -
+dxyn	 -
+dxyn	 -
+dy	 Dycom Industries
+dy	 Dycom Industries
+dyn	 Dynegy Inc
+dyn	 Dynegy Inc
+e	 Eni S.P.A.
+eat	 Brinker International
+ebf	 Ennis
+ebs	 Emergent Biosolutions
+ebtc	 -
+ebtc	 -
+eca	 Encana Corp.
+eca	 Encana Corp.
+ecl	 Ecolab Inc.
+ecl	 Ecolab Inc.
+edd	 Emerging Markets Domestic Debt Fund
+edn	 Empresa Distibuidora Y Comercializadora
+edr	 -
+edr	 -
+edu	 New Oriental Education & Technology
+ee	 El Paso Electric Company
+ee	 El Paso Electric Company
+eea	 European Equity Fund
+eeft	 -
+eeft	 -
+eep	 Enbridge Energy L.P.
+eep	 Enbridge Energy L.P.
+eeq	 Enbridge Energy Management Llc
+eeq	 Enbridge Energy Management Llc
+efii	 -
+efii	 -
+efr	 Eaton Vance Senior Floating-Rate Fund
+efsc	 -
+efsc	 -
+eft	 Eaton Vance Floating Rate Income Trust
+eft	 Eaton Vance Floating Rate Income Trust
+efx	 Equifax
+efx	 Equifax
+egf	 Blackrock Enhanced Government Fund
+egle	 -
+egle	 -
+egn	 Energen Corp.
+egn	 Energen Corp.
+ego	 Eldorado Gold Corp
+egov	 -
+egov	 -
+egp	 Eastgroup Properties
+egp	 Eastgroup Properties
+egy	 Vaalco Energy Inc
+ehi	 Western Asset Global High
+ehi	 Western Asset Global High
+ehth	 -
+ehth	 -
+eia	 -
+eia	 -
+eig	 Employers Holdings Inc
+eig	 Employers Holdings Inc
+eix	 Edison International
+eix	 Edison International
+el	 Estee Lauder Companies
+elon	 -
+elon	 -
+elp	 Companhia Paranaense De Energia
+els	 Equity Lifestyle Properties
+els	 Equity Lifestyle Properties
+ely	 Callaway Golf Company
+emcf	 -
+emd	 Western Asset Emerging Markets Fund
+eme	 Emcor Group
+eme	 Emcor Group
+emitf	 -
+emitf	 -
+emkr	 -
+emkr	 -
+eml	 -
+eml	 -
+emms	 -
+emms	 -
+emn	 Eastman Chemical Company
+emr	 Emerson Electric Company
+enb	 Enbridge Inc
+endp	 -
+endp	 -
+enlc	 -
+enlc	 -
+enlk	 -
+enlk	 -
+enr	 Energizer Holdings
+ens	 Enersys
+eod	 Wells Fargo Global Dividend Opportunity
+eog	 Eog Resources
+eog	 Eog Resources
+eoi	 Eaton Vance Enhance Equity
+eos	 Eaton Vance Enhanced Equity II
+eos	 Eaton Vance Enhanced Equity II
+epay	 -
+epay	 -
+epc	 -
+epc	 -
+epd	 Enterprise Products Partners L.P.
+epd	 Enterprise Products Partners L.P.
+epr	 Entertainment Properties Trust
+epr	 Entertainment Properties Trust
+eqc	 -
+eqc	 -
+eqix	 -
+eqix	 -
+eqr	 Equity Residential
+eqr	 Equity Residential
+eqs	 Equus Total Return
+eqt	 Eqt Corp.
+eqt	 Eqt Corp.
+erf	 Enerplus Corp.
+erie	 -
+erie	 -
+erj	 Embraer-Empresa Brasileira De
+erj	 Embraer-Empresa Brasileira De
+ese	 Esco Technologies Inc.
+esea	 -
+esea	 -
+esgr	 -
+esgr	 -
+esl	 Esterline Technologies Corp.
+ess	 Essex Property Trust
+esv	 Ensco Plc
+etb	 Eaton Vance Tax-Managed Buy-Write
+ete	 Energy Transfer Equity L.P.
+etfc	 -
+etfc	 -
+etg	 Eaton Vance Tax-Advantaged Global
+etg	 Eaton Vance Tax-Advantaged Global
+eth	 Ethan Allen Interiors Inc.
+eth	 Ethan Allen Interiors Inc.
+etm	 Entercom Communications Corp.
+etn	 Eaton Corp.
+eto	 Eaton Vance Tax-Advantage Global
+etp	 Energy Transfer Partners
+etr	 Entergy Corp.
+etr	 Entergy Corp.
+etv	 Eaton Vance Corp.
+etw	 Eaton Vance Corp.
+ety	 Eaton Vance Tax-Managed Diversified
+ety	 Eaton Vance Tax-Managed Diversified
+ev	 Eaton Vance Corp.
+ev	 Eaton Vance Corp.
+evc	 Entravision Communications Corp.
+evep	 -
+evep	 -
+evf	 Eaton Vance Senior Income Trust
+evg	 Eaton Vance Short Diversified
+evg	 Eaton Vance Short Diversified
+evlv	 -
+evlv	 -
+evn	 Eaton Vance Muni Income Trust
+evo	 -
+evp	 -
+evr	 Evercore Partners Inc
+evr	 Evercore Partners Inc
+evt	 Eaton Vance Tax Advantaged Dividend
+evt	 Eaton Vance Tax Advantaged Dividend
+ew	 Edwards Lifesciences Corp.
+ewbc	 -
+ewbc	 -
+exac	 -
+exac	 -
+exc	 Exelon Corp.
+exc	 Exelon Corp.
+exg	 Eaton Vance Tax-Managed Global
+exk	 Endeavour Silver Corp.
+exls	 -
+exls	 -
+exp	 Eagle Materials Inc 
+exp	 Eagle Materials Inc 
+expd	 -
+expd	 -
+exr	 Extra Space Storage Inc
+ezpw	 -
+ezpw	 -
+f	 Ford Motor Company
+fac	 Liberte Investors Inc.
+fac	 Liberte Investors Inc.
+farm	 -
+farm	 -
+faro	 -
+faro	 -
+fast	 -
+fast	 -
+fbc	 Flagstar Bancorp
+fbp	 First Bancorp.
+fc	 Franklin Covey Company
+fcap	 -
+fcap	 -
+fcbc	 -
+fcbc	 -
+fcco	 -
+fcco	 -
+fccy	 -
+fccy	 -
+fcel	 -
+fcel	 -
+fcf	 First Commonwealth Financial Corp.
+fcfs	 -
+fcfs	 -
+fcn	 Fti Consulting
+fcnca	 -
+fcnca	 -
+fds	 Factset Research Systems Inc.
+fds	 Factset Research Systems Inc.
+fdx	 Fedex Corp.
+fdx	 Fedex Corp.
+fe	 Firstenergy Corp.
+ffc	 Flaherty Crumrine/Claymore Preferred
+ffg	 -
+ffg	 -
+ffhl	 -
+ffhl	 -
+ffic	 -
+ffic	 -
+ffin	 -
+ffin	 -
+ffiv	 -
+ffiv	 -
+ffkt	 -
+ffkt	 -
+fgp	 -
+fgp	 -
+fhn	 First Tennessee National Corp.
+fhn	 First Tennessee National Corp.
+fico	 Fair Isaac And Company Inc.
+fico	 Fair Isaac And Company Inc.
+fig	 Fortress Investment Group
+fii	 Federated Investors
+fii	 Federated Investors
+fis	 -
+fis	 -
+fisv	 -
+fisv	 -
+fitb	 -
+fitb	 -
+fl	 Footlocker Inc
+fl	 Footlocker Inc
+flc	 Flaherty & Crumrine/Claymore Total
+flex	 -
+flex	 -
+flir	 -
+flir	 -
+flo	 Flowers Foods
+flr	 Fluor Corp.
+fls	 Flowserve Corp.
+fmbh	 -
+fmbi	 -
+fmbi	 -
+fmn	 Federated Premier Muni
+fmo	 Fiduciary/Claymore MLP Opportunity Fund
+fmo	 Fiduciary/Claymore MLP Opportunity Fund
+fms	 Fresenius Medical Care Corp.
+fmx	 Fomento Economico Mexicano S.A.B. De
+fmx	 Fomento Economico Mexicano S.A.B. De
+fnf	 Fidelity National Financial
+fnhc	 -
+fnhc	 -
+fnlc	 -
+fnlc	 -
+fnsr	 -
+fnsr	 -
+foe	 Ferro Corp.
+foe	 Ferro Corp.
+fof	 Cohen & Steers Closed-End Opportunity
+fold	 -
+fold	 -
+form	 -
+form	 -
+forr	 -
+forr	 -
+forty	 -
+forty	 -
+fosl	 -
+fosl	 -
+fox	 -
+fox	 -
+foxa	 -
+foxa	 -
+fpt	 Federated Premier Intermediate Muni
+fr	 First Industrial Realty Trust
+fra	 Blackrock Floating Rate Income Fund
+fred	 -
+fred	 -
+frme	 -
+frme	 -
+fro	 Frontline Ltd
+fslr	 -
+fslr	 -
+fss	 Federal Signal Corp.
+fstr	 -
+fstr	 -
+ft	 Franklin Universal Trust
+ftek	 -
+ftek	 -
+ftf	 -
+ftf	 -
+ftft	 -
+fti	 Fmc Technologies
+ftk	 Flotek Industries
+ftr	 -
+ftr	 -
+ful	 H.B. Fuller Company
+fun	 Cedar Fair L.P.
+func	 -
+func	 -
+fusb	 -
+fve	 Five Star Quality Care
+fwrd	 -
+fwrd	 -
+g	 Genpact Limited
+gab	 Gabelli Equity Trust
+gabc	 -
+gabc	 -
+gaia	 -
+gaia	 -
+gain	 -
+gain	 -
+gam	 General American Investors
+gam	 General American Investors
+gatx	 -
+gatx	 -
+gbl	 Gamco Investors
+gbl	 Gamco Investors
+gbli	 -
+gbli	 -
+gbnk	 -
+gbnk	 -
+gbx	 Greenbrier Companies
+gbx	 Greenbrier Companies
+gco	 Genesco Inc.
+gco	 Genesco Inc.
+gcv	 Gabelli Convertible And Income
+gd	 General Dynamics Corp.
+gd	 General Dynamics Corp.
+gdl	 The Gdl Fund
+gdv	 Gabelli Dividend
+gdv	 Gabelli Dividend
+ge	 General Electric Company
+gec	 -
+gec	 -
+gef	 Greif Bros. Corp.
+gef	 Greif Bros. Corp.
+gel	 Genesis Energy L.P.
+geos	 -
+geos	 -
+ges	 Guess
+gf	 New Germany Fund
+gfa	 Gafisa Sa
+gfa	 Gafisa Sa
+gff	 Griffon Corp.
+gfi	 Gold Fields Ltd
+gfi	 Gold Fields Ltd
+gfy	 Western Asset Variable Rate Strategic
+gg	 Goldcorp Inc.
+gg	 Goldcorp Inc.
+ggb	 Gerdau S.A.
+ggg	 Graco Inc.
+ggp	 General Growth Properties
+ggt	 Gabelli Global Multi-Media Trust
+ghc	 -
+ghc	 -
+ghdx	 -
+ghdx	 -
+ghl	 Greenhill
+ghl	 Greenhill
+gib	 Cgi Group
+gifi	 -
+gifi	 -
+gigm	 -
+gigm	 -
+gil	 Gildan Activewear
+gil	 Gildan Activewear
+gild	 -
+gild	 -
+gim	 Templeton Global
+gis	 General Mills
+gis	 General Mills
+glp	 Global Partners Lp
+glre	 -
+glre	 -
+glu	 -
+glu	 -
+gluu	 -
+gluu	 -
+glw	 Corning Inc.
+glw	 Corning Inc.
+gme	 Gamestop Corp.
+gnw	 Genworth Financial Inc
+gogl	 -
+gogl	 -
+gol	 Gol Linhas Aereas Inteligentes S.A.
+gol	 Gol Linhas Aereas Inteligentes S.A.
+googl	 -
+googl	 -
+gpc	 Genuine Parts Company
+gpi	 Group 1 Automotive
+gpk	 Graphic Packaging Holdings Company
+gpm	 Guggenheim Enhanced Equity
+gpm	 Guggenheim Enhanced Equity
+gpn	 Global Payments Inc.
+gpn	 Global Payments Inc.
+gpor	 -
+gpor	 -
+gps	 Gap
+gra	 W.R. Grace & Company
+gra	 W.R. Grace & Company
+grbk	 -
+grbk	 -
+grif	 -
+grmn	 -
+grmn	 -
+grvy	 -
+grvy	 -
+gs	 Goldman Sachs Group
+gs	 Goldman Sachs Group
+gsh	 Guangshen Railway Company
+gsk	 Glaxosmithkline Plc
+gsk	 Glaxosmithkline Plc
+gtn	 Gray Television
+gtxi	 -
+gtxi	 -
+gty	 Getty Realty Corp.
+gut	 Gabelli Utility Trust
+gva	 Granite Construction Inc.
+gva	 Granite Construction Inc.
+gwr	 Genesee & Wyoming
+gww	 W.W. Grainger
+gww	 W.W. Grainger
+gxp	 Great Plains Energy Inc
+gyro	 -
+gyro	 -
+hae	 Haemonetics Corp.
+hae	 Haemonetics Corp.
+hal	 Halliburton Company
+hayn	 -
+hayn	 -
+hbm	 Hudbay Minerals Inc
+hcn	 Health Care REIT
+hcn	 Health Care REIT
+hd	 Home Depot
+hd	 Home Depot
+hdng	 -
+hdng	 -
+he	 Hawaiian Electric Industries
+he	 Hawaiian Electric Industries
+heb	 -
+heb	 -
+hele	 -
+hele	 -
+hep	 Holly Energy Partners L.P.
+hep	 Holly Energy Partners L.P.
+hes	 Hess Corp.
+hf	 Hff Inc.
+hfbc	 -
+hfbc	 -
+hfbl	 -
+hfwa	 -
+hgt	 Hugoton Royalty Trust
+hgt	 Hugoton Royalty Trust
+hhs	 Harte-Hanks
+hhs	 Harte-Hanks
+hibb	 -
+hibb	 -
+hig	 Hartford Financial Services Group
+hig	 Hartford Financial Services Group
+hio	 Western Asset High
+hiw	 Highwoods Properties
+hiw	 Highwoods Properties
+hix	 Western Asset High Income Fund II Inc.
+hl	 Hecla Mining Company
+hl	 Hecla Mining Company
+hlf	 Herbalife Ltd
+hlx	 Helix Energy Solutions Group
+hlx	 Helix Energy Solutions Group
+hmc	 Honda Motor Company
+hmn	 Horace Mann Educators Corp.
+hmnf	 -
+hmy	 Harmony Gold Mining Co. Ltd
+hni	 Hon Industries Inc.
+hni	 Hon Industries Inc.
+hnp	 Huaneng Power Intl
+hnp	 Huaneng Power Intl
+hog	 Harley-Davidson
+hog	 Harley-Davidson
+hon	 Honeywell International Inc.
+hon	 Honeywell International Inc.
+hos	 Hornbeck Offshore Services
+hov	 Hovnanian Enterprises Inc
+hp	 Helmerich & Payne
+hp	 Helmerich & Payne
+hpf	 John Hancock Pfd II
+hpi	 John Hancock Preferred
+hpi	 John Hancock Preferred
+hpq	 Hewlett-Packard Company
+hps	 John Hancock Preferred Income Fund III
+hpt	 Hospitality Properites Trust
+hpt	 Hospitality Properites Trust
+hqcl	 -
+hqcl	 -
+hr	 Healthcare Realty Trust Inc.
+hr	 Healthcare Realty Trust Inc.
+hrb	 H&R Block
+hrb	 H&R Block
+hrc	 Hill-Rom Holdings Inc
+hrc	 Hill-Rom Holdings Inc
+hrl	 Hormel Foods Corp.
+hrl	 Hormel Foods Corp.
+hrs	 Harris Corp.
+hsbc	 -
+hsbc	 -
+hst	 Host Marriott Financial Trust
+hsy	 Hershey Foods Corp.
+hsy	 Hershey Foods Corp.
+ht	 Hersha Hospitality Trust
+htd	 John Hancock Tax Advantaged Dividend
+htgc	 Hercules Technology Growth Capital
+hth	 Hilltop Holdings Inc.
+htld	 -
+htld	 -
+htlf	 -
+htlf	 -
+htm	 -
+htm	 -
+htz	 Hertz Global Holdings Inc
+htz	 Hertz Global Holdings Inc
+hurc	 -
+hurc	 -
+hurn	 -
+hurn	 -
+hvt	 Haverty Furniture Companies
+hwbk	 -
+hwcc	 -
+hwcc	 -
+hwkn	 -
+hwkn	 -
+hxl	 Hexcel Corp.
+hyb	 New America High
+hygs	 -
+hygs	 -
+hyi	 Western Asset High Yield Defined
+hyt	 Blackrock High Yield Fund Vi Inc
+hyt	 Blackrock High Yield Fund Vi Inc
+hzo	 Marinemax
+hzo	 Marinemax
+iac	 -
+iac	 -
+iae	 ING Asia Pacific High Dividend Equity
+iag	 Iamgold Corp.
+iart	 -
+iart	 -
+iba	 Industrias Bachoco S.A. De C.V.
+iba	 Industrias Bachoco S.A. De C.V.
+ibcp	 -
+ibcp	 -
+ibkc	 -
+ibkc	 -
+ibm	 International Business Machines Corp.
+ibn	 Icici Bank Limited
+iboc	 -
+iboc	 -
+icad	 -
+icad	 -
+icb	 Ms Income Securities
+icb	 Ms Income Securities
+ice	 Intercontinentalexchange
+ice	 Intercontinentalexchange
+icui	 -
+icui	 -
+idcc	 -
+idcc	 -
+idn	 -
+idn	 -
+idt	 Idt Corp.
+idti	 -
+idti	 -
+idxg	 -
+idxg	 -
+idxx	 -
+idxx	 -
+iep	 -
+iep	 -
+iesc	 -
+iesc	 -
+iex	 Idex Corp.
+iex	 Idex Corp.
+iff	 Internationa Flavors & Fragrances
+iff	 Internationa Flavors & Fragrances
+iga	 ING Global Advantage And Premium
+igc	 -
+igc	 -
+igd	 ING Global Equity Dividend And Premium
+igd	 ING Global Equity Dividend And Premium
+igld	 -
+igld	 -
+igr	 ING Clarion Global Real Estate
+igr	 ING Clarion Global Real Estate
+ihc	 Independence Holding Company
+ihc	 Independence Holding Company
+ihg	 Intercontinental Hotels Group
+ihg	 Intercontinental Hotels Group
+iif	 Morgan Stanley India Investment Fund Inc
+iim	 Invesco Insured Muni Income Trust
+iivi	 -
+iivi	 -
+ilmn	 -
+ilmn	 -
+imgn	 -
+imgn	 -
+imh	 -
+imh	 -
+imkta	 -
+imkta	 -
+immr	 -
+immr	 -
+imo	 -
+imo	 -
+inap	 -
+inap	 -
+inb	 Cohen & Steers Global Income Builder
+incy	 -
+incy	 -
+indb	 -
+indb	 -
+infi	 -
+infi	 -
+infn	 -
+infn	 -
+infu	 -
+infy	 Infosys Limited
+infy	 Infosys Limited
+ing	 ING Group N.V.
+ing	 ING Group N.V.
+ingr	 Ingredion Inc
+ingr	 Ingredion Inc
+int	 World Fuel Services Corp.
+intc	 -
+intc	 -
+intl	 -
+intl	 -
+intu	 -
+intu	 -
+inuv	 -
+inuv	 -
+inva	 -
+inva	 -
+inve	 -
+inve	 -
+io	 Ion Geophysical Corp.
+io	 Ion Geophysical Corp.
+ip	 International Paper Company
+ipcc	 -
+ipcc	 -
+ipci	 -
+ipci	 -
+ipg	 Interpublic Group Of Companies
+ipgp	 -
+ipgp	 -
+iphs	 -
+iphs	 -
+ipxl	 -
+ipxl	 -
+iqi	 Invesco Quality Muni Income Trust
+iqi	 Invesco Quality Muni Income Trust
+ir	 Ingersoll-Rand Plc [Ireland]
+ir	 Ingersoll-Rand Plc [Ireland]
+irl	 Irish Investment Fund
+irl	 Irish Investment Fund
+irm	 Iron Mountain Inc.
+irr	 ING Risk Managed Natural Resources Fund
+irs	 Irsa Inversiones Y Representaciones S.A.
+irs	 Irsa Inversiones Y Representaciones S.A.
+isca	 -
+isca	 -
+isns	 -
+isns	 -
+isrg	 -
+isrg	 -
+isrl	 -
+issc	 -
+issc	 -
+it	 Gartner
+it	 Gartner
+itg	 Investment Technology Group
+itg	 Investment Technology Group
+itic	 -
+itri	 -
+itri	 -
+itt	 Itt Industries
+itub	 Itau Unibanco Banco Holding Sa
+itus	 -
+itus	 -
+itw	 Illinois Tool Works Inc.
+ivz	 Invesco Plc
+ix	 Orix Corp Ads
+ix	 Orix Corp Ads
+jce	 Nuveen Core Equity Alpha Fund
+jci	 Johnson Controls
+jci	 Johnson Controls
+jcom	 -
+jcom	 -
+jcp	 J.C. Penney Company Inc.
+jcp	 J.C. Penney Company Inc.
+jdd	 Nuveen Diversified Dividend And
+jec	 Jacobs Engineering Group Inc.
+jeq	 Japan Equity Fund
+jfr	 Nuveen Floating Rate
+jfr	 Nuveen Floating Rate
+jhg	 -
+jhg	 -
+jhi	 John Hancock Investors Trust
+jhi	 John Hancock Investors Trust
+jhs	 John Hancock Income Securities Trust
+jhx	 James Hardie Industries Se
+jjsf	 -
+jjsf	 -
+jkhy	 -
+jkhy	 -
+jll	 Jones Lang Lasalle Inc.
+jll	 Jones Lang Lasalle Inc.
+jmp	 Jmp Group Inc
+jnj	 Johnson & Johnson
+jnj	 Johnson & Johnson
+joe	 St. Joe Company
+joe	 St. Joe Company
+jof	 Japan Smaller Capitalization Fund Inc
+jout	 -
+jout	 -
+jpc	 Nuveen Preferred And Convertible
+jpm	 J P Morgan Chase & Co
+jpm	 J P Morgan Chase & Co
+jps	 Nuveen Quality Preferred 2
+jqc	 Nuveen Preferred And Convertible 2
+jqc	 Nuveen Preferred And Convertible 2
+jrjc	 -
+jrjc	 -
+jro	 Nuveen Floating Rate Income Opportuntiy
+jro	 Nuveen Floating Rate Income Opportuntiy
+jrs	 -
+jrs	 -
+jta	 Nuveen Tax-Advantaged Total Return
+jta	 Nuveen Tax-Advantaged Total Return
+jtd	 Nuveen Tax-Advantaged Dividend Growth
+jwn	 Nordstrom
+jwn	 Nordstrom
+k	 Kellogg Company
+kai	 Kadant Inc
+kalu	 -
+kalu	 -
+kamn	 Kaman Corp.
+kbh	 Kb Home
+kbh	 Kb Home
+ked	 Kayne Anderson Energy Development
+kelya	 -
+kelya	 -
+kem	 Kemet Corp.
+kem	 Kemet Corp.
+kep	 Korea Electric Power Corp.
+kex	 Kirby Corp.
+kex	 Kirby Corp.
+key	 Keycorp
+kf	 Korea Fund
+kfs	 Kingsway Financial Services
+kfs	 Kingsway Financial Services
+kfy	 Korn/Ferry International
+kim	 Kimco Realty Corp.
+klac	 -
+klac	 -
+kmb	 Kimberly-Clark Corp.
+kmg	 Kmg Chemicals
+kmm	 Scudder Multi-Market Income Trust
+kmt	 Kennametal Inc.
+kmt	 Kennametal Inc.
+kmx	 Carmax Inc
+knd	 Kindred Healthcare
+knl	 Knoll
+knl	 Knoll
+ko	 Coca-Cola Company
+kof	 Coca Cola Femsa S.A.B. De C.V.
+kof	 Coca Cola Femsa S.A.B. De C.V.
+kool	 -
+kool	 -
+kr	 Kroger Company
+krc	 Kilroy Realty Corp.
+krc	 Kilroy Realty Corp.
+krg	 Kite Realty Group Trust
+krg	 Kite Realty Group Trust
+kro	 Kronos Worldwide Inc
+ks	 Kapstone Paper And Packaging Corp.
+ksm	 Scudder Strategic Municiple Income Trust
+ksm	 Scudder Strategic Municiple Income Trust
+kss	 Kohl's Corp.
+kss	 Kohl's Corp.
+kst	 Scudder Strategic Income Trust
+ksu_	 -
+ksu_	 -
+ksu	 Kansas City Southern
+ksu	 Kansas City Southern
+ktf	 Scudder Municiple Income Trust
+ktos	 -
+ktos	 -
+kvhi	 -
+kvhi	 -
+kwr	 Quaker Chemical Corp.
+kwr	 Quaker Chemical Corp.
+kye	 Kayne Anderson Energy Total Return Fund
+kyn	 Kayne Anderson MLP Investment Company
+kyn	 Kayne Anderson MLP Investment Company
+kyo	 Kyocera Corp.
+kyo	 Kyocera Corp.
+l	 Loews Corp.
+l	 Loews Corp.
+lad	 Lithia Motors
+lamr	 -
+lamr	 -
+lanc	 -
+lanc	 -
+laq	 -
+laq	 -
+lark	 -
+laws	 -
+laws	 -
+layn	 -
+layn	 -
+laz	 Lazard Ltd
+laz	 Lazard Ltd
+lcm	 Advent/Claymore Enhanced Growth &
+lcut	 -
+lcut	 -
+ldf	 Latin American Discovery Fund
+ldf	 Latin American Discovery Fund
+ldl	 Lydall
+ldl	 Lydall
+ldos	 -
+ldos	 -
+ldr	 Landauer
+lee	 Lee Enterprises Inc.
+leg	 Leggett & Platt Inc.
+len	 Lennar Corp.
+len	 Lennar Corp.
+leo	 Dreyfus Strategic Municipals
+leu	 -
+leu	 -
+lfc	 China Life Insurance Company Limited
+lfus	 -
+lfus	 -
+lgi	 Lazard Global Total Return And
+lgnd	 -
+lgnd	 -
+lh	 Laboratory Corporation Of America
+lh	 Laboratory Corporation Of America
+lho	 Lasalle Hotel Properties
+lii	 Lennox International
+live	 -
+live	 -
+lll	 L-3 Communications Holdings
+lm	 Legg Mason
+lm	 Legg Mason
+lnc	 Lincoln National Corp.
+lnn	 Lindsay Corp.
+lnt	 Alliant Energy Corp.
+lor	 Lazard World Dividend &
+lorl	 -
+lorl	 -
+low	 Lowe's Companies
+lpl	 Lg Display Co. Limited American
+lpnt	 -
+lpnt	 -
+lpt	 -
+lpt	 -
+lpx	 Louisiana-Pacific Corp.
+lqdt	 -
+lqdt	 -
+lrcx	 -
+lrcx	 -
+lsi	 -
+lsi	 -
+lstr	 -
+lstr	 -
+ltbr	 -
+ltbr	 -
+ltc	 Ltc Properties
+ltm	 Life Time Fitness
+ltm	 Life Time Fitness
+luk	 Leucadia National Corp.
+lvlt	 Level 3 Communications
+lvlt	 Level 3 Communications
+lxp	 Lexington Realty Trust
+lxrx	 -
+lxrx	 -
+lxu	 Lsb Industries Inc.
+lyg	 Lloyds Banking Group Plc
+lyg	 Lloyds Banking Group Plc
+lyv	 Live Nation Entertainment
+lzb	 La-Z-Boy Inc.
+m	 Macy's Inc
+m	 Macy's Inc
+ma	 Mastercard Inc.
+maa	 Mid-America Apartment Communities
+maa	 Mid-America Apartment Communities
+mac	 Macerich Company
+mac	 Macerich Company
+man	 Manpower Inc
+man	 Manpower Inc
+mark	 -
+mark	 -
+mas	 Masco Corp.
+matw	 -
+matw	 -
+matx	 Matson Inc
+matx	 Matson Inc
+mav	 Pioneer Muni High Income Advantage Trust
+mbfi	 -
+mbfi	 -
+mbi	 Mbia
+mbi	 Mbia
+mbwm	 -
+mbwm	 -
+mca	 Blackrock Muniyield California Insured
+mcbc	 -
+mcbc	 -
+mcd	 Mcdonald's Corp.
+mcd	 Mcdonald's Corp.
+mci	 Massmutual Corporate Investors
+mck	 Mckesson Corp.
+mck	 Mckesson Corp.
+mcn	 Madison/Claymore Covered Call & Equity
+mco	 Moody's Corp.
+mco	 Moody's Corp.
+mcr	 Mfs Charter Income Trust
+mcri	 -
+mcri	 -
+mcs	 Marcus Corp.
+mcs	 Marcus Corp.
+mcy	 Mercury General Corp.
+mcy	 Mercury General Corp.
+mdc	 M.D.C. Holdings
+mdc	 M.D.C. Holdings
+mdgl	 -
+mdgl	 -
+mdp	 Meredith Corp.
+mdp	 Meredith Corp.
+mdt	 Medtronic
+mdu	 Mdu Res Group Inc
+med	 Medifast Inc
+mei	 Methode Electronics
+mei	 Methode Electronics
+meip	 -
+meip	 -
+meli	 -
+men	 Blackrock Munienhanced Fund
+meoh	 -
+meoh	 -
+merc	 -
+merc	 -
+met	 Metlife
+met	 Metlife
+mfc	 Manulife Financial Corp
+mfg	 Mizuho Financial Group
+mfl	 Blackrock Muniholdings Investment
+mfm	 Mfs Muni Income Trust
+mfnc	 -
+mfsf	 -
+mfsf	 -
+mft	 Blackrock Muniyield Investment
+mft	 Blackrock Muniyield Investment
+mfv	 Mfs Special Value Trust
+mga	 Magna International
+mga	 Magna International
+mgi	 -
+mgi	 -
+mgln	 -
+mgln	 -
+mgm	 Mgm Resorts International
+mgu	 Macquarie Global Infrastructure Total
+mhd	 Blackrock Muniholdings Fund
+mhf	 Western Asset Muni High
+mhi	 Pioneer Muni High Income Trust
+mhi	 Pioneer Muni High Income Trust
+mhk	 Mohawk Industries
+mhk	 Mohawk Industries
+mho	 M/I Homes
+mho	 M/I Homes
+mic	 Macquarie Infrastructure Company Trust
+mic	 Macquarie Infrastructure Company Trust
+mind	 -
+mind	 -
+mini	 -
+mini	 -
+miw	 -
+miy	 Blackrock Muniyield Michigan Quality
+miy	 Blackrock Muniyield Michigan Quality
+mkc	 Mccormick & Company Inc.
+mkc	 Mccormick & Company Inc.
+mkl	 Markel Corp.
+mkl	 Markel Corp.
+mli	 Mueller Industries
+mlm	 Martin Marietta Materials
+mlm	 Martin Marietta Materials
+mlp	 Maui Land & Pineapple Company
+mlr	 Miller Industries
+mmc	 Marsh & Mclennan Companies
+mmc	 Marsh & Mclennan Companies
+mmm	 3M Company
+mmp	 Magellan Midstream Partners L.P.
+mms	 Maximus
+mmt	 Mfs Multimarket Income Trust
+mmu	 Western Asset Managed Municipals Fund
+mmu	 Western Asset Managed Municipals Fund
+mmv	 -
+mmv	 -
+mne	 Blackrock Muni New York Intermediate
+mne	 Blackrock Muni New York Intermediate
+mni	 Mcclatchy Company
+mni	 Mcclatchy Company
+mnp	 Western Asset Muni Partners Fund
+mnr	 Monmouth Real Estate Investment Corp.
+mnro	 -
+mnro	 -
+mnta	 -
+mnta	 -
+mntx	 -
+mntx	 -
+mo	 Altria Group
+mo	 Altria Group
+mod	 Modine Manufacturing Company
+mon	 Monsanto Company
+mosy	 -
+mosy	 -
+mov	 Movado Group Inc.
+mpa	 Blackrock Muniyield Pennsylvania Quality
+mpaa	 -
+mpaa	 -
+mpb	 -
+mpb	 -
+mpv	 Massmutual Participation Investors
+mpwr	 -
+mpwr	 -
+mqt	 Blackrock Muniyield Quality Fund II
+mqt	 Blackrock Muniyield Quality Fund II
+mqy	 Blackrock Muniyield Quality Fund
+mqy	 Blackrock Muniyield Quality Fund
+mrcy	 -
+mrcy	 -
+mrk	 Merck & Company
+mro	 Marathon Oil Corp.
+ms	 Morgan Stanley
+ms	 Morgan Stanley
+msb	 Mesabi Trust
+mscc	 -
+mscc	 -
+msd	 Morgan Stanley Emerging Markets Debt
+msex	 -
+msex	 -
+msf	 Morgan Stanley Emerging Markets Fund Inc
+msfg	 -
+msfg	 -
+msft	 -
+msft	 -
+msi	 Motorola Solutions
+msi	 Motorola Solutions
+msm	 Msc Industrial Direct Company
+msp	 Madison Strategic Sector Premium Fund
+mstr	 -
+mstr	 -
+mt	 Arcelormittal
+mtb	 M&T Bank Corp.
+mtd	 Mettler-Toledo International
+mtd	 Mettler-Toledo International
+mtex	 -
+mtex	 -
+mtg	 Mgic Investment Corp.
+mth	 Meritage Corp.
+mtl	 Mechel Steel Group Oao
+mtn	 Vail Resorts
+mtn	 Vail Resorts
+mtsc	 -
+mtsc	 -
+mtu	 Mitsubishi Ufj Financial Group Inc
+mtw	 Manitowoc Company
+mtx	 Minerals Technologies Inc.
+mtx	 Minerals Technologies Inc.
+mtz	 Mastec
+mua	 Blackrock Muniassets Fund
+muc	 Blackrock Muniholdings California
+mue	 Blackrock Muniholdings Quality Fund II
+muh	 Blackrock Muniholdings Fund II
+mui	 Blackrock Muni Intermediate Duration
+mui	 Blackrock Muni Intermediate Duration
+muj	 Blackrock Muniholdings New Jersey
+mur	 Murphy Oil Corp.
+mus	 Blackrock Muniholdings Quality Fund
+mvc	 Mvc Capital
+mvc	 Mvc Capital
+mvis	 -
+mvis	 -
+mvo	 Mv Oil Trust
+mvo	 Mv Oil Trust
+mvt	 Blackrock Munivest Fund II
+mwa	 Mueller Water Products
+mwa	 Mueller Water Products
+mxe	 Mexico Equity And
+mxe	 Mexico Equity And
+mxf	 Mexico Fund
+mxf	 Mexico Fund
+mxim	 -
+mxim	 -
+myc	 Blackrock Muniyield California Fund
+myd	 Blackrock Muniyield Fund
+myd	 Blackrock Muniyield Fund
+mye	 Myers Industries
+mye	 Myers Industries
+myf	 Blackrock Muniyield Investment Fund
+mygn	 -
+mygn	 -
+myi	 Blackrock Muniyield Quality Fund III
+myi	 Blackrock Muniyield Quality Fund III
+myj	 Blackrock Muniyield New Jersey Fund
+myj	 Blackrock Muniyield New Jersey Fund
+myl	 -
+myl	 -
+myn	 Blackrock Muniyield New York Quality
+mza	 -
+mza	 -
+mzf	 Managed Duration Investment Grade Fund
+nac	 Nuveen California Divadv Fund
+nac	 Nuveen California Divadv Fund
+nad	 Nuveen Divadv Fund
+nad	 Nuveen Divadv Fund
+nak	 -
+nak	 -
+nan	 Nuveen New York Divadv Fund
+nan	 Nuveen New York Divadv Fund
+nat	 Nordic American Tanker Shipping Limited
+nat	 Nordic American Tanker Shipping Limited
+nav	 Navistar International Corp.
+nav	 Navistar International Corp.
+naz	 Nuveen Arizona Premium Fund
+nbd	 Nuveen Build America Bond Opportunity
+nbd	 Nuveen Build America Bond Opportunity
+nbl	 Noble Energy Inc.
+nbl	 Noble Energy Inc.
+nbr	 Nabors Industries
+nbr	 Nabors Industries
+nc	 Nacco Industries
+nci	 Navigant Consulting
+nci	 Navigant Consulting
+ncmi	 -
+ncmi	 -
+ncr	 Ncr Corp.
+ncr	 Ncr Corp.
+ncs	 Nci Building Systems
+ncs	 Nci Building Systems
+ncv	 Agic Convertible &
+ncz	 Agic Convertible & II
+ncz	 Agic Convertible & II
+ndaq	 -
+ndaq	 -
+ndsn	 -
+ndsn	 -
+ne	 Noble Corp.
+ne	 Noble Corp.
+nee	 Nextera Energy
+neu	 Newmarket Corp.
+neu	 Newmarket Corp.
+nfj	 Nfj Dividend Interest & Premium Strategy
+nfx	 Newfield Exploration Company
+nfx	 Newfield Exploration Company
+ngg	 National Grid Transco Plc
+ngs	 Natural Gas Services Group
+nhc	 -
+nhc	 -
+nhf	 Nexpoint Credit Strategies Fund
+nhf	 Nexpoint Credit Strategies Fund
+nhi	 National Health Investors
+ni	 Nisource Inc
+nice	 -
+nice	 -
+nick	 -
+nick	 -
+nie	 Agic Equity & Convertible
+nie	 Agic Equity & Convertible
+njr	 Newjersey Resources Corp.
+njr	 Newjersey Resources Corp.
+nke	 Nike
+nke	 Nike
+nksh	 -
+nksh	 -
+nls	 Nautilus Group
+nls	 Nautilus Group
+nly	 Annaly Capital Management Inc
+nm	 Navios Maritime Holdings Inc.
+nm	 Navios Maritime Holdings Inc.
+nmi	 Nuveen Muni
+nmr	 Nomura Holdings Inc ADR
+nmr	 Nomura Holdings Inc ADR
+nmt	 Nuveen Massachusetts Premium Fund
+nmy	 Nuveen Maryland Premium Fund
+nmy	 Nuveen Maryland Premium Fund
+nmz	 -
+nmz	 -
+nnc	 Nuveen North Carolina Premium Fund
+nnc	 Nuveen North Carolina Premium Fund
+nni	 Nelnet
+nni	 Nelnet
+nnn	 National Retail Properties
+noa	 North American Energy Partners
+noa	 North American Energy Partners
+noc	 Northrop Grumman Corp.
+nov	 National-Oilwell
+np	 Neenah Paper
+npk	 National Presto Industries
+npk	 National Presto Industries
+npo	 Enpro Industries
+npo	 Enpro Industries
+npv	 Nuveen Virginia Premium Fund
+nqp	 Nuveen Pennsylvania Investment
+nr	 Newpark Resources
+nrg	 Nrg Energy
+nrg	 Nrg Energy
+nrp	 Natural Resource Partners Lp
+nrp	 Natural Resource Partners Lp
+nrt	 North European Oil Royality Trust
+ns	 Nustar Energy L.P.
+ns	 Nustar Energy L.P.
+nsc	 Norfolk Souther Corp.
+nsc	 Norfolk Souther Corp.
+nsh	 Nustar Gp Holdings Llc
+nsit	 -
+nsit	 -
+nsl	 Nuveen Senior
+nssc	 -
+nssc	 -
+nsys	 -
+nsys	 -
+ntap	 -
+ntap	 -
+ntc	 Nuveen Connecticut Premium Fund
+ntc	 Nuveen Connecticut Premium Fund
+ntes	 -
+ntes	 -
+ntgr	 -
+ntgr	 -
+ntl	 Nortel Inversora Sa ADR
+ntn	 -
+ntn	 -
+ntri	 -
+ntri	 -
+ntrs	 -
+ntrs	 -
+ntx	 Nuveen Texas Quality
+ntz	 Natuzzi S.P.A.
+nuan	 -
+nuan	 -
+nue	 Nucor Corp.
+nue	 Nucor Corp.
+num	 Nuveen Michigan Quality
+nuo	 Nuveen Ohio Quality
+nuo	 Nuveen Ohio Quality
+nus	 Nu Skin Enterprises
+nus	 Nu Skin Enterprises
+nuva	 -
+nuva	 -
+nvda	 -
+nvda	 -
+nvec	 -
+nvec	 -
+nvg	 -
+nvg	 -
+nvln	 -
+nvln	 -
+nvo	 Novo Nordisk A/S
+nvr	 Nvr
+nvr	 Nvr
+nvs	 Novartis Ag
+nwe	 Northwestern Corp.
+nwl	 Newell Rubbermaid Inc.
+nwl	 Newell Rubbermaid Inc.
+nwli	 -
+nwli	 -
+nwn	 Northwest Natural Gas Company
+nwy	 New York & Company
+nxc	 Nuveen California Tax-Free Income
+nxc	 Nuveen California Tax-Free Income
+nxn	 Nuveen Insured New York Tax-Free
+nxp	 Nuveen Tax Free Income Portfolio
+nxp	 Nuveen Tax Free Income Portfolio
+nxq	 Nuveen Tax Free Income Portfolio II
+nxr	 Nuveen Tax Free Income Portfolio III
+nxst	 -
+nxst	 -
+nxtm	 -
+nxtm	 -
+nycb	 New York Community Bancorp
+nyt	 New York Times Company
+nyt	 New York Times Company
+obas	 -
+obas	 -
+obe	 -
+obe	 -
+oc	 Owens Corning Inc
+oc	 Owens Corning Inc
+ocn	 Ocwen Financial Corp.
+odc	 Oil-Dri Corporation Of America
+odc	 Oil-Dri Corporation Of America
+odp	 Office Depot
+odp	 Office Depot
+ofc	 Corporate Office Properties
+ofg	 Oriental Financial Group
+ofix	 -
+ofix	 -
+oflx	 -
+oflx	 -
+oge	 Oge Energy Corp.
+oge	 Oge Energy Corp.
+ohi	 Omega Healthcare Investors
+oi	 Owens-Illinois
+oia	 Invesco Muni Income Trust
+oii	 Oceaneering International
+oke	 Oneok
+oksb	 -
+oksb	 -
+oled	 -
+oled	 -
+oln	 Olin Corp.
+olp	 One Liberty Properties
+omab	 -
+omab	 -
+omc	 Omnicom Group Inc.
+omc	 Omnicom Group Inc.
+ome	 Omega Protein Corp.
+omex	 -
+omex	 -
+omi	 Owens & Minor
+omn	 Omnova Solutions Inc.
+on	 -
+on	 -
+onb	 Old National Bancorp Capital
+onb	 Old National Bancorp Capital
+ophc	 -
+opof	 -
+opof	 -
+optt	 -
+optt	 -
+opy	 Oppenheimer Holdings
+opy	 Oppenheimer Holdings
+orbk	 -
+orbk	 -
+orex	 -
+orex	 -
+ori	 Old Republic International Corp.
+orly	 -
+orly	 -
+orrf	 -
+osbc	 -
+osbc	 -
+osis	 -
+osis	 -
+osk	 Oshkosh Truck Corp.
+osk	 Oshkosh Truck Corp.
+oxm	 Oxford Industries
+oxy	 Occidental Petroleum Corp.
+oxy	 Occidental Petroleum Corp.
+paa	 Plains All American Pipeline L.P.
+paas	 -
+paas	 -
+pac	 Grupo Aeroportuario Del Pacifico
+pacw	 -
+pacw	 -
+pag	 Penske Automotive Group
+pai	 Pacific American Income Shares
+par	 Par Technology Corp.
+patk	 -
+pay	 Verifone Systems
+pbh	 Prestige Brand Holdings
+pbi	 Pitney Bowes Inc
+pbi	 Pitney Bowes Inc
+pbib	 -
+pbib	 -
+pcar	 -
+pcar	 -
+pcbk	 -
+pcbk	 -
+pcf	 Putnam High Income Bond Fund
+pcg	 Pacific Gas & Electric Co.
+pcg	 Pacific Gas & Electric Co.
+pck	 Pimco California Muni II
+pcln	 -
+pcln	 -
+pcm	 Pimco Commercial Mortgage Securities
+pcmi	 -
+pcmi	 -
+pcn	 Pimco Corporate
+pcn	 Pimco Corporate
+pcom	 -
+pcom	 -
+pcq	 Pimco California Muni
+pcq	 Pimco California Muni
+pdco	 -
+pdco	 -
+pdfs	 -
+pdfs	 -
+pdp	 -
+pdp	 -
+pds	 Precision Drilling Corp.
+pds	 Precision Drilling Corp.
+pdt	 John Hancock Premium Dividend Fund
+pebk	 -
+pebk	 -
+pebo	 -
+pebo	 -
+peg	 Public Service Enterprise Group Inc.
+peg	 Public Service Enterprise Group Inc.
+pei	 Pennsylvania Real Estate Investment
+pei	 Pennsylvania Real Estate Investment
+peo	 Petroleum Resources Corp.
+pep	 Pepsico
+pes	 Pioneer Energy Services Corp.
+pesi	 -
+pesi	 -
+pfbi	 -
+pfbi	 -
+pfbx	 -
+pfbx	 -
+pfd	 Flaherty & Crumrine Preferred Inc.
+pfe	 Pfizer
+pfe	 Pfizer
+pfg	 Principal Financial Group Inc
+pfg	 Principal Financial Group Inc
+pfl	 Pimco Income Strategy Fund
+pfn	 Pimco Income Strategy Fund II
+pfn	 Pimco Income Strategy Fund II
+pfo	 Flaherty & Crumrine Preferred Fund
+pfs	 Provident Financial Services
+pg	 Procter & Gamble Company
+pgh	 Pengrowth Energy Corp.
+pgnx	 -
+pgnx	 -
+pgp	 Pimco Global Stocksplus & Income
+pgr	 Progressive Corp.
+pgr	 Progressive Corp.
+ph	 Parker-Hannifin Corp.
+phd	 Pioneer Floating Rate Trust
+phg	 Koninklijke Philips Electronics
+phg	 Koninklijke Philips Electronics
+phh	 Phh Corp
+phi	 Philippine Long Distance Telephone
+phk	 Pimco High
+phm	 Pultegroup
+phm	 Pultegroup
+pho	 -
+pho	 -
+pht	 Pioneer High Income Trust
+phx	 Panhandle Royalty Company
+phx	 Panhandle Royalty Company
+pico	 -
+pico	 -
+pid	 -
+pid	 -
+pii	 Polaris Industries Inc.
+pii	 Polaris Industries Inc.
+pim	 Putnam Master Intermediate Income
+pir	 Pier 1 Imports
+pir	 Pier 1 Imports
+pjc	 Piper Jaffray Companies
+pjc	 Piper Jaffray Companies
+pkd	 Parker Drilling Company
+pke	 Park Electrochemical Corp.
+pkg	 Packaging Corporation Of America
+pki	 Perkinelmer
+pkoh	 -
+pkoh	 -
+pkx	 Pohang Iron & Steel Co.
+pky	 Parkway Properties
+plce	 -
+plce	 -
+pld	 Prologis Inc
+plx	 -
+plx	 -
+pmf	 Pimco Muni
+pml	 Pimco Muni II
+pmm	 Putnam Managed Muni Income Trust
+pmo	 Putnam Muni Opportunities Trust
+pmo	 Putnam Muni Opportunities Trust
+pmx	 Pimco Muni Income Fund III
+pmx	 Pimco Muni Income Fund III
+pnbk	 -
+pnbk	 -
+pnc	 Pnc Bank
+pnc	 Pnc Bank
+pnf	 Pimco New York Muni
+pnfp	 -
+pnfp	 -
+pni	 Pimco New York Muni II
+pni	 Pimco New York Muni II
+pnk	 Pinnacle Entertainment
+pnm	 Pnm Resources Inc.
+pnm	 Pnm Resources Inc.
+pnr	 Pentair
+pnr	 Pentair
+pnrg	 -
+pnrg	 -
+pnw	 Pinnacle West Capital Corp.
+pool	 -
+pool	 -
+pope	 -
+pope	 -
+por	 Portland General Electric Company
+por	 Portland General Electric Company
+powi	 -
+powi	 -
+powl	 -
+powl	 -
+ppc	 -
+ppc	 -
+ppg	 Ppg Industries
+ppg	 Ppg Industries
+ppl	 Ppl Corp.
+ppr	 ING Prime Rate Trust
+ppt	 Putnam Premier Income Trust
+pq	 Petroquest Energy Inc
+pq	 Petroquest Energy Inc
+pra	 Pro-Assurance Corp.
+praa	 -
+praa	 -
+prft	 -
+prft	 -
+prgs	 -
+prgs	 -
+prk	 -
+prk	 -
+prkr	 -
+prkr	 -
+prov	 -
+prov	 -
+prsc	 -
+prsc	 -
+prtk	 -
+prtk	 -
+pru	 Prudential Financial Inflation Retail
+pru	 Prudential Financial Inflation Retail
+psa	 Public Storage
+psb	 Business Parks
+pso	 Pearson Plc
+psti	 -
+psti	 -
+pten	 -
+pten	 -
+ptf	 -
+ptf	 -
+pth	 -
+pth	 -
+ptie	 -
+ptie	 -
+ptn	 -
+ptn	 -
+ptnr	 -
+ptnr	 -
+ptr	 Petrochina Company Limited
+ptr	 Petrochina Company Limited
+pty	 Pimco Corporate Opportunity Fund
+pui	 -
+pui	 -
+puk_	 -
+puk_	 -
+puk	 Prudential Public Limited Company
+pvh	 Phillips-Van Heusen Corp.
+pvh	 Phillips-Van Heusen Corp.
+pwr	 Quanta Services
+px	 Praxair
+pxd	 Pioneer Natural Resources Company
+pyn	 Pimco New York Muni Income Fund III
+pyz	 -
+pyz	 -
+pzc	 Pimco California Muni Income Fund III
+pzc	 Pimco California Muni Income Fund III
+pzza	 -
+pzza	 -
+qadb	 -
+qadb	 -
+qbak	 -
+qbak	 -
+qcom	 -
+qcom	 -
+qcrh	 -
+qcrh	 -
+qdel	 -
+qdel	 -
+qgen	 -
+qgen	 -
+qqqx	 -
+qqqx	 -
+qsii	 -
+qsii	 -
+qtm	 Quantum Corp.
+qumu	 -
+qumu	 -
+r	 Ryder System
+rad	 Rite Aid Corp.
+rail	 -
+rail	 -
+ras	 Rait Financial Trust
+ras	 Rait Financial Trust
+ravn	 -
+ravn	 -
+rba	 Ritchie Bros. Auctioneers Inc.
+rbc	 Regal-Beloit Corp.
+rcl	 Royal Caribbean Cruises Ltd
+rcl	 Royal Caribbean Cruises Ltd
+rcs	 Rcm Strategic Global Government Fund
+rdc	 Rowan Companies
+rdc	 Rowan Companies
+rdn	 Radian Group Inc.
+rdn	 Radian Group Inc.
+rdy	 Dr. Reddy's Laboratories Ltd
+re	 Everest Re Group
+re	 Everest Re Group
+reg	 Regency Centers Corp.
+relv	 -
+relv	 -
+res	 Rpc
+rev	 Revlon
+rev	 Revlon
+rex	 Rex Stores Corp.
+rex	 Rex Stores Corp.
+rexx	 -
+rf	 Regions Financing TR I
+rf	 Regions Financing TR I
+rfi	 Cohen & Steers Total Return Realty Fund
+rga	 Reinsurance Group Of America Inc.
+rga	 Reinsurance Group Of America Inc.
+rgld	 -
+rgld	 -
+rgs	 Regis Corp.
+rgs	 Regis Corp.
+rhi	 Robert Half International Inc.
+rhi	 Robert Half International Inc.
+rhp	 Gaylord Entertainment Company
+rhp	 Gaylord Entertainment Company
+rht	 Red Hat
+rif	 -
+rif	 -
+rig	 Transocean Inc.
+rig	 Transocean Inc.
+rio	 Rio Tinto Plc
+rl	 Ralph Lauren Corp.
+rl	 Ralph Lauren Corp.
+rlh	 Westcoast Hospitality Corp.
+rli	 Rli Corp.
+rmbs	 -
+rmbs	 -
+rmd	 Resmed Inc.
+rmd	 Resmed Inc.
+rmt	 Royce Micro-Cap Trust
+rnn	 -
+rnp	 Cohen & Steers REIT And Preferred
+rnp	 Cohen & Steers REIT And Preferred
+rnr	 Renaissancere Holdings Ltd
+rnr	 Renaissancere Holdings Ltd
+rok	 Rockwell Automation Inc
+roll	 -
+roll	 -
+rop	 Roper Industries
+rpm	 Rpm
+rprx	 -
+rprx	 -
+rpt	 Ramco-Gershenson Properties Trust
+rpt	 Ramco-Gershenson Properties Trust
+rqi	 Cohen & Steers Quality Income Realty
+rrc	 Range Resources Corp.
+rrc	 Range Resources Corp.
+rrd	 -
+rrd	 -
+rrgb	 -
+rrgb	 -
+rs	 Reliance Steel & Aluminum Company
+rs	 Reliance Steel & Aluminum Company
+rso	 Resource Capital
+rt	 Ruby Tuesday
+rt	 Ruby Tuesday
+rtk	 -
+rtk	 -
+rtn	 Raytheon Company
+rvlt	 -
+rvlt	 -
+rvt	 Royce Value Trust
+rwt	 Redwood Trust
+rwt	 Redwood Trust
+ry	 Royal Bank Of Canada
+ry	 Royal Bank Of Canada
+ryn	 Rayonier Inc. REIT
+s	 Sprint Corporation Series 1
+s	 Sprint Corporation Series 1
+sa	 Seabridge Gold
+safm	 -
+safm	 -
+saft	 -
+saft	 -
+sah	 Sonic Automotive
+sah	 Sonic Automotive
+sal	 -
+sam	 Boston Beer Company
+san	 Banco Santander
+sap	 Sap Ag
+sar	 Saratoga Investment Corp
+sbac	 -
+sbac	 -
+sbcf	 -
+sbcf	 -
+sbh	 Sally Beauty Holdings
+sblk	 -
+sblk	 -
+sbny	 -
+sbny	 -
+sbr	 Sabine Royalty Trust
+sbsi	 -
+sbsi	 -
+sbux	 -
+sbux	 -
+scco	 Southern Peru Copper Corp.
+scd	 Lmp Capital And Income Fund Inc.
+scg	 Scana Corp.
+scg	 Scana Corp.
+schl	 -
+schl	 -
+schn	 -
+schn	 -
+schw	 The Charles Schwab Corp.
+sci	 Service Corporation International
+scl	 Stepan Company
+scl	 Stepan Company
+scon	 -
+scon	 -
+scs	 Steelcase Inc.
+scsc	 -
+scsc	 -
+scvl	 -
+scvl	 -
+scx	 L.S. Starrett Company
+scx	 L.S. Starrett Company
+sdrl	 Seadrill Limited
+sdrl	 Seadrill Limited
+seb	 -
+seb	 -
+see	 Sealed Air Corp.
+see	 Sealed Air Corp.
+seic	 -
+seic	 -
+senea	 -
+senea	 -
+sep	 Spectra Energy Partners Lp
+sf	 Stifel Financial Corp.
+sf	 Stifel Financial Corp.
+sfe	 Safeguard Scientifics
+sfl	 Ship Finance International
+sfl	 Ship Finance International
+sfly	 -
+sfly	 -
+sfnc	 -
+sfnc	 -
+sfst	 -
+sga	 -
+sga	 -
+sgb	 -
+sgf	 Singapore Fund
+sgms	 -
+sgms	 -
+sgy	 Stone Energy Corp.
+sgy	 Stone Energy Corp.
+shld	 -
+shld	 -
+sho	 Sunstone Hotel Investors
+shpg	 -
+shpg	 -
+shw	 Sherwin-Williams Company
+sif	 -
+sif	 -
+sifi	 -
+sifi	 -
+sify	 -
+sify	 -
+sig	 Signet Jewelers Limited
+sig	 Signet Jewelers Limited
+sina	 -
+sina	 -
+sivb	 -
+sivb	 -
+sji	 South Jersey Industries
+sjm	 J.M. Smucker Company
+sjm	 J.M. Smucker Company
+sjt	 San Juan Basin Royalty Trust
+sjw	 Sjw Corp.
+skx	 Skechers U.S.A.
+sky	 Skyline Corp.
+sky	 Skyline Corp.
+slab	 -
+slab	 -
+slb	 Schlumberger N.V.
+slg	 Sl Green Realty Corp.
+slg	 Sl Green Realty Corp.
+sm	 Sm Energy Company
+smfg	 Sumitomo Mitsui Financial Group Inc
+smg	 Scotts Miracle-Gro Company
+smi	 Semiconductor Manufacturing
+smit	 -
+smit	 -
+smmf	 -
+smp	 Standard Motor Products
+smp	 Standard Motor Products
+smsi	 -
+smsi	 -
+smtc	 -
+smtc	 -
+sna	 Snap-On Inc.
+sna	 Snap-On Inc.
+snbc	 -
+snbc	 -
+sne	 Sony Corp Ord
+sne	 Sony Corp Ord
+snh	 Senior Housing Properties Trust
+snhy	 -
+snhy	 -
+snmp	 -
+snmp	 -
+snmx	 -
+snmx	 -
+snn	 Smith & Nephew Snats
+snn	 Smith & Nephew Snats
+snoa	 -
+snoa	 -
+snp	 China Petroleum & Chemical Corp.
+snp	 China Petroleum & Chemical Corp.
+snv	 Synovus Financial Corp.
+snv	 Synovus Financial Corp.
+snx	 Synnex Corp.
+sny	 Sanofi-Aventis Sa
+sny	 Sanofi-Aventis Sa
+sohu	 -
+sohu	 -
+son	 Sonoco Products Company
+son	 Sonoco Products Company
+sons	 -
+sons	 -
+sor	 Source Capital
+spa	 Sparton Corp.
+spab	 -
+spar	 -
+spar	 -
+spdw	 -
+spdw	 -
+spe	 Special Opportunities Fund Inc.
+spe	 Special Opportunities Fund Inc.
+spem	 -
+spem	 -
+spg	 Simon Property Group
+sph	 Suburban Propane Partners L.P.
+spn	 Superior Energy Services
+spn	 Superior Energy Services
+spr	 Spirit Aerosystems Holdings
+sqm	 Sociedad Quimica Y Minera S.A.
+sr	 Standard Register Company
+srcl	 -
+srcl	 -
+srdx	 -
+srdx	 -
+sre	 Sempra Energy
+sre	 Sempra Energy
+sri	 Stoneridge
+srpt	 -
+srpt	 -
+srt	 Startek
+srt	 Startek
+srv	 The Cushing MLP Total Return Fund
+ssb	 -
+ssb	 -
+ssd	 Simpson Manufacturing Company
+ssd	 Simpson Manufacturing Company
+ssi	 Stage Stores
+sskn	 -
+sskn	 -
+ssl	 Sasol Ltd
+ssp	 E.W. Scripps Company
+ssrm	 -
+ssrm	 -
+ssw	 Seaspan Corp.
+ssw	 Seaspan Corp.
+ssys	 -
+ssys	 -
+star	 -
+star	 -
+stba	 -
+stba	 -
+stc	 Stewart Information Services Corp.
+stc	 Stewart Information Services Corp.
+ste	 Steris Corp.
+stfc	 -
+stfc	 -
+sti	 Suntrust Banks
+sti	 Suntrust Banks
+stld	 -
+stld	 -
+stm	 Stmicroelectronics N.V.
+stm	 Stmicroelectronics N.V.
+stn	 Stantec Inc
+sto	 Statoil Asa
+sto	 Statoil Asa
+stra	 -
+stra	 -
+strl	 -
+strl	 -
+strs	 -
+strs	 -
+strt	 -
+strt	 -
+stt	 State Street Corp
+stt	 State Street Corp
+stz	 Constellation Brands Inc
+su	 Suncor Energy Inc.
+su	 Suncor Energy Inc.
+sui	 Sun Communities
+sup	 Superior Industries International
+susa	 -
+susa	 -
+svbi	 -
+svbi	 -
+svra	 -
+svra	 -
+svu	 Supervalu Inc.
+svu	 Supervalu Inc.
+swk	 Stanley Black & Decker Inc
+swm	 Schweitzer-Mauduit International
+swn	 Southwestern Energy Company
+swn	 Southwestern Energy Company
+swx	 Southwest Gas Corp.
+swx	 Southwest Gas Corp.
+swz	 Swiss Helvetia Fund
+sxi	 Standex International Corp.
+sxi	 Standex International Corp.
+syk	 Stryker Corp.
+syt	 Syngenta Ag
+syx	 Systemax Inc.
+syy	 Sysco Corp.
+t	 AT&T Inc.
+ta	 Travelcenters Of America Llc
+ta	 Travelcenters Of America Llc
+tap	 Molson Coors Brewing Company
+tap	 Molson Coors Brewing Company
+tbi	 Trueblue Inc
+tcap	 Triangle Capital Corp.
+tcbi	 -
+tcbi	 -
+tcbk	 -
+tcbk	 -
+tcf	 -
+tcf	 -
+tco	 Taubman Centers
+tdg	 Transdigm Group Inc.
+tds	 Telephone And Data Systems
+tdw	 Tidewater Inc.
+tdw	 Tidewater Inc.
+tear	 -
+tear	 -
+tech	 -
+tech	 -
+tei	 Templeton Emerging Markets
+tel	 Te Connectivity Ltd
+tel	 Te Connectivity Ltd
+ten	 Tenneco Automotive
+ten	 Tenneco Automotive
+ter	 Teradyne
+teso	 -
+teso	 -
+teva	 Teva Pharmaceutical Industries Limited
+tex	 Terex Corp.
+tex	 Terex Corp.
+tfx	 Teleflex Inc.
+tg	 Tredegar Corp.
+tgi	 Triumph Group
+tgp	 Teekay Lng Partners L.P.
+tgs	 Transportadora De Gas Sa Ord B
+tgt	 Target Corp.
+thc	 Tenet Healthcare Corp.
+thff	 -
+thff	 -
+thg	 The Hanover Insurance Group
+thg	 The Hanover Insurance Group
+tho	 Thor Industries
+tho	 Thor Industries
+tif	 Tiffany & Co.
+tif	 Tiffany & Co.
+tk	 Teekay Shipping Corp.
+tkr	 Timken Company
+tkr	 Timken Company
+tli	 Lmp Corporate Loan Fund Inc
+tlk	 P.T. Telekomunikasi Indonesia Tbk.
+tlp	 Transmontaigne Partners L.P.
+tlp	 Transmontaigne Partners L.P.
+tlrd	 -
+tlrd	 -
+tm	 Toyota Motor Corp Ltd Ord
+tm	 Toyota Motor Corp Ltd Ord
+tmk	 Torchmark Corp.
+tmo	 Thermo Fisher Scientific Inc
+tmus	 T-Mobile US Inc.
+tnh	 Terra Nitrogen Company L.P.
+tnh	 Terra Nitrogen Company L.P.
+tnp	 Tsakos Energy Navigation Ltd
+tol	 Toll Brothers Inc.
+too	 Teekay Offshore Partners L.P.
+tot	 Totalfinaelf S.A.
+tot	 Totalfinaelf S.A.
+tpc	 Tutor Perini Corp.
+tpc	 Tutor Perini Corp.
+tpl	 Texas Pacific Land Trust
+tpl	 Texas Pacific Land Trust
+trc	 Tejon Ranch Company
+trc	 Tejon Ranch Company
+trex	 Trex Company
+tri	 Thomson Reuters Corp
+trk	 Speedway Motorsports
+trn	 Trinity Industries
+trow	 -
+trow	 -
+trp	 Transcananda Pipelines
+trq	 Turquoise Hill Resources Ltd.
+trs	 -
+trs	 -
+trt	 -
+trt	 -
+trv	 The Travelers Companies Inc
+trv	 The Travelers Companies Inc
+ts	 Tenaris S.A.
+tsi	 Tcw Strategic
+tsm	 Taiwan Semiconductor Manufacturing
+tsm	 Taiwan Semiconductor Manufacturing
+tsn	 Tyson Foods
+tsn	 Tyson Foods
+tss	 Total System Services
+tss	 Total System Services
+tsu	 Tim Participacoes S.A.
+ttc	 Toro Company
+ttec	 -
+ttec	 -
+ttek	 -
+ttek	 -
+ttgt	 -
+ttgt	 -
+tti	 Tetra Technologies
+tti	 Tetra Technologies
+ttwo	 -
+ttwo	 -
+tu	 Telus Corp. Non Voting Shares
+tu	 Telus Corp. Non Voting Shares
+tup	 Tupperware Corp.
+tv	 Grupo Televisa S.A.
+tv	 Grupo Televisa S.A.
+tvty	 -
+tvty	 -
+twi	 Titan International
+twin	 -
+twin	 -
+twx	 Time Warner Inc.
+twx	 Time Warner Inc.
+txn	 -
+txn	 -
+txt	 Textron Inc.
+ty	 Tri Continental Corp.
+tyg	 Tortoise Energy Infrastructure Corp.
+tyg	 Tortoise Energy Infrastructure Corp.
+tzoo	 -
+tzoo	 -
+ual	 United Continental Holdings
+uba	 Urstadt Biddle Properties Inc.
+ubfo	 -
+ubfo	 -
+uboh	 -
+ubp	 Urstadt Biddle Properties Inc.
+ubp	 Urstadt Biddle Properties Inc.
+ubsh	 -
+ubsh	 -
+ubsi	 -
+ubsi	 -
+uctt	 -
+uctt	 -
+udr	 United Dominion Realty Trust
+udr	 United Dominion Realty Trust
+ueic	 -
+ueic	 -
+ueps	 -
+ueps	 -
+ufcs	 -
+ufcs	 -
+ufi	 Unifi
+ufpi	 -
+ufpi	 -
+ufs	 Domtar Corp.
+ufs	 Domtar Corp.
+ugi	 Ugi Corp.
+uhal	 -
+uhal	 -
+uhs	 Universal Health Services
+uhs	 Universal Health Services
+uht	 Universal Health Realty Income Trust
+uis	 Unisys Corp.
+uis	 Unisys Corp.
+ul	 Unilever Plc
+ulti	 -
+ulti	 -
+umbf	 -
+umbf	 -
+umc	 United Microelectronics Corp.
+umh	 Umh Properties
+umh	 Umh Properties
+umpq	 -
+umpq	 -
+un	 Unilever Nv
+un	 Unilever Nv
+unf	 Unifirst Corp.
+unf	 Unifirst Corp.
+unh	 Unitedhealth Group Inc.
+unh	 Unitedhealth Group Inc.
+unm	 Unumprovident Corp.
+unp	 Union Pacific Corp.
+unp	 Union Pacific Corp.
+unt	 Unit Corp.
+unt	 Unit Corp.
+ups	 United Parcel Service
+uri	 United Rentals
+usa	 Liberty All-Star Equity Fund
+usak	 -
+usak	 -
+usap	 -
+usap	 -
+usat	 -
+usat	 -
+usau	 -
+usau	 -
+usb	 U.S. Bancorp
+usb	 U.S. Bancorp
+useg	 -
+useg	 -
+usg	 Usg Corp.
+usg	 Usg Corp.
+usm	 United States Cellular Corp.
+usna	 Usana Health Sciences Inc.
+usrt	 -
+usrt	 -
+utf	 Cohen & Steers Infrastructure Fund
+utf	 Cohen & Steers Infrastructure Fund
+utg	 -
+utg	 -
+uthr	 -
+uthr	 -
+uti	 Universal Technical Institute Inc
+uti	 Universal Technical Institute Inc
+utl	 Unitil Corp.
+utmd	 -
+utmd	 -
+utx	 United Technologies Corp.
+uvv	 Universal Corp.
+valu	 -
+valu	 -
+var	 Varian Medical Systems
+var	 Varian Medical Systems
+vbfc	 -
+vcel	 -
+vcel	 -
+vco	 Vina Concha Y Toro
+vco	 Vina Concha Y Toro
+vicl	 -
+vicl	 -
+vlo	 -
+vlo	 -
+vmc	 -
+vmc	 -
+vmi	 -
+vmi	 -
+vmw	 -
+vno	 -
+vno	 -
+wabc	 -
+wabc	 -
+wac	 Walter Investment Management Corp.
+wac	 Walter Investment Management Corp.
+wal	 Western Alliance Bancorporation
+wat	 Waters Corp.
+wbs	 Webster Financial Corp.
+wbs	 Webster Financial Corp.
+wcc	 -
+wcc	 -
+wcg	 -
+wcg	 -
+wf	 -
+wf	 -
+whr	 -
+whr	 -
+wll	 -
+wll	 -
+wltw	 -
+wltw	 -
+wmt	 -
+wmt	 -
+wpcs	 -
+wpcs	 -
+wppgy	 -
+wppgy	 -
+wrld	 -
+wrld	 -
+wso	 -
+wso	 -
+wtfc	 -
+wtfc	 -
+wtm	 -
+wtm	 -
+wtw	 -
+wtw	 -
+wwr	 -
+wwr	 -
+wynn	 -
+wynn	 -
+x	 United States Steel Corp.
+x	 United States Steel Corp.
+xco	 Exco Resources Nl
+xco	 Exco Resources Nl
+xec	 Cimarex Energy Co
+xl	 Xl Company Switzerland Gmbh
+xl	 Xl Company Switzerland Gmbh
+xom	 Exxon Mobil Corp.
+xoma	 -
+xoma	 -
+xpo	 Express-1 Expedited Solutions
+xray	 -
+xray	 -
+xrm	 Xerium Technologies
+xrm	 Xerium Technologies
+xrx	 Xerox Corp.
+y	 Alleghany Corp.
+ypf	 Ypf Sociedad Anonima
+yten	 -
+yten	 -
+yum	 Yum! Brands
+yuma	 -
+yuma	 -
+zbh	 -
+zbh	 -
+zbra	 -
+zbra	 -
+zeus	 -
+zeus	 -
+zf	 Zweig Fund
+zion	 -
+zion	 -
+znh	 China Southern Airlines Company
+ztr	 Zweig Total Return Fund
+zumz	 -
+zumz	 -
